@@ -9,12 +9,107 @@
  */
 {
   "sections": {
+    "rich_text_8Kzrbt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_x4NUhV": {
+          "type": "heading",
+          "settings": {
+            "title": "Capítulos",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "text_faXKD8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quando Rafaella deu vida às primeiras coleções da Neriage, percebeu que não se via refletida nos conceitos tradicionais do mercado da moda, onde cada coleção narra uma história distinta. Para ela, suas criações são capítulos de um único livro, entrelaçando-se em uma narrativa contínua. Por isso, chamamos nossas coleções de capítulos: cada nova peça é uma extensão da anterior, uma evolução de sua essência. Explore o menu abaixo e mergulhe na nossa história, revelada através de nossos capítulos.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "heading_x4NUhV",
+        "text_faXKD8"
+      ],
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "full",
+        "custom_content_width": 700
+      }
+    },
+    "gallery_carousel_icnCwa": {
+      "type": "gallery-carousel",
+      "blocks": {
+        "image_yzdBAk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_neriage_23.jpg",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 1",
+            "text": "<h3>Ensaio Sobre Nós</h3><p><a href=\"/pages/capitulo-1-ensaio-sobre-nos\" title=\"Capítulo 1 - Ensaio Sobre Nós\">Visitar</a></p>"
+          }
+        },
+        "image_U9ypiJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_neriage_campanha6812_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 2",
+            "text": "<h3>Trilha</h3><p><a href=\"/pages/capitulo-2-trilha\" title=\"Capítulo 2 - Trilha\">Visitar</a></p>"
+          }
+        },
+        "image_qz8RcC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_201022_MM_NERIAGE_0112w_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 3",
+            "text": "<h3>Lampejo</h3><p><a href=\"/pages/capitulo-3-lampejo\" title=\"Capítulo 3 - Lampejo\">Visitar</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_yzdBAk",
+        "image_U9ypiJ",
+        "image_qz8RcC"
+      ],
+      "settings": {
+        "heading": "Navegue pelos capítulos",
+        "heading_tag": "h2",
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "columns": "4",
+        "mobile_columns": "2",
+        "loop_carousel": true,
+        "aspect_ratio": "portrait",
+        "image_caption_style": "overlay",
+        "image_caption_size": "fs-body-100",
+        "overlay_text_background_style": "gradient",
+        "overlay_text_color": "#fff",
+        "overlay_text_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-bottom-only"
+      }
+    },
     "main": {
       "type": "main-page",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "enable_animation": true,
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
     }
   },
   "order": [
+    "rich_text_8Kzrbt",
+    "gallery_carousel_icnCwa",
     "main"
   ]
 }
