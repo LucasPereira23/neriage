@@ -83,6 +83,29 @@
             "expand_by_default": true
           }
         },
+        "product_callouts_RRkiqE": {
+          "type": "product_callouts",
+          "settings": {
+            "title": "",
+            "title_tag": "h3",
+            "add_box": false,
+            "add_dividers": true,
+            "icon_1": "price-tag",
+            "text_1": "<p>5%OFF no PIX</p>",
+            "icon_2": "paper-airplane",
+            "text_2": "",
+            "icon_3": "chat",
+            "text_3": "",
+            "icon_4": "none",
+            "text_4": "",
+            "icon_5": "none",
+            "text_5": "",
+            "icon_6": "chat",
+            "text_6": "",
+            "display_as_collapsible_row": false,
+            "expand_by_default": false
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -132,6 +155,7 @@
         "quantity_selector",
         "buy_buttons",
         "complementary_products",
+        "product_callouts_RRkiqE",
         "description",
         "accordion_FPjABi",
         "accordion_CdJqRy",
