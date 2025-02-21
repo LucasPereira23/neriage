@@ -98,7 +98,7 @@
             "text": "<h3>Noites de Chuva nos Mares do Mundo</h3><p><a href=\"/pages/capitulo-6-noites-de-chuva-nos-mares-do-mundo\" title=\"Capítulo 6 - Noites de Chuva nos Mares do Mundo\">Visitar</a></p>"
           }
         },
-        "image_Q3UwNt": {
+        "image_kP6yT3": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Copia_de_20230117_NERIAGE_1985_1.webp",
@@ -107,13 +107,22 @@
             "text": "<h3>Oásis</h3><p><a href=\"/pages/capitulo-7-oasis\" title=\"Capítulo 7 - Oásis\">Visitar</a></p>"
           }
         },
-        "image_kP6yT3": {
+        "image_Q3UwNt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Copia_de_20230117_NERIAGE_1985_1.webp",
+            "image": "shopify://shop_images/Copia_de_230818_NERIAGE_0254_copy_1.webp",
             "focal_point": "image_presentation",
-            "title": "Capítulo 7",
-            "text": "<h3>Oásis</h3><p><a href=\"/pages/capitulo-7-oasis\" title=\"Capítulo 7 - Oásis\">Visitar</a></p>"
+            "title": "Capítulo 8",
+            "text": "<h3>Cartas para Ítaca</h3><p><a href=\"/pages/capitulo-8-cartas-para-itaca\" title=\"Capítulo 8 - Cartas para Ítaca\">Visitar</a></p>"
+          }
+        },
+        "image_h3jPcX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_Neriage_30_01_24487410829_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 9",
+            "text": "<h3>Arquivo</h3><p><a href=\"/pages/capitulo-9-arquivo\" title=\"Capítulo 9 - Arquivo\">Visitar</a></p>"
           }
         }
       },
@@ -124,8 +133,9 @@
         "image_mp6V3N",
         "image_RmJzXt",
         "image_MWMBJk",
+        "image_kP6yT3",
         "image_Q3UwNt",
-        "image_kP6yT3"
+        "image_h3jPcX"
       ],
       "settings": {
         "heading": "Navegue pelos capítulos",
