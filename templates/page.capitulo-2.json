@@ -192,7 +192,7 @@
         "subheading_y3eiTc": {
           "type": "subheading",
           "settings": {
-            "subheading": "Capítulo 6",
+            "subheading": "Capítulo 2",
             "subheading_tag": "h3",
             "subheading_font_class": "fs-heading-6-base"
           }
@@ -200,7 +200,7 @@
         "heading_9V4CKQ": {
           "type": "heading",
           "settings": {
-            "title": "Oásis",
+            "title": "Trilha",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-2-base"
           }
@@ -208,7 +208,7 @@
         "text_naKbAi": {
           "type": "text",
           "settings": {
-            "text": "<p>Notas sobre o Tempo.<br/><br/>O tempo é um corredor cheio de quadros.<br/>Pinturas de lugares, memórias e sentidos.<br/>O espaço e móvel<br/>As horas são folhas e galhos.<br/>Ondas e espuma.<br/>Que deixamos ao longo da jornada.<br/>Não existe um tempo perfeito. Apenas uma junção de dores. Alegrias e lembranças<br/>Sem elas, não somos o espaço.<br/>Com a sombra delas, não vivemos o espaço.<br/>As imagens produzidas pelo tempo são divididas entre reais e imaginadas.<br/>Essas últimas, as lentas, as mais belas, são as que realmente guardamos na memória.<br/>Os pequenos barcos navegam entre grandes navios.<br/>As tempestades deixam rastros de calma.<br/>Os mares colidem em câmera lenta.<br/>E a água reflete as cores das horas que passaram sem que se pudesse dar conta<br/>Que ainda é meio dia.<br/>Falta ainda meio dia.</p><p>Na temporada de verão 2023, a Neriage se une à Stella Artois para falar sobre a pausa e as imagens produzidas pelo tempo, usando o mar como referência imagética.</p><p>O mar é um grande reflexo do que acontece no céu - que é a mais pura forma de simbologia do tempo.</p><p>Estamos sempre apressados, com urgências, conexões efêmeras e uma rotina frenética. Deixamos de saborear o presente. De valorizar o agora e a qualidade das nossas relações. A nossa percepção de<br/>tempo mudou, o amanhã chega sem nem termos vivido o hoje.</p><p>O estilo de vida Neriage se une ao estilo de vida Stella Artois no encontro da valorizacão do momento. A observação e cuidado com os detalhes, o culto ao tempo.</p><p>Alice Braga, atriz brasileira, é convidada para representar essa parceria.</p>",
+            "text": "<p>Quando comecei a caminhar,<em> </em>não sabia para onde estava indo. Mas acho que essa é a graça de toda trilha, não saber aonde vai dar. O topo das árvores cobria o céu, mas não totalmente. Ainda dava para ouvir o som do vento sobre as copas. Se você fechar os olhos, consegue sentir o Brasil apenas pelo som. Sente pelos pés. \"A trilha é a melhor coisa desse país.\" ouvi por aí. Descobri que o Pindorama está escondido nas pedras. Porque do cerrado à floresta tropical tem cristal em todas as esquinas e a gente brilha em todos os satélites. </p><p>Gente brilha em todos os satélites.</p><p>Trilha não é exatamente sobre pessoas nem lugares, mas sobre o que pouco se percebe sobre eles. Inspirada também nas poesias de Manoel de Barros no livro \"Menino do Mato\", a coleção segue a ideia de ser uma continuação das anteriores, iniciando nos tons de areia e passando pelos tons terrosos, vermelhos, verdes e fechando nos tons de marinho e roxo - como uma vereda por um Brasil vivo, cheio de texturas, curvas e justaposições. Porque como pouco se anda, pouco se conhece daqui:</p><p>\"O Brazil não conhece o Brasil\" e a brava gente brasileira com tanta história nessa terra cor de cobre.\"</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -236,7 +236,7 @@
             "width": "33",
             "height": 620,
             "mobile_height": 500,
-            "image": "shopify://shop_images/Copia_de_neriage_lb_018.jpg",
+            "image": "shopify://shop_images/Copia_de_neriage_campanha6812_1.webp",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -254,10 +254,10 @@
             "link_text": "",
             "button_style": "btn--primary",
             "background_color": "",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 0
           }
@@ -286,10 +286,10 @@
             "link_text": "",
             "button_style": "btn--primary",
             "background_color": "",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 0
           }
@@ -318,10 +318,10 @@
             "link_text": "",
             "button_style": "btn--primary",
             "background_color": "",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 0
           }
@@ -414,10 +414,10 @@
             "link_text": "",
             "button_style": "btn--primary",
             "background_color": "",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 0
           }
@@ -446,10 +446,10 @@
             "link_text": "",
             "button_style": "btn--primary",
             "background_color": "",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 0
           }
@@ -478,10 +478,10 @@
             "link_text": "",
             "button_style": "btn--primary",
             "background_color": "",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 0
           }
