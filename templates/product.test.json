@@ -9,6 +9,71 @@
  */
 {
   "sections": {
+    "countdown_bar_gtF4Qf": {
+      "type": "countdown-bar",
+      "settings": {
+        "min_height": 60,
+        "min_height_mobile": 60,
+        "year": 2025,
+        "month": "april",
+        "day": "1",
+        "hour": "0",
+        "minute": "0",
+        "time_zone_selection": "shop",
+        "hide_timer_on_complete": false,
+        "timer_complete_message": "",
+        "heading": "Countdown bar",
+        "heading_tag": "h4",
+        "text": "<p>Use this timer to create urgency and boost sales.</p>",
+        "link": "shopify://collections",
+        "link_text": "Button",
+        "button_style": "btn--secondary",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "text_color": "#FFFFFF",
+        "button_background_color": "#FFFFFF",
+        "button_text_color": "#000000",
+        "background_color": "#C51C26",
+        "color_overlay": "#000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "full_width": false,
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "rich_text_cpf9pE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NzaYTL": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "text_EmBaiD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NzaYTL",
+        "text_EmBaiD"
+      ],
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "full",
+        "custom_content_width": 700
+      }
+    },
     "main": {
       "type": "main-product--default",
       "blocks": {
@@ -283,6 +348,8 @@
     }
   },
   "order": [
+    "countdown_bar_gtF4Qf",
+    "rich_text_cpf9pE",
     "main",
     "product_tabs",
     "recommendations"
