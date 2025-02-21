@@ -108,12 +108,13 @@
         },
         "accordion_CdJqRy": {
           "type": "accordion",
+          "disabled": true,
           "settings": {
             "expand_by_default": false,
             "column_placement": "right",
             "heading": "Cuidados",
             "heading_tag": "h3",
-            "content": "{{ product.metafields.custom.cuidados | metafield_tag }}",
+            "content": "{{ product.metafields.custom.cuidados_tipos.value.cuidados_texto | metafield_tag }}",
             "page_for_content": "",
             "custom_liquid": ""
           }
