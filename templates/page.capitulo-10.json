@@ -170,7 +170,7 @@
         "image_caption_style": "overlay",
         "image_caption_size": "fs-body-100",
         "overlay_text_background_style": "gradient",
-        "overlay_text_color": "#fff",
+        "overlay_text_color": "#ffffff",
         "overlay_text_background": "#000000",
         "enable_animation": true,
         "divider_style": "none",
@@ -185,11 +185,142 @@
         "content_width": "custom",
         "custom_content_width": 700
       }
+    },
+    "rich_text_pHjUjb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_y3eiTc": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Capítulo 11",
+            "subheading_tag": "h3",
+            "subheading_font_class": "fs-heading-6-base"
+          }
+        },
+        "heading_9V4CKQ": {
+          "type": "heading",
+          "settings": {
+            "title": "Andrômeda",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "text_naKbAi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_y3eiTc",
+        "heading_9V4CKQ",
+        "text_naKbAi"
+      ],
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "full",
+        "custom_content_width": 700
+      }
+    },
+    "video_mF9azV": {
+      "type": "video",
+      "blocks": {
+        "heading_q69frY": {
+          "type": "heading",
+          "settings": {
+            "title": "Video",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "text_YwRYT7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this section to promote a particular feature with editorial video.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "play_button_E89R4a": {
+          "type": "play-button",
+          "settings": {
+            "text": "Watch now",
+            "button_layout": "full",
+            "icon_style": "outline"
+          }
+        }
+      },
+      "block_order": [
+        "heading_q69frY",
+        "text_YwRYT7",
+        "play_button_E89R4a"
+      ],
+      "settings": {
+        "video_source": "external",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "loop": false,
+        "media_aspect_ratio": "landscape_wide_alt",
+        "focal_point": "image_presentation",
+        "text_position": "center_center",
+        "text_position_mobile": "center",
+        "button_background_color": "#FFF",
+        "color_overlay": "#000",
+        "color_overlay_text": "#FFF",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 40,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-top-only"
+      }
+    },
+    "featured_collection_slider_MEtXRz": {
+      "type": "featured-collection-slider",
+      "blocks": {
+        "collection_FTfPG4": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "andromeda",
+            "collection_name": "{{ block.settings.collection.title }}"
+          }
+        },
+        "collection_ty34Ae": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "neriage-ryzi",
+            "collection_name": "{{ block.settings.collection.title }}"
+          }
+        }
+      },
+      "block_order": [
+        "collection_FTfPG4",
+        "collection_ty34Ae"
+      ],
+      "settings": {
+        "heading": "Conheça a coleção",
+        "heading_tag": "h2",
+        "subheading": "",
+        "link": "shopify://collections/andromeda",
+        "link_text": "Ver tudo",
+        "maximum_products": 8,
+        "columns": "4",
+        "mobile_columns": "1",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
     }
   },
   "order": [
     "rich_text_8Kzrbt",
     "gallery_carousel_icnCwa",
-    "main"
+    "main",
+    "rich_text_pHjUjb",
+    "video_mF9azV",
+    "featured_collection_slider_MEtXRz"
   ]
 }
