@@ -192,7 +192,7 @@
         "subheading_y3eiTc": {
           "type": "subheading",
           "settings": {
-            "subheading": "Capítulo 4",
+            "subheading": "Capítulo 1",
             "subheading_tag": "h3",
             "subheading_font_class": "fs-heading-6-base"
           }
@@ -200,7 +200,7 @@
         "heading_9V4CKQ": {
           "type": "heading",
           "settings": {
-            "title": "Sonar",
+            "title": "Ensaio Sobre Nós",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-2-base"
           }
@@ -208,7 +208,7 @@
         "text_naKbAi": {
           "type": "text",
           "settings": {
-            "text": "<p>\"Aprendi a gostar das flores tanto quanto das falhas geológicas\".<br/>Trecho do longa metragem \"Viajo porque preciso, volto porque te amo\", de Marcelo Gomes e Karim Ainouz, 2009.</p><p>Essa é a primeira coleção (ou capítulo, como gosto de chamar), que não fala sobre pessoas relações ou movimentos. Achei que não faria sentido falar de algo que não fosse o sentimento de saudade e a intimidade que desenvolvemos com os objetos e barulhos ao nosso redor. Ou mesmo a liberdade que inventamos ao dançar na nossa casa e correr em pensamento.</p><p>Mircea Cartärescu, no livro Nostalgia, relata que tem sonhos enormes, coloridos em demência, cheios de sensações que jamais experimentou na realidade. Penso que os sonhos e essas sensações são, na verdade, o que temos de mais próximo da realidade. \"A imaginação não é, como sugere a etimologia, a faculdade de formar imagens da realidade; ela é a faculdade de formar imagens que ultrapassam a realidade, que cantam a realidade.\"</p><p>O verdadeiro conceito de imaginação, defendido pelo filósofo francês Gaston Bachelard, é a imaginação viva, que cede e conflita com a matéria, traz a concretude do mundo para o campo da criação.</p><p>No capítulo Sonar, nova coleção de verão 2022 da Neriage, procuramos reimaginar nossas peças clássicas em formas e cores que harmonizam as ideias de quebra e fluidez. A sensação de nostalgia que nos acompanhou durante todo o processo foi refletida nos detalhes de costuras cruzadas, botões e aviamentos antigos. Alguns plissados também aparecem cruzados e os drapeados por vezes trabalhados em lados opostos. Os volumes pontuais nas modelagens e e as cores envelhecidas remetem a imaginação ativa do passado presente.</p><p>A obra \"Sentimental Journey\", do fotógrafo japonês Nobuyoshi Araki, que traz o retrato de sua esposa deitada sobre um velho barco, foi o ponto de inspiração para a concepção do material audiovisual - que reflete o sentimento de pertencimento ao ambiente, em constraste com o desejo de liberdade que sempre ecoa.</p><p>A coleção ainda conta com sapatos desenvolvidos em parceria com a Bluebird Shoes e peças estampadas com obras da artista Gabriella Garcia, nossa convidada nessa edição.</p>",
+            "text": "<p>Como dizia o filósofo e poeta francês Gaston Bachelard, <em>imaginar é aumentar o real em um tom</em>.<br/>E imaginar é se movimentar em direção a algo que foge das vãs imagens criadas pela mente, ou o que nos foi ensinado.<br/>Imaginar é sonho, e o sonho é uma necessidade humana maior do que a própria realidade.<br/>Imaginação é movimento. E é sobre esse movimento que pretendemos falar.<br/>Para isso, trazemos duas simbologias principais.</p><p>A dança, que é a poesia em movimento. O corpo materializa o devaneio e o ser quase que desaparece, torna-se energia.  Pina Bausch, coreógrafa e dançarina alemã (1940-2009),  e a dança teatro emprestam referências para a cartela de cores, formas e tecidos utilizados.<br/>Mas movimento não necessariamente é andar em direção a algo. Resistir também é uma forma de movimento. Por isso, além da dança, também trazemos a natureza como simbologia. As texturas e bordados desenvolvidos são inspirados em algumas das plantas mais resilientes do mundo.</p><p>Por fim, tratando-se de movimento, não poderíamos deixar de falar de um movimento também pessoal. As roupas são vivas, passam por diversas pessoas e etapas de produção. Carregam uma história própria e de cada um que contribuiu para a sua construção. Por isso, a coleção recebe o nome de <em>Ensaio sobre nós</em>.</p><p> A ideia de movimento é refletida através dos detalhes, texturas, assimetrias e contrastes de leveza e peso nos tecidos. A cartela de cores é construída de forma gradual, iniciando nos tons de off-white, atingindo os tons de vermelho e fechando nos tons de preto. Como o início, auge e fim de uma dança. </p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -243,10 +243,11 @@
         "play_button_E89R4a"
       ],
       "settings": {
-        "video_source": "external",
-        "video_url": "https://youtu.be/YwZw4aEV6Fw?t=38",
+        "video_source": "shopify",
+        "video": "shopify://files/videos/Cópia de Cópia de NERIAGE_001.mp4",
+        "video_url": "",
         "loop": false,
-        "media_aspect_ratio": "landscape_wide_alt",
+        "media_aspect_ratio": "portrait_alt",
         "focal_point": "image_presentation",
         "text_position": "center_center",
         "text_position_mobile": "center",
