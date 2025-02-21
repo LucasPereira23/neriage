@@ -70,12 +70,62 @@
             "title": "Capítulo 3",
             "text": "<h3>Lampejo</h3><p><a href=\"/pages/capitulo-3-lampejo\" title=\"Capítulo 3 - Lampejo\">Visitar</a></p>"
           }
+        },
+        "image_mp6V3N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_210606_MM_NERIAGE_0551.jpg",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 4",
+            "text": "<h3>Sonar</h3><p><a href=\"/pages/capitulo-4-sonar\" title=\"Capítulo 4 - Sonar\">Visitar</a></p>"
+          }
+        },
+        "image_RmJzXt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_NERIAGE_0-16_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 5",
+            "text": "<h3>Argos</h3><p><a href=\"/pages/capitulo-5-argos\" title=\"Capítulo 5 - Argos\">Visitar</a></p>"
+          }
+        },
+        "image_MWMBJk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_neriage_lb_002_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 6",
+            "text": "<h3>Noites de Chuva nos Mares do Mundo</h3><p><a href=\"/pages/capitulo-6-noites-de-chuva-nos-mares-do-mundo\" title=\"Capítulo 6 - Noites de Chuva nos Mares do Mundo\">Visitar</a></p>"
+          }
+        },
+        "image_Q3UwNt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_20230117_NERIAGE_1985_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 7",
+            "text": "<h3>Oásis</h3><p><a href=\"/pages/capitulo-7-oasis\" title=\"Capítulo 7 - Oásis\">Visitar</a></p>"
+          }
+        },
+        "image_kP6yT3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_20230117_NERIAGE_1985_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 7",
+            "text": "<h3>Oásis</h3><p><a href=\"/pages/capitulo-7-oasis\" title=\"Capítulo 7 - Oásis\">Visitar</a></p>"
+          }
         }
       },
       "block_order": [
         "image_yzdBAk",
         "image_U9ypiJ",
-        "image_qz8RcC"
+        "image_qz8RcC",
+        "image_mp6V3N",
+        "image_RmJzXt",
+        "image_MWMBJk",
+        "image_Q3UwNt",
+        "image_kP6yT3"
       ],
       "settings": {
         "heading": "Navegue pelos capítulos",
