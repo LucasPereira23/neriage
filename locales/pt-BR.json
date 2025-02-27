@@ -202,7 +202,8 @@
       "password": "Senha",
       "submit": "Criar",
       "success": "Sua conta foi registrada com sucesso",
-      "title": "Criar Conta"
+      "title": "Criar Conta",
+      "birthday": "Aniversário"
     },
     "reset_password": {
       "password": "Senha",

@@ -202,7 +202,8 @@
       "password": "Password",
       "submit": "Create",
       "success": "Your account was successfully registered",
-      "title": "Create Account"
+      "title": "Create Account",
+      "birthday": "Birthday"
     },
     "reset_password": {
       "password": "Password",

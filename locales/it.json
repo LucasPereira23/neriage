@@ -193,7 +193,8 @@
       "password": "Password",
       "submit": "Crea",
       "success": "Il tuo account è stato registrato con successo",
-      "title": "Crea account"
+      "title": "Crea account",
+      "birthday": "Compleanno"
     },
     "reset_password": {
       "password": "Password",

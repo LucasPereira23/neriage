@@ -39,6 +39,17 @@
           autocomplete="family-name"
         >
 
+        <label for="{{ formId }}-aniversario">{{ 'customer.register.birthday' | t }}</label>
+        <input
+          type="date"
+          name="customer[note][aniversario]"
+          id="{{ formId }}-aniversario"
+          class="input"
+          {% if customer.note.aniversario %}
+            value="{{ customer.note.aniversario }}"
+          {% endif %}
+        >
+
         <label for="{{ formId }}-email">{{ 'customer.register.email' | t }}</label>
         <input
           type="email"

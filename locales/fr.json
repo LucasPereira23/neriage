@@ -193,7 +193,8 @@
       "password": "Mot de passe",
       "submit": "Créer",
       "success": "Votre compte a été activé avec succès",
-      "title": "Créer un compte"
+      "title": "Créer un compte",
+      "birthday": "Anniversaire"
     },
     "reset_password": {
       "password": "Mot de passe",

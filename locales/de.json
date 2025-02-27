@@ -193,7 +193,8 @@
       "password": "Kennwort",
       "submit": "erstellen.",
       "success": "Ihr Konto wurde erfolgreich aktiviert",
-      "title": "Konto erstellen"
+      "title": "Konto erstellen",
+      "birthday": "Geburtstag"
     },
     "reset_password": {
       "password": "Kennwort",
