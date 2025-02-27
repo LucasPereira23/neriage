@@ -9,6 +9,71 @@
  */
 {
   "sections": {
+    "countdown_bar_gtF4Qf": {
+      "type": "countdown-bar",
+      "settings": {
+        "min_height": 60,
+        "min_height_mobile": 60,
+        "year": 2025,
+        "month": "april",
+        "day": "1",
+        "hour": "0",
+        "minute": "0",
+        "time_zone_selection": "shop",
+        "hide_timer_on_complete": false,
+        "timer_complete_message": "",
+        "heading": "Countdown bar",
+        "heading_tag": "h4",
+        "text": "<p>Use this timer to create urgency and boost sales.</p>",
+        "link": "shopify://collections",
+        "link_text": "Button",
+        "button_style": "btn--secondary",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "text_color": "#FFFFFF",
+        "button_background_color": "#FFFFFF",
+        "button_text_color": "#000000",
+        "background_color": "#C51C26",
+        "color_overlay": "#000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "full_width": false,
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "rich_text_cpf9pE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NzaYTL": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "text_EmBaiD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NzaYTL",
+        "text_EmBaiD"
+      ],
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "full",
+        "custom_content_width": 700
+      }
+    },
     "main": {
       "type": "main-product--default",
       "blocks": {
@@ -75,35 +140,12 @@
             "heading": "Combina com",
             "heading_tag": "h3",
             "column_placement": "right",
-            "max_products": 1,
+            "max_products": 3,
             "product_source": "app-recommendations",
             "product_list": [],
             "enable_swiper_mobile": true,
             "display_as_collapsible_row": false,
             "expand_by_default": true
-          }
-        },
-        "product_callouts_RRkiqE": {
-          "type": "product_callouts",
-          "settings": {
-            "title": "",
-            "title_tag": "h3",
-            "add_box": false,
-            "add_dividers": true,
-            "icon_1": "price-tag",
-            "text_1": "<p>5%OFF no PIX</p>",
-            "icon_2": "paper-airplane",
-            "text_2": "",
-            "icon_3": "chat",
-            "text_3": "",
-            "icon_4": "none",
-            "text_4": "",
-            "icon_5": "none",
-            "text_5": "",
-            "icon_6": "chat",
-            "text_6": "",
-            "display_as_collapsible_row": false,
-            "expand_by_default": false
           }
         },
         "description": {
@@ -131,13 +173,12 @@
         },
         "accordion_CdJqRy": {
           "type": "accordion",
-          "disabled": true,
           "settings": {
             "expand_by_default": false,
             "column_placement": "right",
             "heading": "Cuidados",
             "heading_tag": "h3",
-            "content": "{{ product.metafields.custom.cuidados_tipos.value.cuidados_texto | metafield_tag }}",
+            "content": "",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -155,7 +196,6 @@
         "quantity_selector",
         "buy_buttons",
         "complementary_products",
-        "product_callouts_RRkiqE",
         "description",
         "accordion_FPjABi",
         "accordion_CdJqRy",
@@ -308,6 +348,8 @@
     }
   },
   "order": [
+    "countdown_bar_gtF4Qf",
+    "rich_text_cpf9pE",
     "main",
     "product_tabs",
     "recommendations"

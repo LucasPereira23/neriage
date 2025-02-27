@@ -1,0 +1,520 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_8Kzrbt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_x4NUhV": {
+          "type": "heading",
+          "settings": {
+            "title": "Capítulos",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "text_faXKD8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quando Rafaella deu vida às primeiras coleções da Neriage, percebeu que não se via refletida nos conceitos tradicionais do mercado da moda, onde cada coleção narra uma história distinta. Para ela, suas criações são capítulos de um único livro, entrelaçando-se em uma narrativa contínua. Por isso, chamamos nossas coleções de capítulos: cada nova peça é uma extensão da anterior, uma evolução de sua essência. Explore o menu abaixo e mergulhe na nossa história, revelada através de nossos capítulos.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "heading_x4NUhV",
+        "text_faXKD8"
+      ],
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "full",
+        "custom_content_width": 700
+      }
+    },
+    "gallery_carousel_icnCwa": {
+      "type": "gallery-carousel",
+      "blocks": {
+        "image_yzdBAk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_neriage_23.jpg",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 1",
+            "text": "<h3>Ensaio Sobre Nós</h3><p><a href=\"/pages/capitulo-1-ensaio-sobre-nos\" title=\"Capítulo 1 - Ensaio Sobre Nós\">Visitar</a></p>"
+          }
+        },
+        "image_U9ypiJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_neriage_campanha6812_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 2",
+            "text": "<h3>Trilha</h3><p><a href=\"/pages/capitulo-2-trilha\" title=\"Capítulo 2 - Trilha\">Visitar</a></p>"
+          }
+        },
+        "image_qz8RcC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_201022_MM_NERIAGE_0112w_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 3",
+            "text": "<h3>Lampejo</h3><p><a href=\"/pages/capitulo-3-lampejo\" title=\"Capítulo 3 - Lampejo\">Visitar</a></p>"
+          }
+        },
+        "image_mp6V3N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_210606_MM_NERIAGE_0551.jpg",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 4",
+            "text": "<h3>Sonar</h3><p><a href=\"/pages/capitulo-4-sonar\" title=\"Capítulo 4 - Sonar\">Visitar</a></p>"
+          }
+        },
+        "image_RmJzXt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_NERIAGE_0-16_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 5",
+            "text": "<h3>Argos</h3><p><a href=\"/pages/capitulo-5-argos\" title=\"Capítulo 5 - Argos\">Visitar</a></p>"
+          }
+        },
+        "image_MWMBJk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_neriage_lb_002_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 6",
+            "text": "<h3>Noites de Chuva nos Mares do Mundo</h3><p><a href=\"/pages/capitulo-6-noites-de-chuva-nos-mares-do-mundo\" title=\"Capítulo 6 - Noites de Chuva nos Mares do Mundo\">Visitar</a></p>"
+          }
+        },
+        "image_kP6yT3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_20230117_NERIAGE_1985_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 7",
+            "text": "<h3>Oásis</h3><p><a href=\"/pages/capitulo-7-oasis\" title=\"Capítulo 7 - Oásis\">Visitar</a></p>"
+          }
+        },
+        "image_Q3UwNt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_230818_NERIAGE_0254_copy_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 8",
+            "text": "<h3>Cartas para Ítaca</h3><p><a href=\"/pages/capitulo-8-cartas-para-itaca\" title=\"Capítulo 8 - Cartas para Ítaca\">Visitar</a></p>"
+          }
+        },
+        "image_h3jPcX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_Neriage_30_01_24487410829_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 9",
+            "text": "<h3>Arquivo</h3><p><a href=\"/pages/capitulo-9-arquivo\" title=\"Capítulo 9 - Arquivo\">Visitar</a></p>"
+          }
+        },
+        "image_UTFF7K": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_NERIAGE_SS25056212017_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 10",
+            "text": "<h3>Andrômeda</h3><p><a href=\"/pages/capitulo-10-andromeda\" title=\"Capítulo 10 - Andrômeda\">Visitar</a></p>"
+          }
+        },
+        "image_AJVbta": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_blusa_e_saia_fogo_3_1.webp",
+            "focal_point": "image_presentation",
+            "title": "Capítulo 11",
+            "text": "<h3>2046</h3><p><a href=\"/pages/capitulo-11-2046\" title=\"Capítulo 11 - 2046\">Visitar</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_yzdBAk",
+        "image_U9ypiJ",
+        "image_qz8RcC",
+        "image_mp6V3N",
+        "image_RmJzXt",
+        "image_MWMBJk",
+        "image_kP6yT3",
+        "image_Q3UwNt",
+        "image_h3jPcX",
+        "image_UTFF7K",
+        "image_AJVbta"
+      ],
+      "settings": {
+        "heading": "Navegue pelos capítulos",
+        "heading_tag": "h2",
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "columns": "4",
+        "mobile_columns": "2",
+        "loop_carousel": true,
+        "aspect_ratio": "portrait",
+        "image_caption_style": "overlay",
+        "image_caption_size": "fs-body-100",
+        "overlay_text_background_style": "gradient",
+        "overlay_text_color": "#ffffff",
+        "overlay_text_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-bottom-only"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "enable_animation": true,
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    },
+    "rich_text_pHjUjb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_y3eiTc": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Capítulo 2",
+            "subheading_tag": "h3",
+            "subheading_font_class": "fs-heading-6-base"
+          }
+        },
+        "heading_9V4CKQ": {
+          "type": "heading",
+          "settings": {
+            "title": "Trilha",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "text_naKbAi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quando comecei a caminhar,<em> </em>não sabia para onde estava indo. Mas acho que essa é a graça de toda trilha, não saber aonde vai dar. O topo das árvores cobria o céu, mas não totalmente. Ainda dava para ouvir o som do vento sobre as copas. Se você fechar os olhos, consegue sentir o Brasil apenas pelo som. Sente pelos pés. \"A trilha é a melhor coisa desse país.\" ouvi por aí. Descobri que o Pindorama está escondido nas pedras. Porque do cerrado à floresta tropical tem cristal em todas as esquinas e a gente brilha em todos os satélites. </p><p>Gente brilha em todos os satélites.</p><p>Trilha não é exatamente sobre pessoas nem lugares, mas sobre o que pouco se percebe sobre eles. Inspirada também nas poesias de Manoel de Barros no livro \"Menino do Mato\", a coleção segue a ideia de ser uma continuação das anteriores, iniciando nos tons de areia e passando pelos tons terrosos, vermelhos, verdes e fechando nos tons de marinho e roxo - como uma vereda por um Brasil vivo, cheio de texturas, curvas e justaposições. Porque como pouco se anda, pouco se conhece daqui:</p><p>\"O Brazil não conhece o Brasil\" e a brava gente brasileira com tanta história nessa terra cor de cobre.\"</p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_y3eiTc",
+        "heading_9V4CKQ",
+        "text_naKbAi"
+      ],
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "full",
+        "custom_content_width": 700
+      }
+    },
+    "grid_JHKNEa": {
+      "type": "grid",
+      "blocks": {
+        "item_RCBKMC": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 620,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_neriage_campanha6812_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_nnmYw9": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 620,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_neriage_campanha6722_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_aDJpGR": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 620,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_neriage_campanha6771_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_LTTfkz": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 600,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_neriage_campanha6931_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_qYbBdA": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 600,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_neriage_campanha6842_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_BzEbi9": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 620,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_neriage_campanha6752_1_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_KwECXy": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 620,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_neriage_campanha6900_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_CKybq9": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 620,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_neriage_campanha6759_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_RCBKMC",
+        "item_nnmYw9",
+        "item_aDJpGR",
+        "item_LTTfkz",
+        "item_qYbBdA",
+        "item_BzEbi9",
+        "item_KwECXy",
+        "item_CKybq9"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_tag": "h2",
+        "subheading": "",
+        "content_alignment": "left",
+        "enable_animation": true,
+        "full_width": true,
+        "spacing": 0,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-none"
+      }
+    }
+  },
+  "order": [
+    "rich_text_8Kzrbt",
+    "gallery_carousel_icnCwa",
+    "main",
+    "rich_text_pHjUjb",
+    "grid_JHKNEa"
+  ]
+}
