@@ -100,6 +100,33 @@
 
     {{ '//www.youtube.com/iframe_api' | script_tag }}
     {{ '//cdn.shopify.com/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css' | stylesheet_tag }}
+
+    {% comment %} <script>
+      fetch("https://viacep.com.br/ws/16058-605/json")
+        .then(response => response.json())
+        .then(data => console.log("Endereço via CEP:", JSON.stringify(data, null, 2)))
+        .catch(error => console.error("Erro ao buscar CEP:", error));
+
+      const shippingData = new URLSearchParams({
+        "shipping_address[zip]": "16058-605",
+        "shipping_address[province]": "São Paulo",
+        "shipping_address[country]": "Brazil"
+      });
+
+      fetch("https://neriage.com.br/cart/prepare_shipping_rates", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: shippingData
+      })
+        .then(response => response.json())
+        .then(data => console.log("Shipping Rates Prepare:", data))
+        .catch(error => console.error("Erro ao buscar frete (prepare):", error));
+
+      fetch("https://neriage.com.br/cart/async_shipping_rates")
+        .then(response => response.json())
+        .then(data => console.log("Async Shipping Rates:", JSON.stringify(data, null, 2)))
+        .catch(error => console.error("Erro ao buscar frete (async):", error));
+    </script> {% endcomment %}
   </body>
   <link
     rel="preload"
