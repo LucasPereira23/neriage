@@ -1,1 +1,801 @@
-{"sections":{"video_hero_HG6e4H":{"type":"video-hero","blocks":{"accent_jPjFtV":{"type":"accent","settings":{"accent":"Accent"}},"heading_h6Wane":{"type":"heading","settings":{"title":"Video hero","heading_tag":"h2","heading_font_class":"fs-heading-display-2"}},"text_YCXWQR":{"type":"text","settings":{"text":"<p>Use this section to promote a particular feature with editorial video.<\/p>","text_font_class":"fs-body-100"}},"play_button_acLKtJ":{"type":"play-button","settings":{"video_source":"external","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","aspect_ratio":"square","text":"Watch now","icon_style":"outline"}}},"block_order":["accent_jPjFtV","heading_h6Wane","text_YCXWQR","play_button_acLKtJ"],"disabled":true,"settings":{"image_aspect":"custom","desktop_height":100,"mobile_height":100,"media_link":"","focal_point":"image_presentation","focal_point_mobile":"image_presentation","text_position":"center_center","text_position_mobile":"center_center","text_color":"#ffffff","button_background_color":"#ffffff","button_text_color":"#000000","color_overlay":"#000000","color_overlay_gradient":"","overlay_opacity":40,"enable_animation":true,"section_padding":"section--vertical-padding-none"}},"slideshow_wagQkb":{"type":"slideshow","blocks":{"slide_mJJXqN":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/NERIAGE_15_10_20241116.jpg","focal_point":"image_presentation","mobile_focal_point":"image_presentation","media_link":"","text_position":"center_center","text_position_mobile":"center_center","accent":"","title":"Slide","heading_tag":"h2","heading_font_class":"fs-heading-display-2","subheading":"","subheading_tag":"h3","subheading_font_class":"fs-heading-5-base","text":"<p>Use this section to make a bold statement<\/p>","text_font_class":"fs-body-100","link_1":"","link_text_1":"Read more","button_style_1":"btn--primary","link_2":"","link_text_2":"Read more","button_style_2":"btn--primary","text_color":"#ffffff","button_background_color":"#ffffff","button_text_color":"#000000","color_overlay":"#000000","color_overlay_gradient":"","overlay_opacity":66}},"slide_TGpj7x":{"type":"slide","settings":{"focal_point":"image_presentation","mobile_focal_point":"image_presentation","media_link":"","text_position":"center_center","text_position_mobile":"center_center","accent":"","title":"Slide","heading_tag":"h2","heading_font_class":"fs-heading-display-2","subheading":"","subheading_tag":"h3","subheading_font_class":"fs-heading-5-base","text":"<p>Use this section to make a bold statement<\/p>","text_font_class":"fs-body-100","link_1":"","link_text_1":"Read more","button_style_1":"btn--primary","link_2":"","link_text_2":"Read more","button_style_2":"btn--primary","text_color":"#ffffff","button_background_color":"#ffffff","button_text_color":"#000000","color_overlay":"#000000","color_overlay_gradient":"","overlay_opacity":40}}},"block_order":["slide_mJJXqN","slide_TGpj7x"],"disabled":true,"settings":{"image_aspect":"custom","desktop_height":100,"mobile_height":100,"enable_autoplay":true,"duration_autoplay":6,"navigation_alignment":"center","navigation_color_foreground":"#ffffff","navigation_color_background":"rgba(0,0,0,0)","navigation_background_opacity":100,"enable_animation":true,"section_padding":"none"}},"image_hero_split":{"type":"image-hero-split","blocks":{"image_1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/EmptyName_1_32b0c6d6-67f1-4d87-8f9c-17cc9eddfb40.jpg","focal_point":"image_presentation","mobile_focal_point":"image_presentation","title":"Novas Camisas","heading_tag":"h2","text":"","link":"shopify:\/\/collections\/camisas","link_text":"Compre Agora","button_style":"btn--secondary"}},"image_2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/NERIAGE_15_10_20240546.jpg","focal_point":"top","mobile_focal_point":"center","title":"On Sale","heading_tag":"h2","text":"","link":"shopify:\/\/collections\/sale","link_text":"Explorar","button_style":"btn--secondary"}}},"block_order":["image_1","image_2"],"settings":{"image_aspect":"custom","desktop_height":100,"mobile_height":75,"text_position":"center","text_color":"#fcfcf9","button_background_color":"#ffffff","button_text_color":"#000000","color_overlay":"#000000","color_overlay_gradient":"","overlay_opacity":17,"enable_animation":true,"section_padding":"section--vertical-padding-none"}},"sales_banner":{"type":"sales-banner","settings":{"min_height":200,"min_height_mobile":400,"sale_type":"Até","sale_amount":"50% off","sale_unit":"none","terms_and_conditions":"","terms_vertical_offset":20,"sale_font_size":80,"sale_font_size_mobile":70,"currency_symbol_position":"before","heading":"ON SALE","heading_tag":"h2","heading_font_class":"fs-heading-3-base","text":"<p>Coleções anteriores com 50% OFF<\/p>","link":"shopify:\/\/collections\/sale","link_text":"Clieque e Descubra","button_style":"btn--callout","link_2":"","link_text_2":"","button_style_2":"btn--secondary","focal_point":"image_presentation","mobile_focal_point":"center","text_color":"#fcfcf9","button_background_color":"#ffffff","button_text_color":"#242526","background_color":"#242526","color_overlay":"#000000","color_overlay_gradient":"","overlay_opacity":61,"layout":"two-columns","enable_animation":true,"show_frame":false,"full_width":true,"section_padding":"section--vertical-padding-none"}},"featured_collection_grid_yCeHwq":{"type":"featured-collection-grid","blocks":{"collection_7bAg3a":{"type":"collection","settings":{"collection":"sale"}}},"block_order":["collection_7bAg3a"],"settings":{"heading":"","heading_tag":"h2","subheading":"<h6>Sale Neriage<\/h6>","link":"shopify:\/\/collections\/sale","link_text":"Ver todos","maximum_collections":8,"columns":"4","mobile_columns":"2","enable_animation":true,"divider_style":"none","section_padding":"section--vertical-padding-none"}},"featured_collection_slider_aGJbt3":{"type":"featured-collection-slider","blocks":{"collection_AGqDDE":{"type":"collection","settings":{"show_view_all":true,"collection":"plissados","collection_name":"Plissados"}},"collection_wV8TPi":{"type":"collection","settings":{"show_view_all":true,"collection":"classicos","collection_name":"Clássicos"}}},"block_order":["collection_AGqDDE","collection_wV8TPi"],"settings":{"heading":"","heading_tag":"h2","subheading":"<h6>Coleções Perenes<\/h6>","link":"","link_text":"","maximum_products":8,"columns":"4","mobile_columns":"2","enable_animation":true,"divider_style":"none","section_padding":"section--vertical-padding-bottom-only"}},"shoppable_feature_xWX7DV":{"type":"shoppable-feature","blocks":{"hotspot_yXg943":{"type":"hotspot","settings":{"product_item":"kimono-abissal","horizontal_position":56,"vertical_position":76}},"hotspot_gzMNmP":{"type":"hotspot","settings":{"product_item":"saia-abissal","horizontal_position":50,"vertical_position":44}}},"block_order":["hotspot_yXg943","hotspot_gzMNmP"],"settings":{"image":"shopify:\/\/shop_images\/NERIAGE_SS25010311985.jpg","image_position":"left","image_size":55,"aspect_ratio":"portrait_alt","heading":"Abissal","heading_tag":"h2","subheading":"<p>Inspirada na obra \"Abyssal\", da aclamada artista Regina Silveira, localizada na Polônia. Combinando arte e moda, estas peças encapsulam a profundidade e a complexidade do trabalho de Regina, traduzidas em um design sofisticado e moderno.<\/p>","link":"","link_text":"","button_style":"btn--callout","enable_animation":true,"divider_style":"none","section_padding":"section--vertical-padding-none","content_position_desktop":"inside"}},"collection_list_slider":{"type":"collection-list-slider","settings":{"heading":"","heading_tag":"h2","subheading":"<h6>Explore<\/h6>","link":"","link_text":"","columns":"4","mobile_columns":"2","collection_list":["alfaiataria","blusas-1","saias","oasis","vestidos","casacos"],"collection_listing_aspect_ratio":"portrait","label_style":"overlay","overlay_title_background_style":"solid","overlay_text_color":"#f7f7e8","overlay_title_background":"#000000","enable_animation":true,"divider_style":"none","section_padding":"section--vertical-padding-top-bottom"}},"image_hero_1":{"type":"image-hero","blocks":{"accent":{"type":"accent","settings":{"accent":"Conheça"}},"heading":{"type":"heading","settings":{"title":"Coleção Andrômeda","heading_tag":"h2","heading_font_class":"fs-heading-display-1"}},"text":{"type":"text","settings":{"text":"<p>Andrômeda, uma galáxia espiral localizada a 2,4 milhões de anos-luz distante da Terra.Andrômeda é, também, o novo capítulo da Neriage.<\/p>","text_font_class":"fs-body-100"}},"button":{"type":"button","settings":{"link":"shopify:\/\/collections\/andromeda","link_text":"Ver Agora","button_style":"btn--callout"}}},"block_order":["accent","heading","text","button"],"settings":{"image_aspect":"custom","desktop_height":70,"mobile_height":80,"image":"shopify:\/\/shop_images\/neriage_andromeda_24_289.jpg","focal_point":"center","mobile_focal_point":"image_presentation","media_link":"","text_position":"flex-start_flex-end","text_position_mobile":"flex-start_flex-end","text_color":"#ffffff","button_background_color":"#ffffff","button_text_color":"#000000","color_overlay":"#000000","color_overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0.35) 4%, rgba(9, 9, 9, 0.52) 49%, rgba(0, 0, 0, 1) 98%)","overlay_opacity":60,"enable_animation":true,"section_padding":"section--vertical-padding-none"}},"featured_collection_slider_1":{"type":"featured-collection-slider","blocks":{"collection":{"type":"collection","settings":{"show_view_all":true,"collection":"andromeda","collection_name":"Andrômeda"}}},"block_order":["collection"],"settings":{"heading":"","heading_tag":"h2","subheading":"<h6>Andrômeda<\/h6>","link":"shopify:\/\/collections\/andromeda","link_text":"Ver tudo","maximum_products":6,"columns":"4","mobile_columns":"2","enable_animation":true,"divider_style":"none","section_padding":"section--vertical-padding-none"}},"grid":{"type":"grid","blocks":{"item_1":{"type":"item","settings":{"width":"50","height":580,"mobile_height":480,"image":"shopify:\/\/shop_images\/NERIAGE_15_10_20240884_4d5ac6e3-8e81-4a2f-86e0-e0c28fffab5d.jpg","media_fit":"cover","focal_point":"top","mobile_focal_point":"image_presentation","text_position":"flex-start_flex-start","accent":"Accent","title":"Grid item","heading_tag":"h3","heading_font_class":"fs-heading-1-base","subheading":"","subheading_tag":"h4","subheading_font_class":"fs-heading-6-base","text":"","text_font_class":"fs-body-100","link":"\/","link_text":"Shop now","button_style":"btn--callout","background_color":"","text_color":"#000000","button_background_color":"#000000","button_text_color":"#242526","color_overlay":"#000000","color_overlay_gradient":"","overlay_opacity":0}},"item_xFBgpE":{"type":"item","settings":{"width":"50","height":580,"mobile_height":480,"image":"shopify:\/\/shop_images\/NERIAGE_15_10_20241060_2.jpg","media_fit":"cover","focal_point":"top","mobile_focal_point":"image_presentation","text_position":"flex-start_flex-start","accent":"Accent","title":"Grid item","heading_tag":"h3","heading_font_class":"fs-heading-1-base","subheading":"","subheading_tag":"h4","subheading_font_class":"fs-heading-6-base","text":"","text_font_class":"fs-body-100","link":"\/","link_text":"Shop now","button_style":"btn--callout","background_color":"","text_color":"#000000","button_background_color":"#000000","button_text_color":"#242526","color_overlay":"#000000","color_overlay_gradient":"","overlay_opacity":0}}},"block_order":["item_1","item_xFBgpE"],"settings":{"heading":"","heading_tag":"h2","subheading":"","content_alignment":"center","enable_animation":true,"full_width":false,"spacing":16,"divider_style":"none","section_padding":"section--vertical-padding-top-bottom"}},"multi_column_1":{"type":"multi-column","blocks":{"column":{"type":"column","settings":{"accent":"","heading":"Lojas Físicas","heading_tag":"h3","heading_font_class":"fs-heading-1-base","text":"<h6>Neriage Pinheiros<\/h6><p>R. Mateus Grou, 618 - Pinheiros, São Paulo<br\/>seg - sex: das 10h às 19h<br\/>sab: das 10h às 17h<\/p><h6>Neriage Cidade Jardim<\/h6><p>Av. Magalhães de Castro, 12.000 - Cidade Jardim, São Paulo<br\/>seg-sab: das 10h às 23h<br\/>dom: das 10h às 22h<\/p>","text_font_class":"fs-body-100","text_max_width":100,"link":"","link_text":"","button_style":"btn--callout"}},"image":{"type":"image_column","settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2023-08-25_at_18.56.09_1_1.jpg","image_width":100,"aspect_ratio":"portrait","enable_image_crop_circle":false,"focal_point":"image_presentation","image_position":"above_text","image_link":"","small_caption":"","accent":"","heading":"","heading_tag":"h3","heading_font_class":"fs-heading-4-base","text":"","text_font_class":"fs-body-100","text_max_width":100,"link":"","link_text":"","button_style":"btn--primary"}},"image_column_qhWz6T":{"type":"image_column","settings":{"image":"shopify:\/\/shop_images\/FELCO_211111-95-2-3.webp","image_width":100,"aspect_ratio":"square","enable_image_crop_circle":false,"focal_point":"image_presentation","image_position":"above_text","image_link":"","small_caption":"","accent":"","heading":"Venha nos visitar","heading_tag":"h3","heading_font_class":"fs-heading-4-base","text":"<p>Estamos esperando por você :)<\/p>","text_font_class":"fs-body-100","text_max_width":100,"link":"","link_text":"","button_style":"btn--primary"}}},"block_order":["column","image","image_column_qhWz6T"],"settings":{"title":"","heading_tag":"h2","subheading":"","heading_font_class":"fs-heading-3-base","heading_alignment":"left","content_vertical_alignment":"top","content_background_padding":"small","columns":"3","column_spacing":16,"row_spacing":48,"column_alignment":"left","enable_slider_mobile":false,"columns_mobile":"1","column_spacing_mobile":16,"row_spacing_mobile":16,"column_alignment_mobile":"left","background_behind_columns":false,"background_color":"rgba(0,0,0,0)","text_color":"#000000","button_background_color":"#000000","button_text_color":"#ffffff","enable_animation":true,"divider_style":"none","section_padding":"section--vertical-padding-top-only"}},"gallery_carousel_6H4drJ":{"type":"gallery-carousel","blocks":{"image_hbbD76":{"type":"image","settings":{"focal_point":"image_presentation","title":"","text":""}},"image_4Ek4gY":{"type":"image","settings":{"focal_point":"image_presentation","title":"","text":""}},"image_RWrkNd":{"type":"image","settings":{"focal_point":"image_presentation","title":"","text":""}},"image_b6fJrm":{"type":"image","settings":{"focal_point":"image_presentation","title":"","text":""}},"image_HbxYef":{"type":"image","settings":{"focal_point":"image_presentation","title":"","text":""}}},"block_order":["image_hbbD76","image_4Ek4gY","image_RWrkNd","image_b6fJrm","image_HbxYef"],"disabled":true,"settings":{"heading":"","heading_tag":"h2","subheading":"<h6>Siga a @neriage_ no Instagram<\/h6>","link":"","link_text":"","columns":"4","mobile_columns":"2","loop_carousel":true,"aspect_ratio":"square","image_caption_style":"overlay","image_caption_size":"fs-body-100","overlay_text_background_style":"gradient","overlay_text_color":"#ffffff","overlay_text_background":"#000000","enable_animation":true,"divider_style":"none","section_padding":"section--vertical-padding-top-bottom"}},"17373242513c360997":{"type":"apps","blocks":{"instafeed_app_block_wPMKwQ":{"type":"shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5","settings":{"title":"","title_color":"","alignment":"center","background_color":"","feed_id":"","html_area":""}}},"block_order":["instafeed_app_block_wPMKwQ"],"settings":{"heading":"","enable_animation":true,"divider_style":"none","section_padding":"section--vertical-padding-top-bottom"}}},"order":["video_hero_HG6e4H","slideshow_wagQkb","image_hero_split","sales_banner","featured_collection_grid_yCeHwq","featured_collection_slider_aGJbt3","shoppable_feature_xWX7DV","collection_list_slider","image_hero_1","featured_collection_slider_1","grid","multi_column_1","gallery_carousel_6H4drJ","17373242513c360997"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "video_hero_HG6e4H": {
+      "type": "video-hero",
+      "blocks": {
+        "accent_jPjFtV": {
+          "type": "accent",
+          "settings": {
+            "accent": "Accent"
+          }
+        },
+        "heading_h6Wane": {
+          "type": "heading",
+          "settings": {
+            "title": "Video hero",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "text_YCXWQR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this section to promote a particular feature with editorial video.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "play_button_acLKtJ": {
+          "type": "play-button",
+          "settings": {
+            "video_source": "external",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "aspect_ratio": "square",
+            "text": "Watch now",
+            "icon_style": "outline"
+          }
+        }
+      },
+      "block_order": [
+        "accent_jPjFtV",
+        "heading_h6Wane",
+        "text_YCXWQR",
+        "play_button_acLKtJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "media_link": "",
+        "focal_point": "image_presentation",
+        "focal_point_mobile": "image_presentation",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 40,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "slideshow_wagQkb": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_mJJXqN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/NERIAGE_15_10_20241116.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "Slide",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_tag": "h3",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "<p>Use this section to make a bold statement</p>",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 66
+          }
+        },
+        "slide_TGpj7x": {
+          "type": "slide",
+          "settings": {
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "Slide",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_tag": "h3",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "<p>Use this section to make a bold statement</p>",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "slide_mJJXqN",
+        "slide_TGpj7x"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "enable_autoplay": true,
+        "duration_autoplay": 6,
+        "navigation_alignment": "center",
+        "navigation_color_foreground": "#ffffff",
+        "navigation_color_background": "rgba(0,0,0,0)",
+        "navigation_background_opacity": 100,
+        "enable_animation": true,
+        "section_padding": "none"
+      }
+    },
+    "image_hero_split": {
+      "type": "image-hero-split",
+      "blocks": {
+        "image_1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/EmptyName_1_32b0c6d6-67f1-4d87-8f9c-17cc9eddfb40.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "title": "Novas Camisas",
+            "heading_tag": "h2",
+            "text": "",
+            "link": "shopify://collections/camisas",
+            "link_text": "Compre Agora",
+            "button_style": "btn--secondary"
+          }
+        },
+        "image_2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/NERIAGE_15_10_20240546.jpg",
+            "focal_point": "top",
+            "mobile_focal_point": "center",
+            "title": "On Sale",
+            "heading_tag": "h2",
+            "text": "",
+            "link": "shopify://collections/sale",
+            "link_text": "Explorar",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "image_1",
+        "image_2"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 75,
+        "text_position": "center",
+        "text_color": "#fcfcf9",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 17,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "sales_banner": {
+      "type": "sales-banner",
+      "settings": {
+        "min_height": 200,
+        "min_height_mobile": 400,
+        "sale_type": "Até",
+        "sale_amount": "50% off",
+        "sale_unit": "none",
+        "terms_and_conditions": "",
+        "terms_vertical_offset": 20,
+        "sale_font_size": 80,
+        "sale_font_size_mobile": 70,
+        "currency_symbol_position": "before",
+        "heading": "ON SALE",
+        "heading_tag": "h2",
+        "heading_font_class": "fs-heading-3-base",
+        "text": "<p>Coleções anteriores com 50% OFF</p>",
+        "link": "shopify://collections/sale",
+        "link_text": "Clieque e Descubra",
+        "button_style": "btn--callout",
+        "link_2": "",
+        "link_text_2": "",
+        "button_style_2": "btn--secondary",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "center",
+        "text_color": "#fcfcf9",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#242526",
+        "background_color": "#242526",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 61,
+        "layout": "two-columns",
+        "enable_animation": true,
+        "show_frame": false,
+        "full_width": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "countdown_bar_T6YCBW": {
+      "type": "countdown-bar",
+      "disabled": true,
+      "settings": {
+        "min_height": 60,
+        "min_height_mobile": 60,
+        "year": 2023,
+        "month": "january",
+        "day": "1",
+        "hour": "0",
+        "minute": "0",
+        "time_zone_selection": "shop",
+        "hide_timer_on_complete": false,
+        "timer_complete_message": "",
+        "heading": "Countdown bar",
+        "heading_tag": "h4",
+        "text": "<p>Use this timer to create urgency and boost sales.</p>",
+        "link": "shopify://collections",
+        "link_text": "Button",
+        "button_style": "btn--secondary",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "text_color": "#FFFFFF",
+        "button_background_color": "#FFFFFF",
+        "button_text_color": "#000000",
+        "background_color": "#C51C26",
+        "color_overlay": "#000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "full_width": false,
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "featured_collection_grid_yCeHwq": {
+      "type": "featured-collection-grid",
+      "blocks": {
+        "collection_7bAg3a": {
+          "type": "collection",
+          "settings": {
+            "collection": "sale"
+          }
+        }
+      },
+      "block_order": [
+        "collection_7bAg3a"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_tag": "h2",
+        "subheading": "<h6>Sale Neriage</h6>",
+        "link": "shopify://collections/sale",
+        "link_text": "Ver todos",
+        "maximum_collections": 8,
+        "columns": "4",
+        "mobile_columns": "2",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "featured_collection_slider_aGJbt3": {
+      "type": "featured-collection-slider",
+      "blocks": {
+        "collection_AGqDDE": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "plissados",
+            "collection_name": "Plissados"
+          }
+        },
+        "collection_wV8TPi": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "classicos",
+            "collection_name": "Clássicos"
+          }
+        }
+      },
+      "block_order": [
+        "collection_AGqDDE",
+        "collection_wV8TPi"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_tag": "h2",
+        "subheading": "<h6>Coleções Perenes</h6>",
+        "link": "",
+        "link_text": "",
+        "maximum_products": 8,
+        "columns": "4",
+        "mobile_columns": "2",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-bottom-only"
+      }
+    },
+    "shoppable_feature_xWX7DV": {
+      "type": "shoppable-feature",
+      "blocks": {
+        "hotspot_yXg943": {
+          "type": "hotspot",
+          "settings": {
+            "product_item": "kimono-abissal",
+            "horizontal_position": 56,
+            "vertical_position": 76
+          }
+        },
+        "hotspot_gzMNmP": {
+          "type": "hotspot",
+          "settings": {
+            "product_item": "saia-abissal",
+            "horizontal_position": 50,
+            "vertical_position": 44
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_yXg943",
+        "hotspot_gzMNmP"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/NERIAGE_SS25010311985.jpg",
+        "image_position": "left",
+        "image_size": 55,
+        "aspect_ratio": "portrait_alt",
+        "heading": "Abissal",
+        "heading_tag": "h2",
+        "subheading": "<p>Inspirada na obra \"Abyssal\", da aclamada artista Regina Silveira, localizada na Polônia. Combinando arte e moda, estas peças encapsulam a profundidade e a complexidade do trabalho de Regina, traduzidas em um design sofisticado e moderno.</p>",
+        "link": "",
+        "link_text": "",
+        "button_style": "btn--callout",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-none",
+        "content_position_desktop": "inside"
+      }
+    },
+    "collection_list_slider": {
+      "type": "collection-list-slider",
+      "settings": {
+        "heading": "",
+        "heading_tag": "h2",
+        "subheading": "<h6>Explore</h6>",
+        "link": "",
+        "link_text": "",
+        "columns": "4",
+        "mobile_columns": "2",
+        "collection_list": [
+          "alfaiataria",
+          "blusas-1",
+          "saias",
+          "oasis",
+          "vestidos",
+          "casacos"
+        ],
+        "collection_listing_aspect_ratio": "portrait",
+        "label_style": "overlay",
+        "overlay_title_background_style": "solid",
+        "overlay_text_color": "#f7f7e8",
+        "overlay_title_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "image_hero_1": {
+      "type": "image-hero",
+      "blocks": {
+        "accent": {
+          "type": "accent",
+          "settings": {
+            "accent": "Conheça"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Coleção Andrômeda",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Andrômeda, uma galáxia espiral localizada a 2,4 milhões de anos-luz distante da Terra.Andrômeda é, também, o novo capítulo da Neriage.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://collections/andromeda",
+            "link_text": "Ver Agora",
+            "button_style": "btn--callout"
+          }
+        }
+      },
+      "block_order": [
+        "accent",
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 70,
+        "mobile_height": 80,
+        "image": "shopify://shop_images/neriage_andromeda_24_289.jpg",
+        "focal_point": "center",
+        "mobile_focal_point": "image_presentation",
+        "media_link": "",
+        "text_position": "flex-start_flex-end",
+        "text_position_mobile": "flex-start_flex-end",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.35) 4%, rgba(9, 9, 9, 0.52) 49%, rgba(0, 0, 0, 1) 98%)",
+        "overlay_opacity": 60,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "featured_collection_slider_1": {
+      "type": "featured-collection-slider",
+      "blocks": {
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "andromeda",
+            "collection_name": "Andrômeda"
+          }
+        }
+      },
+      "block_order": [
+        "collection"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_tag": "h2",
+        "subheading": "<h6>Andrômeda</h6>",
+        "link": "shopify://collections/andromeda",
+        "link_text": "Ver tudo",
+        "maximum_products": 6,
+        "columns": "4",
+        "mobile_columns": "2",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "grid": {
+      "type": "grid",
+      "blocks": {
+        "item_1": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 580,
+            "mobile_height": 480,
+            "image": "shopify://shop_images/NERIAGE_15_10_20240884_4d5ac6e3-8e81-4a2f-86e0-e0c28fffab5d.jpg",
+            "media_fit": "cover",
+            "focal_point": "top",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "flex-start_flex-start",
+            "accent": "Accent",
+            "title": "Grid item",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-1-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-6-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "/",
+            "link_text": "Shop now",
+            "button_style": "btn--callout",
+            "background_color": "",
+            "text_color": "#000000",
+            "button_background_color": "#000000",
+            "button_text_color": "#242526",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_xFBgpE": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 580,
+            "mobile_height": 480,
+            "image": "shopify://shop_images/NERIAGE_15_10_20241060_2.jpg",
+            "media_fit": "cover",
+            "focal_point": "top",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "flex-start_flex-start",
+            "accent": "Accent",
+            "title": "Grid item",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-1-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-6-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "/",
+            "link_text": "Shop now",
+            "button_style": "btn--callout",
+            "background_color": "",
+            "text_color": "#000000",
+            "button_background_color": "#000000",
+            "button_text_color": "#242526",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_1",
+        "item_xFBgpE"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_tag": "h2",
+        "subheading": "",
+        "content_alignment": "center",
+        "enable_animation": true,
+        "full_width": false,
+        "spacing": 16,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "multi_column_1": {
+      "type": "multi-column",
+      "blocks": {
+        "column": {
+          "type": "column",
+          "settings": {
+            "accent": "",
+            "heading": "Lojas Físicas",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-1-base",
+            "text": "<h6>Neriage Pinheiros</h6><p>R. Mateus Grou, 618 - Pinheiros, São Paulo<br/>seg - sex: das 10h às 19h<br/>sab: das 10h às 17h</p><h6>Neriage Cidade Jardim</h6><p>Av. Magalhães de Castro, 12.000 - Cidade Jardim, São Paulo<br/>seg-sab: das 10h às 23h<br/>dom: das 10h às 22h</p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--callout"
+          }
+        },
+        "image": {
+          "type": "image_column",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2023-08-25_at_18.56.09_1_1.jpg",
+            "image_width": 100,
+            "aspect_ratio": "portrait",
+            "enable_image_crop_circle": false,
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "image_column_qhWz6T": {
+          "type": "image_column",
+          "settings": {
+            "image": "shopify://shop_images/FELCO_211111-95-2-3.webp",
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "enable_image_crop_circle": false,
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "Venha nos visitar",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>Estamos esperando por você :)</p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "column",
+        "image",
+        "image_column_qhWz6T"
+      ],
+      "settings": {
+        "title": "",
+        "heading_tag": "h2",
+        "subheading": "",
+        "heading_font_class": "fs-heading-3-base",
+        "heading_alignment": "left",
+        "content_vertical_alignment": "top",
+        "content_background_padding": "small",
+        "columns": "3",
+        "column_spacing": 16,
+        "row_spacing": 48,
+        "column_alignment": "left",
+        "enable_slider_mobile": false,
+        "columns_mobile": "1",
+        "column_spacing_mobile": 16,
+        "row_spacing_mobile": 16,
+        "column_alignment_mobile": "left",
+        "background_behind_columns": false,
+        "background_color": "rgba(0,0,0,0)",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-only"
+      }
+    },
+    "gallery_carousel_6H4drJ": {
+      "type": "gallery-carousel",
+      "blocks": {
+        "image_hbbD76": {
+          "type": "image",
+          "settings": {
+            "focal_point": "image_presentation",
+            "title": "",
+            "text": ""
+          }
+        },
+        "image_4Ek4gY": {
+          "type": "image",
+          "settings": {
+            "focal_point": "image_presentation",
+            "title": "",
+            "text": ""
+          }
+        },
+        "image_RWrkNd": {
+          "type": "image",
+          "settings": {
+            "focal_point": "image_presentation",
+            "title": "",
+            "text": ""
+          }
+        },
+        "image_b6fJrm": {
+          "type": "image",
+          "settings": {
+            "focal_point": "image_presentation",
+            "title": "",
+            "text": ""
+          }
+        },
+        "image_HbxYef": {
+          "type": "image",
+          "settings": {
+            "focal_point": "image_presentation",
+            "title": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_hbbD76",
+        "image_4Ek4gY",
+        "image_RWrkNd",
+        "image_b6fJrm",
+        "image_HbxYef"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_tag": "h2",
+        "subheading": "<h6>Siga a @neriage_ no Instagram</h6>",
+        "link": "",
+        "link_text": "",
+        "columns": "4",
+        "mobile_columns": "2",
+        "loop_carousel": true,
+        "aspect_ratio": "square",
+        "image_caption_style": "overlay",
+        "image_caption_size": "fs-body-100",
+        "overlay_text_background_style": "gradient",
+        "overlay_text_color": "#ffffff",
+        "overlay_text_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "17373242513c360997": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_wPMKwQ": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_wPMKwQ"
+      ],
+      "settings": {
+        "heading": "",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    }
+  },
+  "order": [
+    "video_hero_HG6e4H",
+    "slideshow_wagQkb",
+    "image_hero_split",
+    "sales_banner",
+    "countdown_bar_T6YCBW",
+    "featured_collection_grid_yCeHwq",
+    "featured_collection_slider_aGJbt3",
+    "shoppable_feature_xWX7DV",
+    "collection_list_slider",
+    "image_hero_1",
+    "featured_collection_slider_1",
+    "grid",
+    "multi_column_1",
+    "gallery_carousel_6H4drJ",
+    "17373242513c360997"
+  ]
+}
