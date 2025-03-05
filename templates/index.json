@@ -209,6 +209,7 @@
     },
     "sales_banner": {
       "type": "sales-banner",
+      "disabled": true,
       "settings": {
         "min_height": 200,
         "min_height_mobile": 400,
@@ -268,11 +269,11 @@
         "button_style": "btn--secondary",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
-        "text_color": "#FFFFFF",
-        "button_background_color": "#FFFFFF",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
         "button_text_color": "#000000",
-        "background_color": "#C51C26",
-        "color_overlay": "#000",
+        "background_color": "#c51c26",
+        "color_overlay": "#000000",
         "color_overlay_gradient": "",
         "overlay_opacity": 0,
         "enable_animation": true,
@@ -286,7 +287,7 @@
         "collection_7bAg3a": {
           "type": "collection",
           "settings": {
-            "collection": "sale"
+            "collection": "ver-todos-roupas"
           }
         }
       },
@@ -296,8 +297,8 @@
       "settings": {
         "heading": "",
         "heading_tag": "h2",
-        "subheading": "<h6>Sale Neriage</h6>",
-        "link": "shopify://collections/sale",
+        "subheading": "<h6>Roupas</h6>",
+        "link": "shopify://collections/ver-todos-roupas",
         "link_text": "Ver todos",
         "maximum_collections": 8,
         "columns": "4",
@@ -310,14 +311,6 @@
     "featured_collection_slider_aGJbt3": {
       "type": "featured-collection-slider",
       "blocks": {
-        "collection_AGqDDE": {
-          "type": "collection",
-          "settings": {
-            "show_view_all": true,
-            "collection": "plissados",
-            "collection_name": "Plissados"
-          }
-        },
         "collection_wV8TPi": {
           "type": "collection",
           "settings": {
@@ -325,11 +318,19 @@
             "collection": "classicos",
             "collection_name": "Clássicos"
           }
+        },
+        "collection_AGqDDE": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "plissados",
+            "collection_name": "Plissados"
+          }
         }
       },
       "block_order": [
-        "collection_AGqDDE",
-        "collection_wV8TPi"
+        "collection_wV8TPi",
+        "collection_AGqDDE"
       ],
       "settings": {
         "heading": "",
@@ -388,6 +389,7 @@
     },
     "collection_list_slider": {
       "type": "collection-list-slider",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_tag": "h2",
@@ -453,6 +455,7 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 70,
@@ -480,8 +483,8 @@
           "type": "collection",
           "settings": {
             "show_view_all": true,
-            "collection": "andromeda",
-            "collection_name": "Andrômeda"
+            "collection": "ver-todos-acessorios",
+            "collection_name": "Acessórios"
           }
         }
       },
@@ -491,8 +494,37 @@
       "settings": {
         "heading": "",
         "heading_tag": "h2",
-        "subheading": "<h6>Andrômeda</h6>",
+        "subheading": "<h6>Acessórios</h6>",
         "link": "shopify://collections/andromeda",
+        "link_text": "Ver tudo",
+        "maximum_products": 6,
+        "columns": "4",
+        "mobile_columns": "2",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "featured_collection_slider_dwhxzA": {
+      "type": "featured-collection-slider",
+      "blocks": {
+        "collection_HHBGwN": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "sale",
+            "collection_name": "Sale"
+          }
+        }
+      },
+      "block_order": [
+        "collection_HHBGwN"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_tag": "h2",
+        "subheading": "<h6>Sale</h6>",
+        "link": "shopify://collections/sale",
         "link_text": "Ver tudo",
         "maximum_products": 6,
         "columns": "4",
@@ -574,6 +606,7 @@
         "item_1",
         "item_xFBgpE"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_tag": "h2",
@@ -793,6 +826,7 @@
     "collection_list_slider",
     "image_hero_1",
     "featured_collection_slider_1",
+    "featured_collection_slider_dwhxzA",
     "grid",
     "multi_column_1",
     "gallery_carousel_6H4drJ",
