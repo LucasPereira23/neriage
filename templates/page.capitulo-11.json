@@ -192,7 +192,7 @@
         "subheading_y3eiTc": {
           "type": "subheading",
           "settings": {
-            "subheading": "Capítulo 9",
+            "subheading": "Capítulo 11",
             "subheading_tag": "h3",
             "subheading_font_class": "fs-heading-6-base"
           }
@@ -200,7 +200,7 @@
         "heading_9V4CKQ": {
           "type": "heading",
           "settings": {
-            "title": "Arquivo",
+            "title": "2046",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-2-base"
           }
@@ -208,7 +208,7 @@
         "text_naKbAi": {
           "type": "text",
           "settings": {
-            "text": "<p>A coleção de inverno 2024 da Neriage, ARQUIVO, revisita os clássicos da marca em novos shapes e tecidos.</p><p>Inspirada pelo livro “The Birthmark” de Nathaniel Hawthorne (1843), onde um cientista desiste da ciência em nome do amor – mas ao se casar, descobre uma marca de nascença no rosto de sua esposa, no formato de uma mão, e fica obcecado em retirá-la em nome da beleza perfeita; o resultado do conto mostra que não se pode apagar cicatrizes, histórias, sem sacrificar o que somos.</p><p>As peças possuem pequenas “trocas” de modelagem e combinações de texturas que questionam o padrão do que é certo e errado dentro do processo de criação Os recortes diagonais nas peças, costuras aparentes - que simbolizam as cicatrizes, a história da roupa- além da mistura de plissados em direções diferentes e até mesmo blazers com golas uma diferente da outra fazem parte desse processo que considera o \"errado\" um caminho livre como o que acreditamos. Claro, sem perder a excelência de modelagem e matéria prima da produção Neriage.</p><p>Revisitando nossos arquivos, modelamos nossos clássicos plissados em diferentes bases para entender os possíveis comportamentos de cada tecido – e como sempre procuramos trabalhar, entender o potencial de cada matéria e transformá-la de acordo com suas particularidades.</p><p>Tons invernais clássicos como o preto, verde militar,cinza e areia combinados com tons iluminados de pêssego e amarelo trabalhados em plissados, sobreposições, xadrezes e listras são os pontos centrais da coleção.</p><p>Acreditamos que olhar para a nossa história, revisita-la, sem se apegar ao passado mas construindo um futuro com as \"cicatrizes\" do que já foi, é o processo de criação mais autoral e pessoal que podemos conhecer.</p><p>Conheça mais sohre a Neriage, nosso passado e nossa visão de futuro em ARQUIVO.</p>",
+            "text": "<p><em>2046</em>, de Wong Kar Wai, é um filme onde o tempo se dissolve entre passado, presente e futuro. Em seu universo de melancolia e desejo, as memórias se sobrepõem como tecidos finos, costurados por <strong>lembranças fragmentadas.</strong></p><p>A estética meticulosa do filme, com sua iluminação dramática e composições visuais carregadas de simbolismo, nos transporta para uma Hong Kong onírica, no qual o romantismo veste a nostalgia. Nos figurinos, os qipaos ajustados usados por Zhang Ziyi e Gong Li abraçam o corpo como se guardasse segredos, suas silhuetas longilíneas remetendo a uma elegância atemporal, um vintage reinterpretado, onde <strong>passado e futuro se entrelaçam</strong>.</p><p>A paleta de cores da coleção ecoa essa atmosfera: vermelho profundo como o desejo, off white, areia e caramelo envelhecidos como lembranças desbotadas, marinho denso como noites solitárias e um toque de verde, como um resquício de esperança.</p><p>Mais do que uma estética, a essência de <em>2046</em> se traduz na construção das peças, camadas e recortes sugerem memórias sobrepostas, fragmentos de histórias que jamais se encaixam por completo. A mistura de tecidos estruturados com a leveza da seda estampada cria um jogo entre a solidez do real e a fluidez do imaginário. A estamparia digital, sem avesso, reflete essa dualidade, trazendo um desenho inspirado na obra <em>A Mulher Sentada</em>, de Ismael Nery, um surrealismo que se alinha à poética do filme: entre o visível e o intangível, entre o que foi e o que nunca será.</p><p><strong>Vestir-se de memórias</strong>, um viés sempre presente no trabalho delicado e precioso da Neriage, transformar ausências em presença, dar forma ao intangível, essa é a essência de <em>2046.</em></p><p><em><strong>Eu queria relembrar as coisas que eu temia esquecer depois. WONG KAR WAI 2046</strong></em></p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -227,39 +227,6 @@
         "custom_content_width": 700
       }
     },
-    "video_mF9azV": {
-      "type": "video",
-      "blocks": {
-        "play_button_E89R4a": {
-          "type": "play-button",
-          "settings": {
-            "text": "Assistir",
-            "button_layout": "full",
-            "icon_style": "outline"
-          }
-        }
-      },
-      "block_order": [
-        "play_button_E89R4a"
-      ],
-      "settings": {
-        "video_source": "shopify",
-        "video": "shopify://files/videos/Cópia de NERIAGE Arquivo - Reels 2.mov",
-        "video_url": "",
-        "loop": false,
-        "media_aspect_ratio": "portrait_alt",
-        "focal_point": "image_presentation",
-        "text_position": "center_center",
-        "text_position_mobile": "center",
-        "button_background_color": "#ffffff",
-        "color_overlay": "#000000",
-        "color_overlay_text": "#ffffff",
-        "color_overlay_gradient": "",
-        "overlay_opacity": 65,
-        "enable_animation": true,
-        "section_padding": "section--vertical-padding-top-only"
-      }
-    },
     "grid_kezKgh": {
       "type": "grid",
       "blocks": {
@@ -269,39 +236,7 @@
             "width": "33",
             "height": 600,
             "mobile_height": 500,
-            "image": "shopify://shop_images/Copia_de_20_1.webp",
-            "media_fit": "cover",
-            "focal_point": "image_presentation",
-            "mobile_focal_point": "image_presentation",
-            "text_position": "center_center",
-            "accent": "",
-            "title": "",
-            "heading_tag": "h3",
-            "heading_font_class": "fs-heading-2-base",
-            "subheading": "",
-            "subheading_tag": "h4",
-            "subheading_font_class": "fs-heading-5-base",
-            "text": "",
-            "text_font_class": "fs-body-100",
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--primary",
-            "background_color": "",
-            "text_color": "#ffffff",
-            "button_background_color": "#ffffff",
-            "button_text_color": "#000000",
-            "color_overlay": "#000000",
-            "color_overlay_gradient": "",
-            "overlay_opacity": 0
-          }
-        },
-        "item_QVNHyw": {
-          "type": "item",
-          "settings": {
-            "width": "33",
-            "height": 600,
-            "mobile_height": 500,
-            "image": "shopify://shop_images/Copia_de_Neriage_30_01_24455310811_1.webp",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-07_at_10.50.29.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -333,7 +268,39 @@
             "width": "33",
             "height": 600,
             "mobile_height": 500,
-            "image": "shopify://shop_images/Copia_de_pola_7_1.webp",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-07_at_10.50.29_1.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_QVNHyw": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 600,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_blusa_e_saia_fogo_3_1.webp",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -458,8 +425,8 @@
       },
       "block_order": [
         "item_FhUtiL",
-        "item_QVNHyw",
         "item_MW7b9C",
+        "item_QVNHyw",
         "item_ndkjny",
         "item_wcn4hn",
         "item_MgbNTV"
@@ -483,7 +450,7 @@
           "type": "collection",
           "settings": {
             "show_view_all": true,
-            "collection": "arquivo",
+            "collection": "onze",
             "collection_name": "{{ block.settings.collection.title }}"
           }
         }
@@ -511,7 +478,6 @@
     "gallery_carousel_icnCwa",
     "main",
     "rich_text_pHjUjb",
-    "video_mF9azV",
     "grid_kezKgh",
     "featured_collection_slider_MEtXRz"
   ]
