@@ -192,7 +192,7 @@
         "subheading_y3eiTc": {
           "type": "subheading",
           "settings": {
-            "subheading": "Capítulo 9",
+            "subheading": "Capítulo 5",
             "subheading_tag": "h3",
             "subheading_font_class": "fs-heading-6-base"
           }
@@ -200,13 +200,14 @@
         "heading_9V4CKQ": {
           "type": "heading",
           "settings": {
-            "title": "Arquivo",
+            "title": "Argos",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-2-base"
           }
         },
         "text_naKbAi": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>A coleção de inverno 2024 da Neriage, ARQUIVO, revisita os clássicos da marca em novos shapes e tecidos.</p><p>Inspirada pelo livro “The Birthmark” de Nathaniel Hawthorne (1843), onde um cientista desiste da ciência em nome do amor – mas ao se casar, descobre uma marca de nascença no rosto de sua esposa, no formato de uma mão, e fica obcecado em retirá-la em nome da beleza perfeita; o resultado do conto mostra que não se pode apagar cicatrizes, histórias, sem sacrificar o que somos.</p><p>As peças possuem pequenas “trocas” de modelagem e combinações de texturas que questionam o padrão do que é certo e errado dentro do processo de criação Os recortes diagonais nas peças, costuras aparentes - que simbolizam as cicatrizes, a história da roupa- além da mistura de plissados em direções diferentes e até mesmo blazers com golas uma diferente da outra fazem parte desse processo que considera o \"errado\" um caminho livre como o que acreditamos. Claro, sem perder a excelência de modelagem e matéria prima da produção Neriage.</p><p>Revisitando nossos arquivos, modelamos nossos clássicos plissados em diferentes bases para entender os possíveis comportamentos de cada tecido – e como sempre procuramos trabalhar, entender o potencial de cada matéria e transformá-la de acordo com suas particularidades.</p><p>Tons invernais clássicos como o preto, verde militar,cinza e areia combinados com tons iluminados de pêssego e amarelo trabalhados em plissados, sobreposições, xadrezes e listras são os pontos centrais da coleção.</p><p>Acreditamos que olhar para a nossa história, revisita-la, sem se apegar ao passado mas construindo um futuro com as \"cicatrizes\" do que já foi, é o processo de criação mais autoral e pessoal que podemos conhecer.</p><p>Conheça mais sohre a Neriage, nosso passado e nossa visão de futuro em ARQUIVO.</p>",
             "text_font_class": "fs-body-100"
@@ -243,11 +244,10 @@
         "play_button_E89R4a"
       ],
       "settings": {
-        "video_source": "shopify",
-        "video": "shopify://files/videos/Cópia de NERIAGE Arquivo - Reels 2.mov",
-        "video_url": "",
+        "video_source": "external",
+        "video_url": "https://youtu.be/MVTYw3WVvCU?t=125",
         "loop": false,
-        "media_aspect_ratio": "portrait_alt",
+        "media_aspect_ratio": "landscape_wide_alt",
         "focal_point": "image_presentation",
         "text_position": "center_center",
         "text_position_mobile": "center",
