@@ -483,7 +483,7 @@
           "type": "collection",
           "settings": {
             "show_view_all": true,
-            "collection": "arquivo",
+            "collection": "argos-50-off",
             "collection_name": "{{ block.settings.collection.title }}"
           }
         }
@@ -491,6 +491,7 @@
       "block_order": [
         "collection_FTfPG4"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Conheça a coleção",
         "heading_tag": "h2",
