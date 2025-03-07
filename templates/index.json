@@ -107,7 +107,9 @@
         },
         "slide_TGpj7x": {
           "type": "slide",
+          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-07_at_10.50.29.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
@@ -159,38 +161,38 @@
     "image_hero_split": {
       "type": "image-hero-split",
       "blocks": {
-        "image_1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/EmptyName_1_32b0c6d6-67f1-4d87-8f9c-17cc9eddfb40.jpg",
-            "focal_point": "image_presentation",
-            "mobile_focal_point": "image_presentation",
-            "title": "Novas Camisas",
-            "heading_tag": "h2",
-            "text": "",
-            "link": "shopify://collections/camisas",
-            "link_text": "Compre Agora",
-            "button_style": "btn--secondary"
-          }
-        },
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NERIAGE_15_10_20240546.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-07_at_10.50.29.jpg",
             "focal_point": "top",
             "mobile_focal_point": "center",
-            "title": "On Sale",
+            "title": "Nova coleção",
+            "heading_tag": "h2",
+            "text": "<p><strong>capítulo 11 - 2046</strong></p>",
+            "link": "shopify://collections/onze",
+            "link_text": "Explorar",
+            "button_style": "btn--secondary"
+          }
+        },
+        "image_1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-07_at_10.50.29_1.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "title": "",
             "heading_tag": "h2",
             "text": "",
-            "link": "shopify://collections/sale",
-            "link_text": "Explorar",
+            "link": "",
+            "link_text": "",
             "button_style": "btn--secondary"
           }
         }
       },
       "block_order": [
-        "image_1",
-        "image_2"
+        "image_2",
+        "image_1"
       ],
       "settings": {
         "image_aspect": "custom",
