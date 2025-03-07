@@ -230,38 +230,21 @@
     "video_mF9azV": {
       "type": "video",
       "blocks": {
-        "heading_q69frY": {
-          "type": "heading",
-          "settings": {
-            "title": "Video",
-            "heading_tag": "h2",
-            "heading_font_class": "fs-heading-display-2"
-          }
-        },
-        "text_YwRYT7": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Use this section to promote a particular feature with editorial video.</p>",
-            "text_font_class": "fs-body-100"
-          }
-        },
         "play_button_E89R4a": {
           "type": "play-button",
           "settings": {
-            "text": "Watch now",
+            "text": "Assistir",
             "button_layout": "full",
             "icon_style": "outline"
           }
         }
       },
       "block_order": [
-        "heading_q69frY",
-        "text_YwRYT7",
         "play_button_E89R4a"
       ],
       "settings": {
         "video_source": "external",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_url": "https://www.youtube.com/watch?v=65cFF9Oj8V4",
         "loop": false,
         "media_aspect_ratio": "landscape_wide_alt",
         "focal_point": "image_presentation",
