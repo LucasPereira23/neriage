@@ -336,6 +336,38 @@
         "custom_content_width": 850
       }
     },
+    "collapsible_row_list_HWFAB7": {
+      "type": "collapsible-row-list",
+      "blocks": {
+        "item_zC8fzJ": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": true,
+            "icon": "none",
+            "title": "Como posso entrar em contato com a Neriage?",
+            "text": "<p>Nossa equipe está disponível para te atender via e-mail em contato@neriage.com.br, WhatsApp no número +<a href=\"http://wa.me/5511971224937\"><span style=\"text-decoration:underline\">55 (11) 97122-4937</span></a>. O horário de atendimento é de segunda a sexta-feira, das 10h às 18h. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_zC8fzJ"
+      ],
+      "settings": {
+        "title": "Contato e Atendimento",
+        "heading_tag": "h2",
+        "heading_font_class": "fs-heading-3-base",
+        "subheading": "",
+        "subheading_tag": "h3",
+        "subheading_font_class": "fs-heading-5-base",
+        "heading_alignment": "center",
+        "item_heading_font": "body",
+        "enable_animation": false,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-bottom-only",
+        "content_width": "custom",
+        "custom_content_width": 850
+      }
+    },
     "rich-text-5": {
       "type": "rich-text",
       "blocks": {
@@ -394,6 +426,7 @@
     "collapsible-row-list-3",
     "collapsible_row_list_BnCThx",
     "collapsible_row_list_F4YAJC",
+    "collapsible_row_list_HWFAB7",
     "rich-text-5"
   ]
 }
