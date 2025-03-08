@@ -1,1 +1,63 @@
-{"sections":{"main":{"type":"main-404","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {}
+    },
+    "rich_text_dQe4ai": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4fR3qN": {
+          "type": "heading",
+          "settings": {
+            "title": "Ops! Não encontramos essa página.",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "text_Hjiqt8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Se desejar, entre em contato com nosso atendimento.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "button_m66Xax": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://pages/contato",
+            "link_text": "Entrar em contato",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4fR3qN",
+        "text_Hjiqt8",
+        "button_m66Xax"
+      ],
+      "settings": {
+        "alignment": "center_center",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_dQe4ai"
+  ]
+}
