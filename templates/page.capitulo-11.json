@@ -192,7 +192,7 @@
         "subheading_y3eiTc": {
           "type": "subheading",
           "settings": {
-            "subheading": "Capítulo 8",
+            "subheading": "Capítulo 11",
             "subheading_tag": "h3",
             "subheading_font_class": "fs-heading-6-base"
           }
@@ -200,7 +200,7 @@
         "heading_9V4CKQ": {
           "type": "heading",
           "settings": {
-            "title": "Cartas para Ítaca",
+            "title": "2046",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-2-base"
           }
@@ -208,7 +208,7 @@
         "text_naKbAi": {
           "type": "text",
           "settings": {
-            "text": "<h5>Prólogo</h5><p>Talvez esse release seja um pouco diferente. Talvez alguns achem prolixo, pessoal demais ou até emotivo. A verdade é que quando chega o momento “Rafaella, precisamos do seu release até x dia, envia para nós?”</p><p>Me dá uma sensação que estou no processo errado. Penso: mas eu já não o escrevi até aqui? Cada coisa que vivi ou que fizemos faz parte disso. Então vou resumir um pouco do que “Cartas para Ítaca” escreveram em suas peças em seus distintos tempos de produção. Já que cada coleção é uma história, vamos tentar resumir um pouco desta.</p><p>Sempre me encantei pela palavra “Carta”. Acho que existe um mistério tão único endereçado a uma única pessoa que imediatamente impacta numa reação. E seja ela qual for, sempre ficará gravada naquelas letras, pedaço de papel perdido no tempo. É por isso que ao falar do poema “Ítaca” de Konstantinos Kafávis, invoquei a palavra Cartas para contar minhas observações sobre um dos poemas favoritos do artista José Leonilson, com muita honra homenageado nesta coleção.</p><p>“Quando partires em viagem para Ítaca</p><p>faz votos para que seja longo o caminho,</p><p>pleno de aventuras, pleno de conhecimentos (…)</p><p>Que numerosas sejam as manhãs de verão,</p><p>nas quais, com que prazer, com que alegria,</p><p>entrarás em portos vistos pela primeira vez (…)</p><p>Guarda sempre Ítaca em teu pensamento.</p><p>É teu destino aí chegar.</p><p>Mas não apresses absolutamente tua viagem. É melhor que dure muitos anos.</p><p>Sábio assim como te tornaste, com tanta experiência,</p><p>já deves ter compreendido o que significam as Ítacas.”</p><p>Trecho do poema Ítaca, do poeta grego Konstantinos Kafávis (1863-1933)</p><p>A trajetória mitológica de Ulisses até o retorno para sua terra natal, Ítaca, se torna metaforicamente o tema central dessa coleção: a viagem, os diários de nossos passeios interiores e a importância de se procurar fora de si e também voltar para nossas recordações.</p>",
+            "text": "<p><em>2046</em>, de Wong Kar Wai, é um filme onde o tempo se dissolve entre passado, presente e futuro. Em seu universo de melancolia e desejo, as memórias se sobrepõem como tecidos finos, costurados por <strong>lembranças fragmentadas.</strong></p><p>A estética meticulosa do filme, com sua iluminação dramática e composições visuais carregadas de simbolismo, nos transporta para uma Hong Kong onírica, no qual o romantismo veste a nostalgia. Nos figurinos, os qipaos ajustados usados por Zhang Ziyi e Gong Li abraçam o corpo como se guardasse segredos, suas silhuetas longilíneas remetendo a uma elegância atemporal, um vintage reinterpretado, onde <strong>passado e futuro se entrelaçam</strong>.</p><p>A paleta de cores da coleção ecoa essa atmosfera: vermelho profundo como o desejo, off white, areia e caramelo envelhecidos como lembranças desbotadas, marinho denso como noites solitárias e um toque de verde, como um resquício de esperança.</p><p>Mais do que uma estética, a essência de <em>2046</em> se traduz na construção das peças, camadas e recortes sugerem memórias sobrepostas, fragmentos de histórias que jamais se encaixam por completo. A mistura de tecidos estruturados com a leveza da seda estampada cria um jogo entre a solidez do real e a fluidez do imaginário. A estamparia digital, sem avesso, reflete essa dualidade, trazendo um desenho inspirado na obra <em>A Mulher Sentada</em>, de Ismael Nery, um surrealismo que se alinha à poética do filme: entre o visível e o intangível, entre o que foi e o que nunca será.</p><p><strong>Vestir-se de memórias</strong>, um viés sempre presente no trabalho delicado e precioso da Neriage, transformar ausências em presença, dar forma ao intangível, essa é a essência de <em>2046.</em></p><p><em><strong>Eu queria relembrar as coisas que eu temia esquecer depois. WONG KAR WAI 2046</strong></em></p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -227,178 +227,16 @@
         "custom_content_width": 700
       }
     },
-    "video_mF9azV": {
-      "type": "video",
-      "blocks": {
-        "play_button_E89R4a": {
-          "type": "play-button",
-          "settings": {
-            "text": "Assistir",
-            "button_layout": "full",
-            "icon_style": "outline"
-          }
-        }
-      },
-      "block_order": [
-        "play_button_E89R4a"
-      ],
-      "settings": {
-        "video_source": "external",
-        "video_url": "https://youtu.be/K1kBB63S9g8",
-        "loop": false,
-        "media_aspect_ratio": "landscape_wide_alt",
-        "focal_point": "image_presentation",
-        "text_position": "center_center",
-        "text_position_mobile": "center",
-        "button_background_color": "#ffffff",
-        "color_overlay": "#000000",
-        "color_overlay_text": "#ffffff",
-        "color_overlay_gradient": "",
-        "overlay_opacity": 65,
-        "enable_animation": true,
-        "section_padding": "section--vertical-padding-top-only"
-      }
-    },
-    "rich_text_39UpWw": {
-      "type": "rich-text",
-      "blocks": {
-        "text_BdUUNa": {
-          "type": "text",
-          "settings": {
-            "text": "<h5>Sobre José Leonilson e o encontro entre moda e arte</h5><p>A primeira vez que me deparei com uma obra de José Leonilson, acho que fiquei durante aproximadamente 20 minutos olhando para ela. Não era exatamente para a obra, mas toda a intimidade que ela invocava - do autor, minha e de muitos que se identificavam com aquela intensidade e honestidade necessárias para a sobrevivência na constante criação. Ou a criação como forma de sobrevivência a toda essa intensidade. O personagem que se confunde com quem ele realmente é, o sacrifício pela arte. Criar várias versões de quem somos ou podemos ser, e expor esses pensamentos da forma mais sincera e bruta possível. Coragem, busca por si, respeito ao outro e total falta de medo de sentir e experimentar.</p><p>É assim que vejo o trabalho desse grande artista, nascido em Fortaleza em 1957 e que este ano completa 30 anos desde seu falecimento - que mesmo indo embora de forma precoce, deixou mais de 3.500 obras catalogadas entre bordados, diários (cartas à si ou a outros), desenhos e pinturas; era um multiartista, e a vontade de trabalhar uma coleção homenageando Leonilson é de longe uma tarefa difícil e quase pretensiosa. Tudo se tornou mais fácil no contato constante com a família durante o processo - e aqui vão meus agradecimentos profundos principalmente à Ana Lenice Dias (uma das irmãs de L.) e Gabriela Dias (sobrinha de L. e filha de Nicinha, apelido carinhoso de Ana Lenice). Juntas, elas coordenam o Projeto Leonilson, ONG fundada em 1993, meses após o falecimento do artista, com o objetivo de manter viva sua memória, através da divulgação de sua arte e trajetória artística.</p><p>Pela primeira vez a família concordou em fazer esse tipo de licenciamento e além de ter a oportunidade de conhecer a casa onde ele viveu (hoje sede do projeto) na Vila Mariana, onde a maior parte das obras permanece sob o cuidado da família de forma honrosa e diferente de qualquer tipo de museu. Ao entrar na residência, você se sente próximo a Leonilson e suas paixões, amores e até melancolias - que acredito que era o que seu trabalho tinha o objetivo de cumprir.</p><p>Na coleção, escolhemos algumas obras dos anos 70 aos anos 90, passando por diversas fases do artista. As obras foram escolhidas junto com a família e escolhemos dar preferência às pinturas e obras menos conhecidas do artista, algumas até dos seus primeiros anos de carreira, com o objetivo de mostrar que todos temos fases, aprendizados e desenvolvimento constante até chegar a uma identidade mais formada - e essa coragem de mostrar as fragilidades de quem somos e queremos ser é a parte mais importante de qualquer forma de criação. É a real beleza dela.</p><p>Trabalhamos com jacquards desenvolvidos com pinturas, bordados de pôsteres e desenhos, estampas maximizadas em panneaux de seda pura e detalhes de transparência e toques dourados que remetem a seu trabalho. É importante dizer que o objetivo não era reproduzir sua obra em forma de roupa, mas entender sua intimidade, suas paixões, dores e colocá-las frente a frente com as minhas - e as do observador. Diria que é uma coleção a se pensar e refletir sobre si muito mais do que sobre o artista e os criadores envolvidos diretamente.</p><p>Afinal, são tantas as verdades.</p>",
-            "text_font_class": "fs-body-100"
-          }
-        }
-      },
-      "block_order": [
-        "text_BdUUNa"
-      ],
-      "settings": {
-        "alignment": "left_left",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom",
-        "content_width": "full",
-        "custom_content_width": 700
-      }
-    },
-    "grid_JHKNEa": {
-      "type": "grid",
-      "blocks": {
-        "item_qYbBdA": {
-          "type": "item",
-          "settings": {
-            "width": "50",
-            "height": 600,
-            "mobile_height": 500,
-            "image": "shopify://shop_images/Copia_de_230818_NERIAGE_1922_1.jpg",
-            "media_fit": "cover",
-            "focal_point": "image_presentation",
-            "mobile_focal_point": "image_presentation",
-            "text_position": "center_center",
-            "accent": "",
-            "title": "",
-            "heading_tag": "h3",
-            "heading_font_class": "fs-heading-2-base",
-            "subheading": "",
-            "subheading_tag": "h4",
-            "subheading_font_class": "fs-heading-5-base",
-            "text": "",
-            "text_font_class": "fs-body-100",
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--primary",
-            "background_color": "",
-            "text_color": "#ffffff",
-            "button_background_color": "#ffffff",
-            "button_text_color": "#000000",
-            "color_overlay": "#000000",
-            "color_overlay_gradient": "",
-            "overlay_opacity": 0
-          }
-        },
-        "item_LTTfkz": {
-          "type": "item",
-          "settings": {
-            "width": "50",
-            "height": 600,
-            "mobile_height": 500,
-            "image": "shopify://shop_images/Copia_de_NERIAGE_PINA05607063_1.webp",
-            "media_fit": "cover",
-            "focal_point": "image_presentation",
-            "mobile_focal_point": "image_presentation",
-            "text_position": "center_center",
-            "accent": "",
-            "title": "",
-            "heading_tag": "h3",
-            "heading_font_class": "fs-heading-2-base",
-            "subheading": "",
-            "subheading_tag": "h4",
-            "subheading_font_class": "fs-heading-5-base",
-            "text": "",
-            "text_font_class": "fs-body-100",
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--primary",
-            "background_color": "",
-            "text_color": "#ffffff",
-            "button_background_color": "#ffffff",
-            "button_text_color": "#000000",
-            "color_overlay": "#000000",
-            "color_overlay_gradient": "",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_qYbBdA",
-        "item_LTTfkz"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_tag": "h2",
-        "subheading": "",
-        "content_alignment": "left",
-        "enable_animation": true,
-        "full_width": true,
-        "spacing": 0,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-none"
-      }
-    },
-    "rich_text_jfrEEi": {
-      "type": "rich-text",
-      "blocks": {
-        "text_K7Dgb7": {
-          "type": "text",
-          "settings": {
-            "text": "<h5>O verão 2024 da Neriage e as roupas escritas em diários</h5><p>A coleção é dividida em três blocos principais: pérolas, andarilhos e âncoras.</p><p>Na primeira parte são exploradas as obras com traço mais fluido do artista, tons de off white e azul contrastam com acessórios dourados, pérolas e jacquards exclusivos. As frases soltas, de diferentes autores, reforçam a ideia de diário e como as palavras marcam a nossa história, aqui representada pelo tecido e os bordados de linha. Quase de forma aleatória como deve ser um diário.</p><p>A ideia aqui é reforçar os códigos principais da Neriage, como os plissados e mix de texturas. Uma primeira identificação da marca e do encontro com o processo do artista.</p><p>Na segunda parte, as peças de alfaiataria desconstruída e transparências atravessam a fase viajante, compondo o bloco Andarilhos.</p><p>Recortes no ombro, modelagens com encaixes de mais de 35 partes, sobreposições, botões vintage e peças que podem ser utilizadas de mais de um jeito fazem parte desse bloco.</p><p>Na terceira etapa, os tons de terra, amarelo e peças com recortes e silhuetas tubulares formam o bloco Âncoras, simbolizando a chegada ao destino, à terra natal; o encontro e o brilho após as experiências vividas, o voltar pra casa que sempre nos é necessário após qualquer viagem - e como nos transformamos no caminho.</p>",
-            "text_font_class": "fs-body-100"
-          }
-        }
-      },
-      "block_order": [
-        "text_K7Dgb7"
-      ],
-      "settings": {
-        "alignment": "left_left",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom",
-        "content_width": "full",
-        "custom_content_width": 700
-      }
-    },
     "grid_kezKgh": {
       "type": "grid",
       "blocks": {
         "item_FhUtiL": {
           "type": "item",
           "settings": {
-            "width": "50",
-            "height": 600,
+            "width": "25",
+            "height": 500,
             "mobile_height": 500,
-            "image": "shopify://shop_images/Copia_de_230818_NERIAGE_0122_copy_1.webp",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-07_at_10.50.29.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -424,13 +262,205 @@
             "overlay_opacity": 0
           }
         },
-        "item_QVNHyw": {
+        "item_GrbhjT": {
           "type": "item",
           "settings": {
-            "width": "50",
-            "height": 600,
+            "width": "25",
+            "height": 500,
             "mobile_height": 500,
-            "image": "shopify://shop_images/Copia_de_230818_NERIAGE_0601_copy_1.webp",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-07_at_10.50.29_1.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_fB4HAF": {
+          "type": "item",
+          "settings": {
+            "width": "25",
+            "height": 500,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_vestido_sem_alcas_oswald_2_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_cKha77": {
+          "type": "item",
+          "settings": {
+            "width": "25",
+            "height": 500,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_Vestido_Nery_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_6LgYaF": {
+          "type": "item",
+          "settings": {
+            "width": "25",
+            "height": 500,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_chemise_miro_e_blazer_oswald_2_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_dGBdMJ": {
+          "type": "item",
+          "settings": {
+            "width": "25",
+            "height": 500,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_blazer_e_calca_chuva_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_PB7jRG": {
+          "type": "item",
+          "settings": {
+            "width": "25",
+            "height": 500,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_vestido_e_capa_Dali_1.webp",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_CqXCVY": {
+          "type": "item",
+          "settings": {
+            "width": "25",
+            "height": 500,
+            "mobile_height": 500,
+            "image": "shopify://shop_images/Copia_de_blusa_e_saia_fogo_3_1.webp",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -459,7 +489,13 @@
       },
       "block_order": [
         "item_FhUtiL",
-        "item_QVNHyw"
+        "item_GrbhjT",
+        "item_fB4HAF",
+        "item_cKha77",
+        "item_6LgYaF",
+        "item_dGBdMJ",
+        "item_PB7jRG",
+        "item_CqXCVY"
       ],
       "settings": {
         "heading": "",
@@ -470,30 +506,7 @@
         "full_width": true,
         "spacing": 0,
         "divider_style": "none",
-        "section_padding": "section--vertical-padding-none"
-      }
-    },
-    "rich_text_n9cJMR": {
-      "type": "rich-text",
-      "blocks": {
-        "text_AEDwx8": {
-          "type": "text",
-          "settings": {
-            "text": "<h5>Colaborações</h5><p>Pela primeira vez trabalhamos com o upcycling de peças jeans em parceria com a LEVIS. Em comemoração aos 150 anos do primeiro modelo de calça jeans da história e sua relevância, a 501®. A Neriage foi uma das marcas escolhidas para trazer identidade através da desmontagem e montagem dessas calças e os resultados foram jaquetas pregueadas, calças duplas, saias e vestidos plissados - tudo aproveitando os acabamentos das peças e 100% costurado à mão.</p><p>Também pela primeira vez a Neriage se une à joalheira Victoria Sayeg na criação de joias exclusivas em ouro 18k e pérolas de água doce, unindo a delicadeza dos traços da designer com as formas orgânicas e texturizadas da Neriage. Joias em ouro liso foram escolhidas para experimentar as densidades de sua forma mais pura. O plissado, tão característico da Neriage, foi transportado para o metal trazendo leveza e movimento à sua consistência.</p><p>As pérolas revelam o pilar comum entre as marcas: a glorificação da natureza, de seu caráter próprio e da beleza oculta nos seres, objetos e processos.</p><p>Os sapatos são desenvolvidos em parceria com a designer Juliana Bicudo. Para sua estreia nas passarelas, Juliana desenvolveu um modelo de sapato com duas versões de salto - um mule (salto baixo) e uma flatform com salto de 5cm, ambos em couro, com solado de borracha e  faixa de couro plissado, identidade chave da Neriage, em tons que acompanham a cartela de cores da coleção: preto, off white, dourado e ferrugem.</p><p>Por fim, uma de nossas parcerias de maior sucesso na coleção de inverno, a collab com o Projeto Akra, comandado pelo designer Samuray Martins, se repete nessa coleção num novo formato. O projeto tem como objetivo valorizar a mão de obra artesanal e o slow fashion, onde cada acessório tem seu tempo de produção respeitado, feito a partir das fibras do buriti e da piaçava. Hoje, seu projeto faz uma importante diferença na renda de várias famílias no Maranhão e na Bahia, além de ter sedes de capacitação também no Peru e em Madagascar - onde foram realizadas as bolsas e chapéus dessa coleção. As peças foram confeccionadas com a fibra de raphia de colheita ecológica e os tons da coleção foram dados com pigmentos atestados Reach. A fibra se transforma em lindas peças em crochê, com pontos e bordado de franjas exclusivas desenvolvidas pelas artesãs locais do Projeto Akra para a Neriage.</p><p><em>— texto por Rafaella Caniello, diretora criativa da Neriage.</em></p>",
-            "text_font_class": "fs-body-100"
-          }
-        }
-      },
-      "block_order": [
-        "text_AEDwx8"
-      ],
-      "settings": {
-        "alignment": "left_left",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom",
-        "content_width": "full",
-        "custom_content_width": 700
+        "section_padding": "section--vertical-padding-top-only"
       }
     },
     "featured_collection_slider_MEtXRz": {
@@ -503,7 +516,7 @@
           "type": "collection",
           "settings": {
             "show_view_all": true,
-            "collection": "cartas-para-itaca",
+            "collection": "onze",
             "collection_name": "{{ block.settings.collection.title }}"
           }
         }
@@ -531,12 +544,7 @@
     "gallery_carousel_icnCwa",
     "main",
     "rich_text_pHjUjb",
-    "video_mF9azV",
-    "rich_text_39UpWw",
-    "grid_JHKNEa",
-    "rich_text_jfrEEi",
     "grid_kezKgh",
-    "rich_text_n9cJMR",
     "featured_collection_slider_MEtXRz"
   ]
 }

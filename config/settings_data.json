@@ -47,7 +47,7 @@
     "swatch_options": "Cor",
     "swatch_shape": "square",
     "swatch_image_fit": "cover",
-    "custom_swatch_colors": "Preto: #000000\nPretos: #000000\nBranco: #FFFFFF\nBrancos: #FFFFFF\nBege: #c4b19c\nBeges: #c4b19c\nAmarelos: #ffd061\nAmarelo: #ffd061\nAzul: #042e96\nAzuis: #042e96\nVermelho: #a60223\nVermelhos: #a60223\nPátina: #dfdcd6\nOff: #f3f4ef\nOff White: #f3f4ef\nFendi: #c5b49f\nMarinho: #09102c\nLilás: #d9cadd\nVerde: #625a41\nVerdes: #625a41\nLaranjas: #c35219\nLaranja: #c35219",
+    "custom_swatch_colors": "Preto: #000000\nPretos: #000000\npreto: #000000\nBranco: #FFFFFF\nBrancos: #FFFFFF\nbranco: #ffffff\nBege: #c4b19c\nbege: #c4b19c\nBeges: #c4b19c\nAmarelos: #ffd061\nAmarelo: #ffd061\nAzul: #042e96\nAzuis: #042e96\nVermelho: #a60223\nvermelho: #a60223\nVermelhos: #a60223\nPátina: #dfdcd6\nOff: #f3f4ef\nOff White: #f3f4ef\nFendi: #c5b49f\nMarinho: #09102c\nLilás: #d9cadd\nVerde: #625a41\nVerdes: #625a41\nLaranjas: #c35219\nLaranja: #c35219\nCanela: #c36a4d\nChampagne: #e9e6dd\nCinzas: #8c8a86\nCinza: #8c8a86\nCreme: #ded6c4\nMarrons: #7e4f3b\nMarrom: #7e4f3b\nDourado: #cc8105\nRosas: #934357\nRosa: #934357\nRoxos: #7d5b8c\nRoxo: #7d5b8c",
     "product_show_siblings_product_image": "color",
     "siblings_option_name": "Cor",
     "chip_options": "Cor, Tamanho",
@@ -101,6 +101,20 @@
     "favicon": "shopify://shop_images/favicon_neriage2.png",
     "enable_back_to_top": true,
     "quick_search_max_result_size": 6,
+    "sections": {
+      "password-header": {
+        "type": "password-header",
+        "settings": {
+          "layout": "logo-center",
+          "divider_width": "0px",
+          "logo": "shopify://shop_images/neriage-logo-branco.svg",
+          "logo_width": 120,
+          "mobile_logo_width": 120,
+          "enable_transparent": true,
+          "color_text_transparent": "#ffffff"
+        }
+      }
+    },
     "content_for_index": [],
     "blocks": {
       "8776485610325655785": {
