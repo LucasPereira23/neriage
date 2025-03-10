@@ -405,7 +405,7 @@
                   <h3 class="ff-body fs-body-200">{{ 'cart.general.subtotal' | t }}</h3>
                   <span class="ff-body fs-body-200">
                     {{- cart.total_price | money -}}
-                    {%- if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif -%}
+                    {% comment %} {%- if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif -%} {% endcomment %}
                   </span>
                 </div>
                 <p class="quick-cart__footer-tax-note ff-body fs-body-75 t-subdued">
