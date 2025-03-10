@@ -608,7 +608,7 @@
         "address_company_contains_html_tags": "O bairro não pode ter tags HTML.",
         "address_company_contains_emojis": "O nome do bairro não pode conter emojis",
         "address_company_contains_mathematical_symbols": "O nome do do bairro não pode conter símbolos matemáticos.",
-        "address_address2_blank": "Insira o número.v"
+        "address_address2_blank": "Insira o número."
       },
       "wallets": {
         "errors": {
