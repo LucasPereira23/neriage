@@ -568,5 +568,18 @@
       "pick_up_unavailable_at": "Recogida no disponible en {{ location_name }}",
       "view_store_info": "Ver información de la tienda"
     }
+  },
+  "cep": {
+    "shipping": "Envío",
+    "form_text": "Ingrese su código postal",
+    "form_button": "Calcular",
+    "shipping_by": "vía",
+    "shipping_up": "hasta",
+    "business_day": "día(s) hábil(es)",
+    "pick_up": "Recoger en tienda",
+    "free": "gratis",
+    "error_fetch": "No se pudieron obtener las tarifas de envío. Inténtalo de nuevo.",
+    "error_general": "Se produjo un error al calcular el envío. Inténtalo de nuevo.",
+    "error_invalid_cep": "Por favor, ingrese un código postal válido."
   }
 }

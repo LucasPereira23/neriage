@@ -207,7 +207,160 @@
               {%- endif -%}
             </div>
             <div class="quick-cart__footer animation--quick-cart-footer">
-              <div class="quick-cart__footer-inner">
+                <div class="quick-cart__footer-inner small-bottom">
+                  <div class="cep-calculator__container">
+                    <div class="cep-calculator__info">
+                      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M20.734 6.566 12 9.512 3.265 6.566M12 20.376V9.512" stroke="currentColor" stroke-width=".966" stroke-miterlimit="10"/>
+                        <path d="m7.854 5.021 8.734 2.946" stroke="currentColor" stroke-width=".872" stroke-miterlimit="10"/>
+                        <path d="m12 20.376 8.734-3.678V6.566L12 3.624 3.265 6.566V16.698L12 20.376z" stroke="currentColor" stroke-width=".966" stroke-miterlimit="10"/>
+                        <path d="m5.602 9.546 3.67 1.27v2.454l-3.67-1.378V9.546z" stroke="currentColor" stroke-width=".872" stroke-miterlimit="10"/>
+                      </svg>
+                      <span>{{ 'cep.shipping' | t }}</span>
+                    </div>
+
+                    <div class="cep-calculator__form-container">
+                      <div class="cep-calculator__form">
+                        <input id="cepInput" class="cep-calculator__input" type="text" placeholder="Digite seu CEP" maxlength="9">
+                        <button class="cep-calculator__button btn btn--full btn--primary" type="button">{{ 'cep.form_button' | t }}</button>
+                      </div>
+                    </div>
+
+                    <div class="cep-calculator__cep hidden">
+                      <div class="cep-calculator__cep-header">
+                        <span></span>
+                        <button type="button">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none">
+                            <path d="M1.04947 0.349823L0.699647 0L0 0.699647L0.349823 1.04947L1.04947 0.349823ZM10.9505 11.6502L11.3004 12L12 11.3004L11.6502 10.9505L10.9505 11.6502ZM11.6502 1.04947L12 0.699647L11.3004 0L10.9505 0.349823L11.6502 1.04947ZM0.349823 10.9505L0 11.3004L0.699647 12L1.04947 11.6502L0.349823 10.9505ZM0.349823 1.04947L5.65018 6.34982L6.34982 5.65018L1.04947 0.349823L0.349823 1.04947ZM6.34982 6.34982L11.6502 1.04947L10.9505 0.349823L5.65018 5.65018L6.34982 6.34982ZM5.65018 5.65018L0.349823 10.9505L1.04947 11.6502L6.34982 6.34982L5.65018 5.65018ZM5.65018 6.34982L10.9505 11.6502L11.6502 10.9505L6.34982 5.65018L5.65018 6.34982Z" fill="black"/>
+                          </svg>
+                        </button>
+                      </div>
+
+                      <div class="cep-calculator__cep-shippings">
+                        {% comment %} <div class="cep-calculator__cep-shipping">
+                          <span></span>
+                        </div>
+                        <div class="cep-calculator__cep-range">
+                          <span></span>
+                        </div>
+                        <div class="cep-calculator__cep-price">
+                          <span></span>
+                        </div> {% endcomment %}
+                      </div>
+
+                      <div class="cep-calculator__cep-free">
+                        <div class="cep-calculator__cep-shipping">
+                          <span>{{ 'cep.pick_up' | t }}</span>
+                        </div>
+                        <div class="cep-calculator__cep-price">
+                          <span>{{ 'cep.free' | t }}</span>
+                        </div>
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+
+                <script>
+                  document.addEventListener("DOMContentLoaded", function () {
+                    const cepInput = document.querySelector(".cep-calculator__input");
+                    const calculateButton = document.querySelector(".cep-calculator__button");
+                    const cepFormContainer = document.querySelector(".cep-calculator__form-container");
+                    const cepForm = document.querySelector(".cep-calculator__form");
+                    const cepResult = document.querySelector(".cep-calculator__cep");
+                    const cepShippings = document.querySelector(".cep-calculator__cep-shippings");
+                    const cepHeader = document.querySelector(".cep-calculator__cep-header");
+                    const cepHeaderText = document.querySelector(".cep-calculator__cep-header span");
+                    const shipping_by = {{ 'cep.shipping_by' | t | json }};
+                    const shipping_up = {{ 'cep.shipping_up' | t | json }};
+                    const business_day = {{ 'cep.business_day' | t | json }};
+                    const error_fetch = {{ 'cep.error_fetch' | t | json }};
+                    const error_general = {{ 'cep.error_general' | t | json }};
+                    const error_invalid_cep = {{ 'cep.error_invalid_cep' | t | json }};
+
+                    let errorMessage = document.createElement("p");
+                    errorMessage.classList.add("cep-error-message");
+                    errorMessage.style.display = "none";
+                    cepFormContainer.appendChild(errorMessage);
+
+                    function fetchShippingRates(cep, attempt = 1) {
+                      fetch("https://neriage.com.br/cart/prepare_shipping_rates", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                        body: new URLSearchParams({
+                          "shipping_address[zip]": cep,
+                          "shipping_address[province]": "São Paulo",
+                          "shipping_address[country]": "Brazil",
+                        }),
+                      })
+                        .then(() => fetch("https://neriage.com.br/cart/async_shipping_rates"))
+                        .then((response) => response.json())
+                        .then((data) => {
+                          if (data.shipping_rates && data.shipping_rates.length > 0) {
+                            cepForm.classList.add("hidden");
+                            cepResult.classList.remove("hidden");
+                            cepShippings.innerHTML = "";
+                            cepHeaderText.innerHTML = cep;
+
+                            data.shipping_rates.forEach((rate) => {
+                              const shippingItem = document.createElement("div");
+                              shippingItem.classList.add("cep-calculator__shipping-block");
+                              shippingItem.innerHTML = `
+                                <p class="cep-calculator__cep-shipping">${shipping_by} ${rate.name}</p>
+                                <p class="cep-calculator__cep-range">${shipping_up} ${rate.delivery_days[1]} ${business_day}</p>
+                                <p class="cep-calculator__cep-price">R$ ${parseFloat(rate.price).toFixed(2)}</p>
+                              `;
+                              cepShippings.appendChild(shippingItem);
+                            });
+
+                            errorMessage.style.display = "none";
+                          } else if (attempt < 3) {
+                            console.warn(`Tentativa ${attempt} falhou, tentando novamente...`);
+                            setTimeout(() => fetchShippingRates(cep, attempt + 1), 1000);
+                          } else {
+                            errorMessage.textContent = error_fetch;
+                            errorMessage.style.display = "block";
+                          }
+                        })
+                        .catch((error) => {
+                          console.error("Erro ao buscar frete:", error);
+                          if (attempt < 3) {
+                            console.warn(`Tentativa ${attempt} falhou, tentando novamente...`);
+                            setTimeout(() => fetchShippingRates(cep, attempt + 1), 1000);
+                          } else {
+                            errorMessage.textContent = error_general;
+                            errorMessage.style.display = "block";
+                          }
+                        });
+                    }
+
+                    calculateButton.addEventListener("click", function () {
+                      const cep = cepInput.value.trim();
+                      if (!cep) {
+                        alert(error_invalid_cep);
+                        return;
+                      }
+                      errorMessage.style.display = "none";
+                      fetchShippingRates(cep);
+                    });
+
+                    cepHeader.addEventListener("click", function () {
+                      cepForm.classList.remove("hidden");
+                      cepResult.classList.add("hidden");
+                      errorMessage.style.display = "none";
+                    });
+
+                    document.getElementById('cepInput').addEventListener('input', function (e) {
+                      let value = e.target.value.replace(/\D/g, '');
+                      if (value.length > 5) {
+                        value = value.replace(/^(\d{5})(\d)/, '$1-$2');
+                      }
+                      e.target.value = value;
+                    });
+                  });
+                </script>
+
+                <div class="quick-cart__footer-inner">
                 {%- if settings.show_cart_notes -%}
                   <div class="quick-cart__footer-order-note-wrapper" aria-expanded="false" aria-hidden="true">
                     <button
@@ -315,6 +468,7 @@
     </div>
   </div>
 {%- endif -%}
+
 
 {% schema %}
 {

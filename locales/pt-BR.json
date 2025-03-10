@@ -577,5 +577,18 @@
       "pick_up_unavailable_at": "Retirada indisponível em {{ location_name }}",
       "view_store_info": "Ver informações da loja"
     }
+  },
+  "cep": {
+    "shipping": "Frete",
+    "form_text": "Digite seu CEP",
+    "form_button": "Calcular",
+    "shipping_by": "via",
+    "shipping_up": "até",
+    "business_day": "dia(s) úteis",
+    "pick_up": "retirar em loja",
+    "free": "grátis",
+    "error_fetch": "Não foi possível obter os valores de frete. Tente novamente.",
+    "error_general": "Ocorreu um erro ao calcular o frete. Tente novamente.",
+    "error_invalid_cep": "Por favor, insira um CEP válido."
   }
 }

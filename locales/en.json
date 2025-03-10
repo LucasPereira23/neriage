@@ -577,5 +577,18 @@
       "pick_up_unavailable_at": "Pickup unavailable at {{ location_name }}",
       "view_store_info": "View store information"
     }
+  },
+  "cep": {
+    "shipping": "Shipping",
+    "form_text": "Enter your ZIP code",
+    "form_button": "Calculate",
+    "shipping_by": "via",
+    "shipping_up": "up to",
+    "business_day": "business day(s)",
+    "pick_up": "Pick up in store",
+    "free": "free",
+    "error_fetch": "Could not retrieve shipping rates. Please try again.",
+    "error_general": "An error occurred while calculating shipping. Please try again.",
+    "error_invalid_cep": "Please enter a valid ZIP code."
   }
 }

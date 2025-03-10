@@ -568,5 +568,18 @@
       "pick_up_unavailable_at": "Ritiro attualmente non disponibile presso la sede {{ location_name }}",
       "view_store_info": "Visualizza i dettagli del negozio"
     }
+  },
+  "cep": {
+    "shipping": "Spedizione",
+    "form_text": "Inserisci il tuo CAP",
+    "form_button": "Calcolare",
+    "shipping_by": "tramite",
+    "shipping_up": "fino a",
+    "business_day": "giorno/i lavorativo/i",
+    "pick_up": "Ritiro in negozio",
+    "free": "gratuito",
+    "error_fetch": "Impossibile recuperare le tariffe di spedizione. Riprova.",
+    "error_general": "Si è verificato un errore durante il calcolo della spedizione. Riprova.",
+    "error_invalid_cep": "Inserisci un CAP valido."
   }
 }

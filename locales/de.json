@@ -568,5 +568,18 @@
       "pick_up_unavailable_at": "Abholung nicht möglich bei {{ location_name }}",
       "view_store_info": "Filialinformationen anzeigen"
     }
+  },
+  "cep": {
+    "shipping": "Versand",
+    "form_text": "Geben Sie Ihre Postleitzahl ein",
+    "form_button": "Berechnen",
+    "shipping_by": "über",
+    "shipping_up": "bis zu",
+    "business_day": "Werktag(e)",
+    "pick_up": "Im Laden abholen",
+    "free": "kostenlos",
+    "error_fetch": "Es war nicht möglich, die Versandkosten zu berechnen. Bitte versuchen Sie es erneut.",
+    "error_general": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später erneut.",
+    "error_invalid_cep": "Bitte geben Sie eine gültige Postleitzahl ein."
   }
 }
