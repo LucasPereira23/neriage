@@ -355,7 +355,7 @@
         "hotspot_yXg943": {
           "type": "hotspot",
           "settings": {
-            "product_item": "kimono-abissal",
+            "product_item": "blazer-chuva",
             "horizontal_position": 56,
             "vertical_position": 76
           }
@@ -363,7 +363,7 @@
         "hotspot_gzMNmP": {
           "type": "hotspot",
           "settings": {
-            "product_item": "saia-abissal",
+            "product_item": "calca-chuva",
             "horizontal_position": 50,
             "vertical_position": 44
           }
@@ -374,13 +374,13 @@
         "hotspot_gzMNmP"
       ],
       "settings": {
-        "image": "shopify://shop_images/NERIAGE_SS25010311985.jpg",
+        "image": "shopify://shop_images/Copia_de_blazer_e_calca_chuva_1.webp",
         "image_position": "left",
         "image_size": 55,
         "aspect_ratio": "portrait_alt",
-        "heading": "Abissal",
+        "heading": "2046",
         "heading_tag": "h2",
-        "subheading": "<p>Inspirada na obra \"Abyssal\", da aclamada artista Regina Silveira, localizada na Polônia. Combinando arte e moda, estas peças encapsulam a profundidade e a complexidade do trabalho de Regina, traduzidas em um design sofisticado e moderno.</p>",
+        "subheading": "<p>Mais do que uma estética, a essência de 2046 se traduz na construção das peças, camadas e recortes sugerem memórias sobrepostas, fragmentos de histórias que jamais se encaixam por completo</p>",
         "link": "",
         "link_text": "",
         "button_style": "btn--callout",
