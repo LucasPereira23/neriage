@@ -129,7 +129,7 @@
       "add": "Adicionar endereço",
       "add_new": "Adicionar um novo endereço",
       "address1": "Endereço",
-      "address2": "Apartamento, suíte, etc.",
+      "address2": "Número",
       "cancel": "Cancelar",
       "city": "Cidade",
       "company": "Empresa",
@@ -598,14 +598,25 @@
         "optional_company_label": "Bairro",
         "change_company_location_link_label": "Alterar bairro",
         "company_attention_label": "Bairro",
-        "optional_company_attention_label": "Bairro"
+        "optional_company_attention_label": "Bairro",
+        "address2_label": "Número",
+        "optional_address2_label": "Número"
       },
       "field_errors": {
         "address_company_blank": "Insira o bairro.",
         "address_company_too_long": "O nome do bairro é longo demais (máximo de 255 caracteres)",
         "address_company_contains_html_tags": "O bairro não pode ter tags HTML.",
         "address_company_contains_emojis": "O nome do bairro não pode conter emojis",
-        "address_company_contains_mathematical_symbols": "O nome do do bairro não pode conter símbolos matemáticos."
+        "address_company_contains_mathematical_symbols": "O nome do do bairro não pode conter símbolos matemáticos.",
+        "address_address2_blank": "Insira o número.v"
+      },
+      "wallets": {
+        "errors": {
+          "missing": {
+            "address2": "Insira o número.",
+            "billing_address2": "Insira o número para faturamento"
+          }
+        }
       }
     }
   },
