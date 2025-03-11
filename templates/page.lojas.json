@@ -113,7 +113,7 @@
             "heading": "Neriage Jardins",
             "heading_tag": "h3",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Rua Dr. Melo Alves, 422 <br/>Jardins, São Paulo | SP<br/></p><h5>Horário de funcionamento:</h5><p>Segunda a Sexta: 10h às 19h<br/>Sábados: 10h às 17h<br/>Domingos: fechado</p>",
+            "text": "<p>Rua Dr. Melo Alves, 422 <br/>Jardins, São Paulo | SP<br/></p><h5>Horário de funcionamento:</h5><p>Segunda a Sexta: 10h às 19h<br/>Sábados: 10h às 17h<br/>Domingos e feriados: fechado</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "tel:+55 11 97122-4937",
