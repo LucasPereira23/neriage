@@ -85,6 +85,7 @@
         },
         "product_callouts_RRkiqE": {
           "type": "product_callouts",
+          "disabled": true,
           "settings": {
             "title": "",
             "title_tag": "h3",
