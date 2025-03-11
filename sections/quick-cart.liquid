@@ -222,7 +222,9 @@
                     <div class="cep-calculator__form-container">
                       <div class="cep-calculator__form">
                         <input id="cepInput" class="cep-calculator__input" type="text" placeholder="Digite seu CEP" maxlength="9">
-                        <button class="cep-calculator__button btn btn--full btn--primary" type="button">{{ 'cep.form_button' | t }}</button>
+                        <button class="cep-calculator__button btn btn--full btn--primary" type="button">
+                          <span class="cep-button-label">{{ 'cep.form_button' | t }}</span>
+                        </button>
                       </div>
                     </div>
 
@@ -271,6 +273,7 @@
                     const cepShippings = document.querySelector(".cep-calculator__cep-shippings");
                     const cepHeader = document.querySelector(".cep-calculator__cep-header");
                     const cepHeaderText = document.querySelector(".cep-calculator__cep-header span");
+                    const form_button = {{ 'cep.form_button' | t | json }};
                     const shipping_by = {{ 'cep.shipping_by' | t | json }};
                     const shipping_up = {{ 'cep.shipping_up' | t | json }};
                     const business_day = {{ 'cep.business_day' | t | json }};
@@ -337,17 +340,26 @@
                     calculateButton.addEventListener("click", function () {
                       const cep = cepInput.value.trim();
                       if (!cep) {
-                        alert(error_invalid_cep);
+                        errorMessage.textContent = error_invalid_cep;
+                        errorMessage.style.display = "block";
                         return;
                       }
+
+                      const buttonLabel = calculateButton.querySelector(".cep-button-label");
+                      buttonLabel.innerHTML = '<span class="cep-button-loading"></span>';
+
                       errorMessage.style.display = "none";
                       fetchShippingRates(cep);
                     });
 
                     cepHeader.addEventListener("click", function () {
+                      const buttonLabel = calculateButton.querySelector(".cep-button-label");
+
                       cepForm.classList.remove("hidden");
                       cepResult.classList.add("hidden");
                       errorMessage.style.display = "none";
+
+                      buttonLabel.textContent = form_button;
                     });
 
                     document.getElementById('cepInput').addEventListener('input', function (e) {

@@ -7762,6 +7762,22 @@ body.header-transparent #main > .shopify-section:first-child .collection-banner_
   padding-left: 6px;
 }  
 
+.cep-button-loading {
+  margin:6px 26px 0px 26px;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  border-top-color: white;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
 
 .quick-cart__item-top .quick-cart__item-discounts{
     margin-top:calc(4px * 3);
