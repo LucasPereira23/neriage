@@ -464,7 +464,7 @@
       "swatch_and_chip_delimiter": ", ",
       "swatch_count": {
         "one": "{{ count }} {{ swatch_name }}",
-        "other": "{{ count }} {{ swatch_name }}s",
+        "other": "{{ count }} {{ swatch_name }}es",
         "zero": "Nenhum {{ swatch_name }}"
       },
       "swatch_overflow": "+{{ overflow_amount }} mais",
