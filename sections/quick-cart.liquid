@@ -324,6 +324,9 @@
                             errorMessage.textContent = error_fetch;
                             errorMessage.style.display = "block";
                           }
+
+                          const buttonLabel = calculateButton.querySelector(".cep-button-label");
+                          buttonLabel.textContent = form_button;
                         })
                         .catch((error) => {
                           console.error("Erro ao buscar frete:", error);
