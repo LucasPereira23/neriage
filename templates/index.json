@@ -383,23 +383,14 @@
         "hotspot_yXg943": {
           "type": "hotspot",
           "settings": {
-            "product_item": "blazer-chuva",
+            "product_item": "vestido-nery",
             "horizontal_position": 56,
             "vertical_position": 76
-          }
-        },
-        "hotspot_gzMNmP": {
-          "type": "hotspot",
-          "settings": {
-            "product_item": "calca-chuva",
-            "horizontal_position": 50,
-            "vertical_position": 44
           }
         }
       },
       "block_order": [
-        "hotspot_yXg943",
-        "hotspot_gzMNmP"
+        "hotspot_yXg943"
       ],
       "settings": {
         "image": "shopify://shop_images/Copia_de_Vestido_Nery_1.webp",
