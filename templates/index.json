@@ -290,13 +290,41 @@
         "collection_7bAg3a": {
           "type": "collection",
           "settings": {
-            "collection": "ver-todos-roupas"
+            "collection": "onze"
           }
         }
       },
       "block_order": [
         "collection_7bAg3a"
       ],
+      "settings": {
+        "heading": "",
+        "heading_tag": "h2",
+        "subheading": "<h6>2046</h6>",
+        "link": "shopify://collections/onze",
+        "link_text": "Ver todos",
+        "maximum_collections": 8,
+        "columns": "4",
+        "mobile_columns": "2",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "featured_collection_grid_XdMGEq": {
+      "type": "featured-collection-grid",
+      "blocks": {
+        "collection_H6DftY": {
+          "type": "collection",
+          "settings": {
+            "collection": "ver-todos-roupas"
+          }
+        }
+      },
+      "block_order": [
+        "collection_H6DftY"
+      ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_tag": "h2",
@@ -824,6 +852,7 @@
     "sales_banner",
     "countdown_bar_T6YCBW",
     "featured_collection_grid_yCeHwq",
+    "featured_collection_grid_XdMGEq",
     "featured_collection_slider_aGJbt3",
     "shoppable_feature_xWX7DV",
     "collection_list_slider",
