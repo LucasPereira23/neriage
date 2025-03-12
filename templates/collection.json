@@ -41,7 +41,7 @@
         "enable_sticky_filter_bar": true,
         "desktop_filter_location": "sidebar",
         "collapse_filter_bar": true,
-        "enable_sticky_filter_sidebar": true,
+        "enable_sticky_filter_sidebar": false,
         "collapse_filter_groups_desktop": true,
         "collapse_filter_groups_mobile": true,
         "show_swatch_filters": true,
