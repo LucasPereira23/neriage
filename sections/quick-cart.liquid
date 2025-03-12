@@ -288,6 +288,14 @@
                     errorMessage.style.display = "none";
                     cepFormContainer.appendChild(errorMessage);
 
+                    document.getElementById('cepInput').addEventListener('input', function (e) {
+                      let value = e.target.value.replace(/\D/g, '');
+                      if (value.length > 5) {
+                        value = value.replace(/^(\d{5})(\d)/, '$1-$2');
+                      }
+                      e.target.value = value;
+                    });
+
                     function fetchShippingRates(cep, attempt = 1) {
                       fetch("https://neriage.com.br/cart/prepare_shipping_rates", {
                         method: "POST",
@@ -364,13 +372,6 @@
                       buttonLabel.textContent = form_button;
                     });
 
-                    document.getElementById('cepInput').addEventListener('input', function (e) {
-                      let value = e.target.value.replace(/\D/g, '');
-                      if (value.length > 5) {
-                        value = value.replace(/^(\d{5})(\d)/, '$1-$2');
-                      }
-                      e.target.value = value;
-                    });
                   });
                 </script>
 
