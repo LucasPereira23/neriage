@@ -47,7 +47,7 @@
     "swatch_options": "Cor",
     "swatch_shape": "square",
     "swatch_image_fit": "cover",
-    "custom_swatch_colors": "Preto: #000000\nPretos: #000000\npreto: #000000\nBranco: #FFFFFF\nBrancos: #FFFFFF\nbranco: #ffffff\nBege: #c4b19c\nbege: #c4b19c\nBeges: #c4b19c\nAmarelos: #ffd061\nAmarelo: #ffd061\nAzul: #042e96\nAzuis: #042e96\nVermelho: #a60223\nvermelho: #a60223\nVermelhos: #a60223\nPátina: #dfdcd6\nOff: #f3f4ef\nOff White: #f3f4ef\nFendi: #c5b49f\nMarinho: #09102c\nLilás: #d9cadd\nVerde: #625a41\nVerdes: #625a41\nLaranjas: #c35219\nLaranja: #c35219\nCanela: #c36a4d\nChampagne: #e9e6dd\nCinzas: #8c8a86\nCinza: #8c8a86\nCreme: #ded6c4\nMarrons: #7e4f3b\nMarrom: #7e4f3b\nDourado: #cc8105\nRosas: #934357\nRosa: #934357\nRoxos: #7d5b8c\nRoxo: #7d5b8c",
+    "custom_swatch_colors": "Preto: #000000\nPretos: #000000\npreto: #000000\nBranco: #FFFFFF\nBrancos: #FFFFFF\nbranco: #ffffff\nBege: #c4b19c\nbege: #c4b19c\nBeges: #c4b19c\nAmarelos: #ffd061\nAmarelo: #ffd061\nAzul: #042e96\nAzuis: #042e96\nVermelho: #a60223\nvermelho: #a60223\nVermelhos: #a60223\nPátina: #dfdcd6\nOff: #f3f4ef\nOff White: #f3f4ef\nFendi: #c5b49f\nMarinho: #09102c\nLilás: #d9cadd\nVerde: #625a41\nVerdes: #625a41\nLaranjas: #c35219\nLaranja: #c35219\nCanela: #c36a4d\nChampagne: #cfc7b2\nCinzas: #8c8a86\nCinza: #8c8a86\nCreme: #ded6c4\nMarrons: #7e4f3b\nMarrom: #7e4f3b\nDourado: #cc8105\nRosas: #934357\nRosa: #934357\nRoxos: #7d5b8c\nRoxo: #7d5b8c\nListrado Verde: #625a41\nListrado Azul: #042e96\nAzul Escuro: #09102c\nAzul Claro:#042e96\nEstampa Óculos: #cfc7b2",
     "product_show_siblings_product_image": "color",
     "siblings_option_name": "Cor",
     "chip_options": "Cor, Tamanho",

@@ -63,7 +63,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "enable_sticky_atc_bar_desktop": true,
             "enable_sticky_atc_bar_mobile": true,
             "divider_width": "border--thin"
@@ -75,7 +75,7 @@
             "heading": "Combina com",
             "heading_tag": "h3",
             "column_placement": "right",
-            "max_products": 1,
+            "max_products": 3,
             "product_source": "app-recommendations",
             "product_list": [],
             "enable_swiper_mobile": true,
