@@ -284,6 +284,45 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
+    "sales_banner_ztXUyw": {
+      "type": "sales-banner",
+      "settings": {
+        "min_height": 200,
+        "min_height_mobile": 300,
+        "sale_type": "Dia do consumidor",
+        "sale_amount": "15% EXTRA OFF",
+        "sale_unit": "none",
+        "terms_and_conditions": "",
+        "terms_vertical_offset": 12,
+        "sale_font_size": 80,
+        "sale_font_size_mobile": 76,
+        "currency_symbol_position": "before",
+        "heading": "em todo o SALE",
+        "heading_tag": "h2",
+        "heading_font_class": "fs-heading-3-base",
+        "text": "<p>por apenas 24hrs<br/>O desconto será automaticamente aplicado no Check-out</p>",
+        "link": "shopify://collections/sale",
+        "link_text": "Compre Agora",
+        "button_style": "btn--secondary",
+        "link_2": "shopify://collections",
+        "link_text_2": "",
+        "button_style_2": "btn--secondary",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "text_color": "#FFFFFF",
+        "button_background_color": "#FFFFFF",
+        "button_text_color": "#000000",
+        "background_color": "#000000",
+        "color_overlay": "#000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 53,
+        "layout": "two-columns",
+        "enable_animation": true,
+        "show_frame": false,
+        "full_width": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
     "featured_collection_grid_yCeHwq": {
       "type": "featured-collection-grid",
       "blocks": {
@@ -851,6 +890,7 @@
     "image_hero_split",
     "sales_banner",
     "countdown_bar_T6YCBW",
+    "sales_banner_ztXUyw",
     "featured_collection_grid_yCeHwq",
     "featured_collection_grid_XdMGEq",
     "featured_collection_slider_aGJbt3",
