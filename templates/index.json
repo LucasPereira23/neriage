@@ -164,7 +164,7 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-03-07_at_10.50.29.jpg",
+            "image": "shopify://shop_images/vestido_e_blazer_nery.jpg",
             "focal_point": "top",
             "mobile_focal_point": "center",
             "title": "Nova coleção",
@@ -178,8 +178,8 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-03-07_at_10.50.29_1.jpg",
-            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-03-07_at_10.50.29_1.jpg",
+            "image": "shopify://shop_images/Tunica_surrealismo_2.jpg",
+            "image_mobile": "shopify://shop_images/Tunica_surrealismo_2.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "title": "",
