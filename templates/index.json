@@ -284,6 +284,38 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
+    "rich_text_KWEjFW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dyhtc8": {
+          "type": "heading",
+          "settings": {
+            "title": "CAPÍTULO 11 - 2046",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "text_L8KGqf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>2046 não é apenas uma coleção, mas um espaço suspenso entre tempos, desejos e memórias. Um instante que se repete, mas nunca é o mesmo. O silêncio antes da resposta. O momento antes do adeus. A espera pelo reencontro. A felicidade na memória.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dyhtc8",
+        "text_L8KGqf"
+      ],
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": false,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    },
     "sales_banner_ztXUyw": {
       "type": "sales-banner",
       "disabled": true,
@@ -898,6 +930,7 @@
     "image_hero_split",
     "sales_banner",
     "countdown_bar_T6YCBW",
+    "rich_text_KWEjFW",
     "sales_banner_ztXUyw",
     "featured_collection_grid_yCeHwq",
     "featured_collection_grid_XdMGEq",
