@@ -385,7 +385,7 @@
         "hotspot_yXg943": {
           "type": "hotspot",
           "settings": {
-            "product_item": "blazer-nery",
+            "product_item": "blusa-fogo",
             "horizontal_position": 56,
             "vertical_position": 76
           }
@@ -393,7 +393,7 @@
         "hotspot_EEqMrL": {
           "type": "hotspot",
           "settings": {
-            "product_item": "vestido-nery",
+            "product_item": "saia-fogo",
             "horizontal_position": 50,
             "vertical_position": 50
           }
@@ -404,7 +404,7 @@
         "hotspot_EEqMrL"
       ],
       "settings": {
-        "image": "shopify://shop_images/vestido_e_blazer_nery_1.webp",
+        "image": "shopify://shop_images/NERIAGE_15_10_20240846_4f79009e-d991-44e6-8a3a-ef92e2210d8e.jpg",
         "image_position": "left",
         "image_size": 55,
         "aspect_ratio": "portrait_alt",
