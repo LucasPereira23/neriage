@@ -290,7 +290,7 @@
         "heading_dyhtc8": {
           "type": "heading",
           "settings": {
-            "title": "2046",
+            "title": "",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-2-base"
           }
@@ -298,7 +298,7 @@
         "text_L8KGqf": {
           "type": "text",
           "settings": {
-            "text": "<p>2046 não é apenas uma coleção, mas um espaço suspenso entre tempos, desejos e memórias. Um instante que se repete, mas nunca é o mesmo. O silêncio antes da resposta. O momento antes do adeus. A espera pelo reencontro. A felicidade na memória.</p>",
+            "text": "<p>Atravessar o tempo sem atravessar o próprio corpo. Entre a névoa dos instantes, o presente se desmancha em ecos de um futuro que nunca chega e um passado que nunca se despede. Assim nasce <strong>2046</strong>, coleção que respira na cadência nostálgica dos filmes de Wong Kar Wai e se dissolve entre abstrações do tempo e do espaço, como um sonho que se desfaz ao amanhecer.</p>",
             "text_font_class": "fs-body-100"
           }
         }
