@@ -164,7 +164,7 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/vestido_e_blazer_nery.jpg",
+            "image": "shopify://shop_images/blusa_e_saia_fogo.jpg",
             "focal_point": "top",
             "mobile_focal_point": "center",
             "title": "Nova coleção",
@@ -178,8 +178,8 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Tunica_surrealismo_2.jpg",
-            "image_mobile": "shopify://shop_images/Tunica_surrealismo_2.jpg",
+            "image": "shopify://shop_images/Copia_de_Vestido_Nery_1.webp",
+            "image_mobile": "shopify://shop_images/Copia_de_Vestido_Nery_1.webp",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "title": "",
