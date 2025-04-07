@@ -69,7 +69,7 @@
     "enable_product_card_swatches": false,
     "product_card_swatch_size": "medium",
     "product_listing_show_siblings_product_image": "custom",
-    "show_product_card_chips": true,
+    "show_product_card_chips": false,
     "product_card_chip_options": "Tamanho, Tamanho de Sapatos, tamanho sapato",
     "product_listing_aspect_ratio": "portrait",
     "product_listing_show_discount": false,
