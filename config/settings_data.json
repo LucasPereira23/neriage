@@ -67,7 +67,7 @@
     "enable_quick_add": true,
     "enable_quick_view": true,
     "enable_product_card_swatches": false,
-    "product_card_swatch_size": "small",
+    "product_card_swatch_size": "medium",
     "product_listing_show_siblings_product_image": "custom",
     "show_product_card_chips": true,
     "product_card_chip_options": "Tamanho, Tamanho de Sapatos, tamanho sapato",
