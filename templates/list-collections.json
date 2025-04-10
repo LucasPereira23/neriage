@@ -23,11 +23,11 @@
           "adagio"
         ],
         "columns": "3",
-        "mobile_columns": "2",
-        "rows": "4",
-        "collection_listing_aspect_ratio": "square",
-        "label_style": "overlay",
-        "overlay_title_background_style": "gradient",
+        "mobile_columns": "1",
+        "rows": "3",
+        "collection_listing_aspect_ratio": "portrait",
+        "label_style": "beneath",
+        "overlay_title_background_style": "solid",
         "overlay_text_color": "#fff",
         "overlay_title_background": "#000000",
         "enable_animation": true
