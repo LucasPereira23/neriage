@@ -252,7 +252,6 @@
     },
     "countdown_bar_T6YCBW": {
       "type": "countdown-bar",
-      "disabled": true,
       "settings": {
         "min_height": 60,
         "min_height_mobile": 60,
