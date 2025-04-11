@@ -15,7 +15,6 @@
         "display_type": "selected",
         "collection_list": [
           "ver-todos-acessorios",
-          "classicos",
           "bolsas",
           "oasis",
           "sale",
@@ -28,7 +27,7 @@
         "collection_listing_aspect_ratio": "portrait",
         "label_style": "beneath",
         "overlay_title_background_style": "solid",
-        "overlay_text_color": "#fff",
+        "overlay_text_color": "#ffffff",
         "overlay_title_background": "#000000",
         "enable_animation": true
       }
