@@ -3806,7 +3806,8 @@ html.no-js .product__media-show-more{
 .dynamic-variant-button.product__color-swatch.disabled::after{
         border-color:inherit;
       }
-.dynamic-variant-button.product__chip.disabled{
+.dynamic-variant-button.product__chip.disabled,
+.product-chips-options__item.disabled{
     position: relative;
     -webkit-text-decoration:line-through;
     /* text-decoration:line-through; */
@@ -3814,7 +3815,8 @@ html.no-js .product__media-show-more{
     color:var(--color-text-meta);
     overflow: hidden;
   }
-  .dynamic-variant-button.product__chip.disabled::after{
+  .dynamic-variant-button.product__chip.disabled::after,
+  .product-chips-options__item.disabled::after{
     position: absolute;
     content: "";
     left: 0;
