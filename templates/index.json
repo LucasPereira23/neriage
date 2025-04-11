@@ -227,7 +227,7 @@
         "heading_tag": "h2",
         "heading_font_class": "fs-heading-3-base",
         "text": "<p>Desconto adicional válido para categoria SALE e outras coleções, exceto Clássicos e 2046.<br/><br/></p>",
-        "link": "https://neriage.com.br/collections",
+        "link": "shopify://collections/sale",
         "link_text": "Compre agora",
         "button_style": "btn--primary",
         "link_2": "",
