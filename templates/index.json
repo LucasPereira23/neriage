@@ -252,7 +252,6 @@
     },
     "countdown_bar_T6YCBW": {
       "type": "countdown-bar",
-      "disabled": true,
       "settings": {
         "min_height": 60,
         "min_height_mobile": 60,
@@ -266,7 +265,7 @@
         "timer_complete_message": "",
         "heading": "15% EXTRA OFF",
         "heading_tag": "h4",
-        "text": "<p><br/>Desconto adicional válido para todas as coleções, exceto a 2046.<br/><br/></p>",
+        "text": "<p><br/>Desconto adicional válido para categoria SALE e outras coleções, exceto Clássicos e 2046.<br/><br/></p>",
         "link": "shopify://collections",
         "link_text": "Comprar agora",
         "button_style": "btn--secondary",
