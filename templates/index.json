@@ -212,6 +212,7 @@
     },
     "sales_banner": {
       "type": "sales-banner",
+      "disabled": true,
       "settings": {
         "min_height": 200,
         "min_height_mobile": 360,
