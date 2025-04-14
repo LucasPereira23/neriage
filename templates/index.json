@@ -417,7 +417,7 @@
         "hotspot_yXg943": {
           "type": "hotspot",
           "settings": {
-            "product_item": "blusa-fogo",
+            "product_item": "tunica-trico",
             "horizontal_position": 56,
             "vertical_position": 76
           }
@@ -425,7 +425,7 @@
         "hotspot_EEqMrL": {
           "type": "hotspot",
           "settings": {
-            "product_item": "saia-fogo",
+            "product_item": "saia-trico",
             "horizontal_position": 50,
             "vertical_position": 50
           }
@@ -436,7 +436,7 @@
         "hotspot_EEqMrL"
       ],
       "settings": {
-        "image": "shopify://shop_images/NERIAGE_15_10_20240846_4f79009e-d991-44e6-8a3a-ef92e2210d8e.jpg",
+        "image": "shopify://shop_images/NERIAGE_15_10_20240483_2.jpg",
         "image_position": "left",
         "image_size": 55,
         "aspect_ratio": "portrait_alt",
