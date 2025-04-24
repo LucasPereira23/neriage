@@ -178,10 +178,10 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NERIAGE_2.gif",
-            "image_mobile": "shopify://shop_images/Tunica_surrealismo_2_5c35f877-b9f7-4a16-97d6-5a3bb2342cd4.jpg",
-            "focal_point": "right",
-            "mobile_focal_point": "right",
+            "image": "shopify://shop_images/Video_sem_titulo_Feito_com_o_Clipchamp.gif",
+            "image_mobile": "shopify://shop_images/Video_sem_titulo_Feito_com_o_Clipchamp.gif",
+            "focal_point": "left",
+            "mobile_focal_point": "bottom",
             "title": "",
             "heading_tag": "h2",
             "text": "",
