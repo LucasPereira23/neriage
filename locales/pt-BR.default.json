@@ -600,8 +600,7 @@
         "company_attention_label": "Bairro",
         "optional_company_attention_label": "Bairro",
         "address2_label": "Número",
-        "optional_address2_label": "Número",
-        "optional_phone_label": "Número de telefone Necessário"
+        "optional_address2_label": "Número"
       },
       "field_errors": {
         "address_company_blank": "Insira o bairro.",
