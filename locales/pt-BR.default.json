@@ -594,7 +594,7 @@
   "shopify": {
     "checkout": {
       "contact": {
-        "company_label": "CPF/CNPJ1",
+        "company_label": "Bairro",
         "optional_company_label": "CPF/CNPJ",
         "change_company_location_link_label": "Alterar bairro",
         "company_attention_label": "Bairro",
