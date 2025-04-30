@@ -601,7 +601,7 @@
         "optional_company_attention_label": "Bairro",
         "address2_label": "Número",
         "optional_address2_label": "Número",
-        "optional_phone_label": " "
+        "optional_phone_label": "Número de telefone Necessário"
       },
       "field_errors": {
         "address_company_blank": "Insira o bairro.",
