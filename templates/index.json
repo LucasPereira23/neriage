@@ -164,13 +164,13 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NERIAGE_15_10_20241060_3.jpg",
+            "image": "shopify://shop_images/neriage_13954_st_005.jpg",
             "focal_point": "right",
             "mobile_focal_point": "center",
             "title": "Nova coleção",
             "heading_tag": "h2",
-            "text": "<p><strong>capítulo 11 - 2046</strong></p>",
-            "link": "shopify://collections/onze",
+            "text": "<p><strong>NERI.AMAR. </strong></p>",
+            "link": "shopify://products/t-shirt-namorados",
             "link_text": "Explorar",
             "button_style": "btn--secondary"
           }
@@ -178,8 +178,8 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NERIAGE_15_10_20241244.jpg",
-            "image_mobile": "shopify://shop_images/NERIAGE_15_10_20241244.jpg",
+            "image": "shopify://shop_images/neriage_13954_st_004.jpg",
+            "image_mobile": "shopify://shop_images/neriage_13954_st_004.jpg",
             "focal_point": "left",
             "mobile_focal_point": "bottom",
             "title": "",
@@ -252,6 +252,7 @@
     },
     "countdown_bar_T6YCBW": {
       "type": "countdown-bar",
+      "disabled": true,
       "settings": {
         "min_height": 60,
         "min_height_mobile": 60,
