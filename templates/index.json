@@ -178,14 +178,14 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NERIAGE_15_10_20241244.jpg",
-            "image_mobile": "shopify://shop_images/NERIAGE_15_10_20241244.jpg",
+            "image": "shopify://shop_images/T-Shirt_1_1080x1920_4b496298-8ade-4374-9258-95c991085dc9.gif",
+            "image_mobile": "shopify://shop_images/T-Shirt_1_1080x1920_4b496298-8ade-4374-9258-95c991085dc9.gif",
             "focal_point": "left",
             "mobile_focal_point": "bottom",
             "title": "",
             "heading_tag": "h2",
             "text": "",
-            "link": "",
+            "link": "shopify://products/t-shirt-namorados",
             "link_text": "",
             "button_style": "btn--secondary"
           }
