@@ -167,9 +167,9 @@
             "image": "shopify://shop_images/NERIAGE_15_10_20241154.jpg",
             "focal_point": "right",
             "mobile_focal_point": "center",
-            "title": "",
+            "title": "LANÇAMENTO",
             "heading_tag": "h2",
-            "text": "<p><strong>capítulo 11 - 2046</strong></p>",
+            "text": "<p><strong>2046</strong></p>",
             "link": "shopify://collections/onze",
             "link_text": "Explorar",
             "button_style": "btn--secondary"
@@ -178,7 +178,7 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NERIAGE-IA-GRAMA.jpg",
+            "image": "shopify://shop_images/NERIAGE-IA-SELVA2-branca_2.jpg",
             "image_mobile": "shopify://shop_images/NERIAGE-IA-GRAMA.jpg",
             "focal_point": "left",
             "mobile_focal_point": "bottom",
@@ -263,9 +263,9 @@
         "time_zone_selection": "shop",
         "hide_timer_on_complete": true,
         "timer_complete_message": "",
-        "heading": "",
+        "heading": "NERI.AMAR",
         "heading_tag": "h4",
-        "text": "<p>Neri.Amar - Mais que uma camiseta: um gesto tecido. Em algodão leve e com toque perfeito, modelagem reta, clássica e unissex, e bordado exclusivo em pregas. Disponível em branco e preto. <strong>Para vestir o afeto. Para presentear com intenção.</strong><br/><br/></p>",
+        "text": "<p>Mais que uma camiseta: um gesto tecido. Em algodão leve e com toque perfeito, modelagem reta, clássica e unissex, e bordado exclusivo em pregas. Disponível em branco e preto. <strong>Para vestir o afeto. Para presentear com intenção.</strong><br/><br/></p>",
         "link": "shopify://products/t-shirt-namorados",
         "link_text": "Compre Agora",
         "button_style": "btn--primary",
