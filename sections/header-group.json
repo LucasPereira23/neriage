@@ -14,17 +14,35 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_TfbV9t": {
+          "type": "announcement",
+          "settings": {
+            "title": "<p>Free standard shipping and returns on all orders</p>",
+            "title_mobile": "",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "title": "<p>ENTREGA PARA TODO O BRASIL | ATÉ 5X SEM JUROS | 10% OFF NA PRIMEIRA COMPRA</p>",
-            "title_mobile": "<p>Entrega p/ todo o BR | até 5X sem juros | 10% OFF na 1ª compra</p>",
+            "title": "<p>ENTREGA PARA TODO O BRASIL | 10% OFF NA PRIMEIRA COMPRA</p>",
+            "title_mobile": "<p>Entrega p/ todo o BR | 10% OFF na 1ª compra</p>",
+            "link": ""
+          }
+        },
+        "announcement_HExRgY": {
+          "type": "announcement",
+          "settings": {
+            "title": "<p>Free standard shipping and returns on all orders</p>",
+            "title_mobile": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement_TfbV9t",
+        "announcement-bar-0",
+        "announcement_HExRgY"
       ],
       "settings": {
         "enable_sticky_announcement_bar": "never",
