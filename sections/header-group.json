@@ -25,7 +25,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "title": "<p>ENTREGA PARA TODO O BRASIL | 10% OFF NA PRIMEIRA COMPRA</p>",
+            "title": "<p>ENTREGA PARA TODO O BRASIL | 10% OFF NA PRIMEIRA COMPRA.</p>",
             "title_mobile": "<p>Entrega p/ todo o BR | 10% OFF na 1ª compra</p>",
             "link": ""
           }
@@ -65,7 +65,7 @@
             "promo_width": 500,
             "promo_height": 250,
             "secondary_position": "right",
-            "image": "shopify://shop_images/Copia_de_chemise_miro_e_blazer_oswald_2_1.webp",
+            "image": "shopify://shop_images/NERIAGE_15_10_20241094_2.jpg",
             "focal_point": "image_presentation",
             "promo_text": "Novidades",
             "link": "shopify://collections/onze",
