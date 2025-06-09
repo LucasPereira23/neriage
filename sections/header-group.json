@@ -67,12 +67,12 @@
             "secondary_position": "right",
             "image": "shopify://shop_images/NERIAGE_15_10_20240538.jpg",
             "focal_point": "image_presentation",
-            "promo_text": "Novidades",
+            "promo_text": "Conheça as novidades",
             "link": "shopify://collections/onze",
             "link_text": "Explorar",
             "text_position": "flex-start_flex-end",
-            "text_color": "#000000",
-            "color_overlay": "#000000",
+            "text_color": "#242526",
+            "color_overlay": "#242526",
             "color_overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1) 22%, rgba(0, 0, 0, 1) 96%)",
             "overlay_opacity": 0
           }
