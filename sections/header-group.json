@@ -71,8 +71,8 @@
             "link": "shopify://collections/onze",
             "link_text": "EXPLORAR",
             "text_position": "flex-start_flex-end",
-            "text_color": "#242526",
-            "color_overlay": "#242526",
+            "text_color": "#ffffff",
+            "color_overlay": "#ffffff",
             "color_overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1) 22%, rgba(0, 0, 0, 1) 96%)",
             "overlay_opacity": 0
           }
