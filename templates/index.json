@@ -164,10 +164,10 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/casaco_ismael.webp",
+            "image": "shopify://shop_images/NERIAGE_15_10_20240546_2.jpg",
             "focal_point": "right",
             "mobile_focal_point": "center",
-            "title": "LANÇAMENTO",
+            "title": "",
             "heading_tag": "h2",
             "text": "<p><strong>2046</strong></p>",
             "link": "shopify://collections/onze",
@@ -178,8 +178,8 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/blazer_e_calca_chuva_2.jpg",
-            "image_mobile": "shopify://shop_images/blazer_e_calca_chuva_2.jpg",
+            "image": "shopify://shop_images/banner_site_1.png",
+            "image_mobile": "shopify://shop_images/banner_site_1.png",
             "focal_point": "left",
             "mobile_focal_point": "bottom",
             "title": "",
