@@ -178,8 +178,8 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner_site_1.png",
-            "image_mobile": "shopify://shop_images/banner_site_1.png",
+            "image": "shopify://shop_images/banner_site_NERI.SALE_junho25.webp",
+            "image_mobile": "shopify://shop_images/banner_site_NERI.SALE_junho25.webp",
             "focal_point": "left",
             "mobile_focal_point": "bottom",
             "title": "",
