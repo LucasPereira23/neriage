@@ -417,7 +417,7 @@
         "hotspot_yXg943": {
           "type": "hotspot",
           "settings": {
-            "product_item": "body-tarsila",
+            "product_item": "blazer-chuva",
             "horizontal_position": 56,
             "vertical_position": 76
           }
@@ -425,7 +425,7 @@
         "hotspot_EEqMrL": {
           "type": "hotspot",
           "settings": {
-            "product_item": "calca-ismael",
+            "product_item": "calca-chuva",
             "horizontal_position": 50,
             "vertical_position": 50
           }
@@ -436,7 +436,7 @@
         "hotspot_EEqMrL"
       ],
       "settings": {
-        "image": "shopify://shop_images/NERIAGE_15_10_20241417_1.jpg",
+        "image": "shopify://shop_images/NERIAGE_15_10_20240738_2.jpg",
         "image_position": "left",
         "image_size": 51,
         "aspect_ratio": "portrait_alt",
