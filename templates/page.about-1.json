@@ -318,11 +318,12 @@
     },
     "image_hero_MmteAp": {
       "type": "image-hero",
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 65,
         "mobile_height": 100,
-        "image": "shopify://shop_images/WhatsApp_Image_2025-03-07_at_10.50.29.jpg",
+        "image": "shopify://shop_images/siteD_9be36a87-ce04-4de6-b8a7-c9c375f68f12.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "",
