@@ -861,6 +861,14 @@
             "title": "",
             "text": ""
           }
+        },
+        "image_FKx3ae": {
+          "type": "image",
+          "settings": {
+            "focal_point": "image_presentation",
+            "title": "Image with caption",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>"
+          }
         }
       },
       "block_order": [
@@ -868,7 +876,8 @@
         "image_4Ek4gY",
         "image_RWrkNd",
         "image_b6fJrm",
-        "image_HbxYef"
+        "image_HbxYef",
+        "image_FKx3ae"
       ],
       "disabled": true,
       "settings": {
