@@ -15,7 +15,7 @@
       "settings": {
         "enable_animation": true,
         "content_width": "custom",
-        "custom_content_width": 700
+        "custom_content_width": 650
       }
     },
     "image_with_text_split_8Rw6iU": {
@@ -24,7 +24,7 @@
         "heading_jchXLz": {
           "type": "heading",
           "settings": {
-            "title": "Quem somos",
+            "title": "",
             "heading_tag": "h2",
             "heading_font_class": "fs-heading-display-2"
           }
@@ -38,7 +38,7 @@
         "text_LJUw9J": {
           "type": "text",
           "settings": {
-            "text": "<p>Neriage nomeia uma técnica ancestral da cerâmica, onde argilas de cores distintas se fundem sem se dissolver cada uma preservando sua essência, mas criando juntas uma nova superfície, marmorizada, única.</p><p>É daí que viemos. Da mistura que respeita, do encontro que transforma sem apagar.<br/>Transpomos esse gesto para a roupa: quando tecidos se tocam sem se impor, e se costuram num novo idioma íntimo, silencioso, impossível de repetir.</p><p>Nosso processo é lento porque precisa escutar.<br/>Escutar o tecido antes do corte.<br/>Escutar o corpo antes do molde.<br/>Escutar o tempo antes da pressa. <br/>Criar, para nós, é conversar com a matéria.<br/>É deixar que as mãos falem, muitas mãos, muitos saberes, cada um imprimindo um traço, um afeto, uma intenção. <br/>Cada peça é um corpo de memória.<br/>É forma viva que carrega a história de quem a fez e de quem a veste.</p><p><strong>Neriage existe para vestir com presença.</strong><br/>Para tocar com leveza.<br/>Para durar além da estação.<br/>Porque o que é único, não tem pressa.<br/>E o que tem alma, permanece.</p>",
+            "text": "<p><strong>SOBRE A MARCA:</strong><br/><br/>Neriage nomeia uma técnica ancestral da cerâmica, onde argilas de cores distintas se fundem sem se dissolver cada uma preservando sua essência, mas criando juntas uma nova superfície, marmorizada, única.</p><p>É daí que viemos. Da mistura que respeita, do encontro que transforma sem apagar.<br/>Transpomos esse gesto para a roupa: quando tecidos se tocam sem se impor, e se costuram num novo idioma íntimo, silencioso, impossível de repetir.</p><p>Nosso processo é lento porque precisa escutar.<br/>Escutar o tecido antes do corte.<br/>Escutar o corpo antes do molde.<br/>Escutar o tempo antes da pressa. <br/>Criar, para nós, é conversar com a matéria.<br/>É deixar que as mãos falem, muitas mãos, muitos saberes, cada um imprimindo um traço, um afeto, uma intenção. <br/>Cada peça é um corpo de memória.<br/>É forma viva que carrega a história de quem a fez e de quem a veste.</p><p><strong>Neriage existe para vestir com presença.</strong><br/>Para tocar com leveza.<br/>Para durar além da estação.<br/>Porque o que é único, não tem pressa.<br/>E o que tem alma, permanece.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -70,7 +70,7 @@
         "image_WBJphp": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/blusa_e_saia_fogo.jpg",
+            "image": "shopify://shop_images/Copia_de_20230117_NERIAGE_1985_1.webp",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "title": "",
@@ -364,7 +364,7 @@
             "heading": "",
             "heading_tag": "h3",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<h3>Nossos Caminhos</h3><p>A Neriage nasce como marca em 2017, tornando-se uma evolução do projeto de conclusão de curso da estilista Rafaella Caniello, apresentado na Faculdade Santa Marcelina (São Paulo- SP) em 2016 e vencedor do primeiro lugar na graduação.<br/>O projeto se chamava “Neriage: a essência da matéria através das roupas” e defendia que tudo tem um caráter próprio e um tempo a ser respeitado, a beleza oculta nos seres, objetos e processos. Esse trabalho foi fundamentado com base na obra “O mundo como vontade e representação”, do filósofo alemão Arthur Schopenhauer.<br/>Em maio de 2017, a Neriage fez seu desfile de estreia na Casa de Criadores, passando a integrar também o time de novos talentos da Vogue Brasil. Em abril de 2019, estreou na 47ª edição do São Paulo Fashion Week, entrando oficialmente no circuito da moda brasileira. Agora, seguimos em compasso próprio, desfilando uma coleção por ano, de forma independente.</p>",
+            "text": "<h6><strong>NOSSOS CAMINHOS:</strong></h6><p>A Neriage nasce como marca em 2017, tornando-se uma evolução do projeto de conclusão de curso da estilista Rafaella Caniello, apresentado na Faculdade Santa Marcelina (São Paulo- SP) em 2016 e vencedor do primeiro lugar na graduação.<br/>O projeto se chamava “Neriage: a essência da matéria através das roupas” e defendia que tudo tem um caráter próprio e um tempo a ser respeitado, a beleza oculta nos seres, objetos e processos. Esse trabalho foi fundamentado com base na obra “O mundo como vontade e representação”, do filósofo alemão Arthur Schopenhauer.<br/><br/>Em maio de 2017, a Neriage fez seu desfile de estreia na Casa de Criadores, passando a integrar também o time de novos talentos da Vogue Brasil. Em abril de 2019, estreou na 47ª edição do São Paulo Fashion Week, entrando oficialmente no circuito da moda brasileira. Agora, seguimos em compasso próprio, desfilando uma coleção por ano, de forma independente.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
