@@ -164,7 +164,7 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NERIAGE_15_10_20241346_a909a52c-d25e-4218-993e-fc04a071a638.jpg",
+            "image": "shopify://shop_images/NERIAGE_15_10_20241116.jpg",
             "focal_point": "right",
             "mobile_focal_point": "center",
             "title": "",
@@ -178,8 +178,8 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner_site_3.png",
-            "image_mobile": "shopify://shop_images/banner_site_3.png",
+            "image": "shopify://shop_images/banner_site_4.png",
+            "image_mobile": "shopify://shop_images/banner_site_4.png",
             "focal_point": "left",
             "mobile_focal_point": "bottom",
             "title": "",
