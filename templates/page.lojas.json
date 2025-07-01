@@ -58,7 +58,7 @@
           "settings": {
             "image": "shopify://shop_images/FELCO_211111-95-2-3.webp",
             "image_width": 100,
-            "aspect_ratio": "portrait",
+            "aspect_ratio": "square",
             "enable_image_crop_circle": false,
             "focal_point": "image_presentation",
             "image_position": "above_text",
@@ -105,7 +105,7 @@
           "settings": {
             "image": "shopify://shop_images/IMG_2186.webp",
             "image_width": 100,
-            "aspect_ratio": "natural",
+            "aspect_ratio": "square",
             "enable_image_crop_circle": false,
             "focal_point": "image_presentation",
             "image_position": "above_text",
