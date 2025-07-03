@@ -164,12 +164,12 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NERIAGE_15_10_20241116.jpg",
+            "image": "shopify://shop_images/camisaesaiaplissadascanvas.jpg",
             "focal_point": "right",
             "mobile_focal_point": "center",
             "title": "",
             "heading_tag": "h2",
-            "text": "<p><strong>2046</strong></p>",
+            "text": "<p><strong>LANÇAMENTO: HIATO</strong></p>",
             "link": "shopify://collections/onze",
             "link_text": "Explorar",
             "button_style": "btn--secondary"
