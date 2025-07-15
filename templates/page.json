@@ -1,1 +1,157 @@
-{"sections":{"main":{"type":"main-page","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_Vwrjq4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HDb9Bb": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "text_kfg8Q7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HDb9Bb",
+        "text_kfg8Q7"
+      ],
+      "name": "t:sections.rich_text.presets.name",
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    },
+    "gallery_carousel_z76gEX": {
+      "type": "gallery-carousel",
+      "blocks": {
+        "image_4NEqUD": {
+          "type": "image",
+          "settings": {
+            "focal_point": "image_presentation",
+            "title": "Image with caption",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>"
+          }
+        },
+        "image_cyjxmD": {
+          "type": "image",
+          "settings": {
+            "focal_point": "image_presentation",
+            "title": "Image with caption",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>"
+          }
+        },
+        "image_Eeifge": {
+          "type": "image",
+          "settings": {
+            "focal_point": "image_presentation",
+            "title": "Image with caption",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>"
+          }
+        },
+        "image_UEhLCL": {
+          "type": "image",
+          "settings": {
+            "focal_point": "image_presentation",
+            "title": "Image with caption",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_4NEqUD",
+        "image_cyjxmD",
+        "image_Eeifge",
+        "image_UEhLCL"
+      ],
+      "name": "t:sections.gallery_carousel.presets.name",
+      "settings": {
+        "heading": "Navegue pelos capítulos",
+        "heading_tag": "h2",
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "columns": "2",
+        "mobile_columns": "1",
+        "loop_carousel": true,
+        "aspect_ratio": "square",
+        "image_caption_style": "overlay",
+        "image_caption_size": "fs-body-100",
+        "overlay_text_background_style": "gradient",
+        "overlay_text_color": "#fff",
+        "overlay_text_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "enable_animation": true,
+        "content_width": "custom",
+        "custom_content_width": 650
+      }
+    },
+    "rich_text_EBDmdf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wEDDzx": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "text_b8DeaB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wEDDzx",
+        "text_b8DeaB"
+      ],
+      "name": "t:sections.rich_text.presets.name",
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    }
+  },
+  "order": [
+    "rich_text_Vwrjq4",
+    "gallery_carousel_z76gEX",
+    "main",
+    "rich_text_EBDmdf"
+  ]
+}
