@@ -178,8 +178,8 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Imagem_do_WhatsApp_de_2025-07-15_a_s_18.35.34_ba98c91a.jpg",
-            "image_mobile": "shopify://shop_images/banner_site_4.png",
+            "image": "shopify://shop_images/banner_site_6.png",
+            "image_mobile": "shopify://shop_images/banner_site_6.png",
             "focal_point": "left",
             "mobile_focal_point": "bottom",
             "title": "",
