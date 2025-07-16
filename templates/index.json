@@ -164,7 +164,7 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NERIAGE_15_10_20240525.webp",
+            "image": "shopify://shop_images/vestido_ismael_3_1.jpg",
             "focal_point": "right",
             "mobile_focal_point": "center",
             "title": "",
@@ -178,8 +178,8 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner_site_6.png",
-            "image_mobile": "shopify://shop_images/banner_site_6.png",
+            "image": "shopify://shop_images/banner_site_neri.sale.webp",
+            "image_mobile": "shopify://shop_images/banner_site_neri.sale.webp",
             "focal_point": "left",
             "mobile_focal_point": "bottom",
             "title": "",
