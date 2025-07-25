@@ -417,7 +417,7 @@
         "hotspot_yXg943": {
           "type": "hotspot",
           "settings": {
-            "product_item": "blazer-tarsila",
+            "product_item": "tunica-trico",
             "horizontal_position": 56,
             "vertical_position": 76
           }
@@ -425,7 +425,7 @@
         "hotspot_EEqMrL": {
           "type": "hotspot",
           "settings": {
-            "product_item": "calca-jeans",
+            "product_item": "saia-trico",
             "horizontal_position": 50,
             "vertical_position": 50
           }
@@ -436,7 +436,7 @@
         "hotspot_EEqMrL"
       ],
       "settings": {
-        "image": "shopify://shop_images/NERIAGE_15_10_20241269.jpg",
+        "image": "shopify://shop_images/NERIAGE_15_10_20240483_1_41403683-3c74-4b8b-b4de-271fa45450a8.jpg",
         "image_position": "left",
         "image_size": 51,
         "aspect_ratio": "portrait_alt",
