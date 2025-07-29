@@ -1,0 +1,480 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "enable_animation": true,
+        "content_width": "custom",
+        "custom_content_width": 650
+      }
+    },
+    "image_with_text_split_8Rw6iU": {
+      "type": "image-with-text-split",
+      "blocks": {
+        "heading_jchXLz": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "accent_yzA7Uk": {
+          "type": "accent",
+          "settings": {
+            "accent": ""
+          }
+        },
+        "text_LJUw9J": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>SOBRE A MARCA:</strong><br/><br/>Neriage nomeia uma técnica ancestral da cerâmica, onde argilas de cores distintas se fundem sem se dissolver cada uma preservando sua essência, mas criando juntas uma nova superfície, marmorizada, única.</p><p>É daí que viemos. Da mistura que respeita, do encontro que transforma sem apagar.<br/>Transpomos esse gesto para a roupa: quando tecidos se tocam sem se impor, e se costuram num novo idioma íntimo, silencioso, impossível de repetir.</p><p>Nosso processo é lento porque precisa escutar.<br/>Escutar o tecido antes do corte.<br/>Escutar o corpo antes do molde.<br/>Escutar o tempo antes da pressa. <br/>Criar, para nós, é conversar com a matéria.<br/>É deixar que as mãos falem, muitas mãos, muitos saberes, cada um imprimindo um traço, um afeto, uma intenção. <br/>Cada peça é um corpo de memória.<br/>É forma viva que carrega a história de quem a fez e de quem a veste.</p><p><strong>Neriage existe para vestir com presença.</strong><br/>Para tocar com leveza.<br/>Para durar além da estação.<br/>Porque o que é único, não tem pressa.<br/>E o que tem alma, permanece.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jchXLz",
+        "accent_yzA7Uk",
+        "text_LJUw9J"
+      ],
+      "settings": {
+        "image_position": "right",
+        "image_mobile_position": "above-content",
+        "image_padding": "none",
+        "image": "shopify://shop_images/4f5e98b7-fa98-4b31-8b7f-8d8f71839ef5.jpg",
+        "aspect_ratio": "square",
+        "focal_point": "image_presentation",
+        "content_alignment": "left",
+        "background_color": "rgba(0,0,0,0)",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "image_hero_split_fNDdWw": {
+      "type": "image-hero-split",
+      "blocks": {
+        "image_WBJphp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copia_de_20230117_NERIAGE_1985_1.webp",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "title": "",
+            "heading_tag": "h2",
+            "text": "",
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--primary"
+          }
+        },
+        "image_ErEG84": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/blusa_e_saia_fogo_3.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "title": "",
+            "heading_tag": "h2",
+            "text": "",
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "image_WBJphp",
+        "image_ErEG84"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 80,
+        "mobile_height": 100,
+        "text_position": "center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "image_with_text_split_iUCiDN": {
+      "type": "image-with-text-split",
+      "blocks": {
+        "heading_jiXQaT": {
+          "type": "heading",
+          "settings": {
+            "title": "Sustentabilidade",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "text_W9eGtY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A sustentabilidade nos três pilares (ambiental, econômico e social) é nossa principal preocupação em todas as etapas de fabricação. Além de uma produção 100% rastreada e feita no Brasil (desde os insumos à mão de obra), a cada coleção buscamos aumentar o percentual de tecidos com bases ecológicas e de pequenos produtores. </p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "border_ztRTMK": {
+          "type": "border",
+          "settings": {}
+        },
+        "text_Nb7xTr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>O único tipo de tecido que utilizamos que não é composto por fibras naturais é o crepe que usamos como base para plissar. Isto porque apenas tecidos sintéticos mantém a durabilidade das pregas – e a durabilidade é nosso ponto chave. Porém, todos os restos de tecido das nossas produções são enviados para o banco de tecidos (para reaproveitamento por outras empresas) e os pedaços menores são transformados em faixas para as peças ou são doados para associações que fazem reaproveitamento de retalhos.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jiXQaT",
+        "text_W9eGtY",
+        "border_ztRTMK",
+        "text_Nb7xTr"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_position": "left",
+        "image_mobile_position": "above-content",
+        "image_padding": "all-sides",
+        "image": "shopify://shop_images/Chapeu_Sereia_2_1_-_Editado.png",
+        "aspect_ratio": "landscape",
+        "focal_point": "image_presentation",
+        "content_alignment": "left",
+        "background_color": "rgba(0,0,0,0)",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "multi_column_fbB7Fw": {
+      "type": "multi-column",
+      "blocks": {
+        "column_NQyrf3": {
+          "type": "column",
+          "settings": {
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-1-base",
+            "text": "<p>A sustentabilidade nos três pilares (ambiental, econômico e social) é nossa principal preocupação em todas as etapas de fabricação. Além de uma produção 100% rastreada e feita no Brasil (desde os insumos à mão de obra), a cada coleção buscamos aumentar o percentual de tecidos com bases ecológicas e de pequenos produtores. </p><p>O único tipo de tecido que utilizamos que não é composto por fibras naturais é o crepe que usamos como base para plissar. Isto porque apenas tecidos sintéticos mantém a durabilidade das pregas – e a durabilidade é nosso ponto chave. Porém, todos os restos de tecido das nossas produções são enviados para o banco de tecidos (para reaproveitamento por outras empresas) e os pedaços menores são transformados em faixas para as peças ou são doados para associações que fazem reaproveitamento de retalhos.</p><p></p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 85,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "column_9etUqw": {
+          "type": "column",
+          "settings": {
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>No âmbito econômico, trabalhamos apenas com fornecedores certificados e acompanhamos de perto cada etapa da produção. Esse cuidado e essa valorização do ser humano por trás do processo, além da soma de conhecimentos e opiniões que fazem de nossas peças tão especiais, são o principal componente dos nossos custos. Anualmente também desenvolvemos projetos sociais em parceria com associações e levantamos fundos para diversas causas.</p><p><strong>Algumas parcerias já desenvolvidas:</strong></p><ul><li>cocriação de chapéus, bolsas e carteiras artesanais de fibra de buriti com o Projeto Akra, de Samuray Martins;<br/></li><li>cocriação de bolsas de tucum com a AMARN (Associação das Mulheres Indígenas do Alto do Rio Negro);</li><li>cocriação de bolsas e chapéus com as indígenas WARAO refugiadas da Venezuela e abrigadas pela Fraternidade Humanitária Internacional nos abrigos de Janokoida e Pintolândia (RR).</li></ul>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "column_NQyrf3",
+        "column_9etUqw"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Sustentabilidade",
+        "heading_tag": "h2",
+        "subheading": "",
+        "heading_font_class": "fs-heading-2-base",
+        "heading_alignment": "left",
+        "content_vertical_alignment": "top",
+        "content_background_padding": "medium",
+        "columns": "2",
+        "column_spacing": 28,
+        "row_spacing": 28,
+        "column_alignment": "left",
+        "enable_slider_mobile": false,
+        "columns_mobile": "1",
+        "column_spacing_mobile": 20,
+        "row_spacing_mobile": 20,
+        "column_alignment_mobile": "left",
+        "background_behind_columns": false,
+        "background_color": "",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "multi_column_6XNzQn": {
+      "type": "multi-column",
+      "blocks": {
+        "column_VXWjAV": {
+          "type": "column",
+          "settings": {
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<ul><li>cocriação de chapéus, bolsas e carteiras artesanais de fibra de buriti com o Projeto Akra, de Samuray Martins;</li></ul>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "column_896rrj": {
+          "type": "column",
+          "settings": {
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<ul><li>cocriação de bolsas de tucum com a AMARN (Associação das Mulheres Indígenas do Alto do Rio Negro);</li></ul>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "column_hTLTgb": {
+          "type": "column",
+          "settings": {
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<ul><li>cocriação de bolsas e chapéus com as indígenas WARAO refugiadas da Venezuela e abrigadas pela Fraternidade Humanitária Internacional nos abrigos de Janokoida e Pintolândia (RR).</li></ul>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "column_VXWjAV",
+        "column_896rrj",
+        "column_hTLTgb"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_tag": "h2",
+        "subheading": "<h5>Algumas parcerias já desenvolvidas:</h5>",
+        "heading_font_class": "fs-heading-3-base",
+        "heading_alignment": "left",
+        "content_vertical_alignment": "top",
+        "content_background_padding": "medium",
+        "columns": "3",
+        "column_spacing": 28,
+        "row_spacing": 28,
+        "column_alignment": "left",
+        "enable_slider_mobile": false,
+        "columns_mobile": "1",
+        "column_spacing_mobile": 20,
+        "row_spacing_mobile": 20,
+        "column_alignment_mobile": "left",
+        "background_behind_columns": false,
+        "background_color": "",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "image_hero_MmteAp": {
+      "type": "image-hero",
+      "disabled": true,
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 65,
+        "mobile_height": 100,
+        "image": "shopify://shop_images/siteD_9be36a87-ce04-4de6-b8a7-c9c375f68f12.jpg",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "media_link": "",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "multi_column_YYCVKA": {
+      "type": "multi-column",
+      "blocks": {
+        "column_gUfBLc": {
+          "type": "column",
+          "settings": {
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<h6>\"A tarefa não é tanto ver aquilo que ninguém viu, mas pensar o que ninguém ainda pensou sobre aquilo que todo mundo vê.\"</h6><h6>– Arthur Schopenhauer</h6>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 70,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "column_GaH6Wi": {
+          "type": "column",
+          "settings": {
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<h6><strong>NOSSOS CAMINHOS:</strong></h6><p>A Neriage nasce como marca em 2017, tornando-se uma evolução do projeto de conclusão de curso da estilista Rafaella Caniello, apresentado na Faculdade Santa Marcelina (São Paulo- SP) em 2016 e vencedor do primeiro lugar na graduação.<br/>O projeto se chamava “Neriage: a essência da matéria através das roupas” e defendia que tudo tem um caráter próprio e um tempo a ser respeitado, a beleza oculta nos seres, objetos e processos. Esse trabalho foi fundamentado com base na obra “O mundo como vontade e representação”, do filósofo alemão Arthur Schopenhauer.<br/><br/>Em maio de 2017, a Neriage fez seu desfile de estreia na Casa de Criadores, passando a integrar também o time de novos talentos da Vogue Brasil. Em abril de 2019, estreou na 47ª edição do São Paulo Fashion Week, entrando oficialmente no circuito da moda brasileira. Agora, seguimos em compasso próprio, desfilando uma coleção por ano, de forma independente.</p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "column_gUfBLc",
+        "column_GaH6Wi"
+      ],
+      "settings": {
+        "title": "",
+        "heading_tag": "h2",
+        "subheading": "",
+        "heading_font_class": "fs-heading-3-base",
+        "heading_alignment": "left",
+        "content_vertical_alignment": "top",
+        "content_background_padding": "medium",
+        "columns": "2",
+        "column_spacing": 28,
+        "row_spacing": 28,
+        "column_alignment": "left",
+        "enable_slider_mobile": false,
+        "columns_mobile": "1",
+        "column_spacing_mobile": 20,
+        "row_spacing_mobile": 20,
+        "column_alignment_mobile": "left",
+        "background_behind_columns": false,
+        "background_color": "",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-bottom-only"
+      }
+    },
+    "quote_yzta3z": {
+      "type": "quote",
+      "blocks": {
+        "quote_LgDh6T": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>\"A tarefa não é tanto ver aquilo que ninguém viu, mas pensar o que ninguém ainda pensou sobre aquilo que todo mundo vê.\"</p>",
+            "title": "Arthur Schopenhauer",
+            "quote_tag": "h4",
+            "font_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "quote_LgDh6T"
+      ],
+      "disabled": true,
+      "settings": {
+        "autoplay_enabled": true,
+        "autoplay_delay": 7,
+        "pagination_style": "dots",
+        "font_choice": "heading",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-bottom-only"
+      }
+    },
+    "rich_text_KVKizd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eeBQ6t": {
+          "type": "heading",
+          "settings": {
+            "title": "Nossos Caminhos",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "text_R6nkqy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A Neriage nasce como marca em 2017, tornando-se uma evolução do projeto de conclusão de curso da estilista Rafaella Caniello, apresentado na Faculdade Santa Marcelina (São Paulo- SP) em 2016 e vencedor do primeiro lugar na graduação.<br/>O projeto se chamava “Neriage: a essência da matéria através das roupas” e defendia que tudo tem um caráter próprio e um tempo a ser respeitado, a beleza oculta nos seres, objetos e processos. Esse trabalho foi fundamentado com base na obra “O mundo como vontade e representação”, do filósofo alemão Arthur Schopenhauer.<br/>Em maio de 2017, a Neriage faz seu desfile de estreia na Casa de Criadores e passa a integrar também o time de novos talentos da Vogue Brasil. Em abril de 2019, a marca estreia na 47ª edição do São Paulo Fashion Week, passando a fazer parte do calendário oficial da moda brasileira.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eeBQ6t",
+        "text_R6nkqy"
+      ],
+      "disabled": true,
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "full",
+        "custom_content_width": 700
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_split_8Rw6iU",
+    "image_hero_split_fNDdWw",
+    "image_with_text_split_iUCiDN",
+    "multi_column_fbB7Fw",
+    "multi_column_6XNzQn",
+    "image_hero_MmteAp",
+    "multi_column_YYCVKA",
+    "quote_yzta3z",
+    "rich_text_KVKizd"
+  ]
+}
