@@ -9,39 +9,6 @@
  */
 {
   "sections": {
-    "rich_text_Vwrjq4": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_HDb9Bb": {
-          "type": "heading",
-          "settings": {
-            "title": "Capítulos",
-            "heading_tag": "h2",
-            "heading_font_class": "fs-heading-2-base"
-          }
-        },
-        "text_kfg8Q7": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Quando Rafaella deu vida às primeiras coleções da Neriage, percebeu que não se via refletida nos conceitos tradicionais do mercado da moda, onde cada coleção narra uma história distinta. Para ela, suas criações são capítulos de um único livro, entrelaçando-se em uma narrativa contínua. Por isso, chamamos nossas coleções de capítulos: cada nova peça é uma extensão da anterior, uma evolução de sua essência. Explore o menu abaixo e mergulhe na nossa história, revelada através de nossos capítulos.<br/><br/></p>",
-            "text_font_class": "fs-body-100"
-          }
-        }
-      },
-      "block_order": [
-        "heading_HDb9Bb",
-        "text_kfg8Q7"
-      ],
-      "name": "t:sections.rich_text.presets.name",
-      "settings": {
-        "alignment": "left_left",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom",
-        "content_width": "custom",
-        "custom_content_width": 700
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -49,133 +16,6 @@
         "enable_animation": true,
         "content_width": "custom",
         "custom_content_width": 650
-      }
-    },
-    "gallery_carousel_n3gnQV": {
-      "type": "gallery-carousel",
-      "blocks": {
-        "image_BRkJar": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/neriage_23.jpg",
-            "focal_point": "image_presentation",
-            "title": "Capítulo 1",
-            "text": "<h3>Ensaio Sobre Nós</h3><p><a href=\"https://neriage.com.br/pages/capitulo-1-ensaio-sobre-nos#shopify-section-template--24014437482769__rich_text_pHjUjb\" title=\"https://neriage.com.br/pages/capitulo-1-ensaio-sobre-nos#shopify-section-template--24014437482769__rich_text_pHjUjb\">Visitar</a></p>"
-          }
-        },
-        "image_WHyqWQ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copia_de_neriage_campanha6812_1_45b46645-ff47-4860-87e3-518a294efa0a.webp",
-            "focal_point": "image_presentation",
-            "title": "Capítulo 2",
-            "text": "<h3>Trilha</h3><p><a href=\"https://neriage.com.br/pages/capitulo-2-trilha#shopify-section-template--24012704842001__rich_text_pHjUjb\" title=\"https://neriage.com.br/pages/capitulo-2-trilha#shopify-section-template--24012704842001__rich_text_pHjUjb\">Visitar</a></p>"
-          }
-        },
-        "image_3qKUfD": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copia_de_201022_MM_NERIAGE_0112w_1_e92e3428-549d-46fc-a233-8c807e048665.webp",
-            "focal_point": "image_presentation",
-            "title": "Capítulo 3",
-            "text": "<h3>Lampejo</h3><p><a href=\"https://neriage.com.br/pages/capitulo-3-lampejo#shopify-section-template--24012532187409__rich_text_pHjUjb\" title=\"https://neriage.com.br/pages/capitulo-3-lampejo#shopify-section-template--24012532187409__rich_text_pHjUjb\">Visitar</a></p>"
-          }
-        },
-        "image_3RtN4d": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copia_de_210606_MM_NERIAGE_0551_b0028d28-73f7-4803-97ff-48ac528fb8fc.jpg",
-            "focal_point": "image_presentation",
-            "title": "Capítulo 4",
-            "text": "<h3>Sonar</h3><p><a href=\"https://neriage.com.br/pages/capitulo-4-sonar#shopify-section-template--24012431917329__rich_text_pHjUjb\" title=\"https://neriage.com.br/pages/capitulo-4-sonar#shopify-section-template--24012431917329__rich_text_pHjUjb\">Visitar</a></p>"
-          }
-        },
-        "image_kxfh4d": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copia_de_neriage_lb_002_1_595d3019-dead-41d4-93ea-5ba5ff3c9741.webp",
-            "focal_point": "image_presentation",
-            "title": "Capítulo 5",
-            "text": "<h3>Argos</h3><p><a href=\"https://neriage.com.br/pages/capitulo-5-argos#shopify-section-template--24074198384913__rich_text_pHjUjb\" title=\"https://neriage.com.br/pages/capitulo-5-argos#shopify-section-template--24074198384913__rich_text_pHjUjb\">Visitar</a></p>"
-          }
-        },
-        "image_tLzhat": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copia_de_20230117_NERIAGE_1985_1_c97aada5-68fc-4cda-b1d2-edaf34fb30df.webp",
-            "focal_point": "image_presentation",
-            "title": "Capítulo 7",
-            "text": "<h3>Oásis</h3><p><a href=\"https://neriage.com.br/pages/capitulo-7-oasis#shopify-section-template--24012393152785__rich_text_pHjUjb\" title=\"https://neriage.com.br/pages/capitulo-7-oasis#shopify-section-template--24012393152785__rich_text_pHjUjb\">Visitar</a></p>"
-          }
-        },
-        "image_b6TKd8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copia_de_230818_NERIAGE_0254_copy_1_4b5c33b8-d74e-4fa4-a563-f61747341cab.webp",
-            "focal_point": "image_presentation",
-            "title": "Capítulo 8",
-            "text": "<h3>Cartas para Ítaca</h3><p><a href=\"https://neriage.com.br/pages/capitulo-8-cartas-para-itaca#shopify-section-template--24012339314961__rich_text_pHjUjb\" title=\"https://neriage.com.br/pages/capitulo-8-cartas-para-itaca#shopify-section-template--24012339314961__rich_text_pHjUjb\">Visitar</a></p>"
-          }
-        },
-        "image_p64CMq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copia_de_Neriage_30_01_24487410829_1_6edd0a7f-1f42-4c02-a9d1-7dc9294e6488.webp",
-            "focal_point": "image_presentation",
-            "title": "Capítulo 9",
-            "text": "<h3>Arquivo</h3><p><a href=\"https://neriage.com.br/pages/capitulo-9-arquivo#shopify-section-template--24016089907473__rich_text_pHjUjb\" title=\"https://neriage.com.br/pages/capitulo-9-arquivo#shopify-section-template--24016089907473__rich_text_pHjUjb\">Visitar</a></p>"
-          }
-        },
-        "image_GNwLRL": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copia_de_NERIAGE_SS25056212017_1_183c7165-043c-4f4e-a287-929708028ecb.webp",
-            "focal_point": "image_presentation",
-            "title": "Capítulo 10",
-            "text": "<h3>Andrômeda</h3><p><a href=\"https://neriage.com.br/pages/capitulo-10-andromeda#shopify-section-template--24012243271953__rich_text_pHjUjb\" title=\"https://neriage.com.br/pages/capitulo-10-andromeda#shopify-section-template--24012243271953__rich_text_pHjUjb\">Visitar</a></p>"
-          }
-        },
-        "image_LgpMYC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copia_de_blusa_e_saia_fogo_3_1_825b0e82-536b-4ae6-9287-2a84a32cc266.webp",
-            "focal_point": "image_presentation",
-            "title": "Capítulo 11",
-            "text": "<h3>2046</h3><p><a href=\"https://neriage.com.br/pages/capitulo-11-2046#shopify-section-template--24073888530705__rich_text_pHjUjb\" title=\"https://neriage.com.br/pages/capitulo-11-2046#shopify-section-template--24073888530705__rich_text_pHjUjb\">Visitar</a></p>"
-          }
-        }
-      },
-      "block_order": [
-        "image_BRkJar",
-        "image_WHyqWQ",
-        "image_3qKUfD",
-        "image_3RtN4d",
-        "image_kxfh4d",
-        "image_tLzhat",
-        "image_b6TKd8",
-        "image_p64CMq",
-        "image_GNwLRL",
-        "image_LgpMYC"
-      ],
-      "name": "t:sections.gallery_carousel.presets.name",
-      "settings": {
-        "heading": "Navegue pelos capítulos",
-        "heading_tag": "h2",
-        "subheading": "",
-        "link": "",
-        "link_text": "",
-        "columns": "4",
-        "mobile_columns": "2",
-        "loop_carousel": true,
-        "aspect_ratio": "portrait",
-        "image_caption_style": "overlay",
-        "image_caption_size": "fs-body-100",
-        "overlay_text_background_style": "gradient",
-        "overlay_text_color": "#ffffff",
-        "overlay_text_background": "#000000",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
       }
     },
     "rich_text_EBDmdf": {
@@ -213,9 +53,7 @@
     }
   },
   "order": [
-    "rich_text_Vwrjq4",
     "main",
-    "gallery_carousel_n3gnQV",
     "rich_text_EBDmdf"
   ]
 }
