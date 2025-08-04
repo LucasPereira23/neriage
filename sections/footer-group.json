@@ -11,96 +11,6 @@
   "type": "footer",
   "name": "t:groups.footer_group.name",
   "sections": {
-    "multi_column_rHTdKA": {
-      "type": "multi-column",
-      "blocks": {
-        "icon_column_NA6Dky": {
-          "type": "icon_column",
-          "settings": {
-            "icon": "moving-truck",
-            "icon_width": 30,
-            "icon_width_mobile": 30,
-            "accent": "ENTREGA PARA TODO O BRASIL",
-            "heading": "",
-            "heading_tag": "h3",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--primary"
-          }
-        },
-        "icon_column_FyBLwp": {
-          "type": "icon_column",
-          "settings": {
-            "icon": "bank",
-            "icon_width": 30,
-            "icon_width_mobile": 30,
-            "accent": "ATÉ 5X SEM JUROS",
-            "heading": "",
-            "heading_tag": "h3",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--primary"
-          }
-        },
-        "icon_column_reRFVN": {
-          "type": "icon_column",
-          "settings": {
-            "icon": "price-tag",
-            "icon_width": 30,
-            "icon_width_mobile": 30,
-            "accent": "10% OFF NA PRIMEIRA COMPRA",
-            "heading": "",
-            "heading_tag": "h3",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "icon_column_NA6Dky",
-        "icon_column_FyBLwp",
-        "icon_column_reRFVN"
-      ],
-      "settings": {
-        "title": "",
-        "heading_tag": "h2",
-        "subheading": "",
-        "heading_font_class": "fs-heading-3-base",
-        "heading_alignment": "left",
-        "content_vertical_alignment": "top",
-        "content_background_padding": "medium",
-        "columns": "3",
-        "column_spacing": 28,
-        "row_spacing": 28,
-        "column_alignment": "center",
-        "enable_slider_mobile": false,
-        "columns_mobile": "1",
-        "column_spacing_mobile": 20,
-        "row_spacing_mobile": 20,
-        "column_alignment_mobile": "center",
-        "background_behind_columns": false,
-        "background_color": "#101010",
-        "text_color": "#ffffff",
-        "button_background_color": "#000000",
-        "button_text_color": "#ffffff",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -178,7 +88,6 @@
     }
   },
   "order": [
-    "multi_column_rHTdKA",
     "footer"
   ]
 }
