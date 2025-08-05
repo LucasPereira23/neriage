@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_TfbV9t": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "title": "<p>Free standard shipping and returns on all orders</p>",
             "title_mobile": "",
@@ -24,6 +25,7 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "title": "<p>ENTREGA PARA TODO O BRASIL | 10% OFF NA PRIMEIRA COMPRA.</p>",
             "title_mobile": "<p>Entrega p/ todo o BR | 10% OFF na 1ª compra</p>",
@@ -33,7 +35,7 @@
         "announcement_HExRgY": {
           "type": "announcement",
           "settings": {
-            "title": "<p>Free standard shipping and returns on all orders</p>",
+            "title": "",
             "title_mobile": "",
             "link": ""
           }
