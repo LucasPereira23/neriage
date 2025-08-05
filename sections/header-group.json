@@ -48,7 +48,7 @@
         "enable_sticky_announcement_bar": "never",
         "autoplay_enabled": true,
         "autoplay_delay": 4,
-        "color_background": "#000000",
+        "color_background": "#8c1b1b",
         "color_text": "#ffffff"
       }
     },

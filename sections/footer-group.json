@@ -79,6 +79,7 @@
         "footer-3",
         "footer-4"
       ],
+      "disabled": true,
       "settings": {
         "enable_locale_selector": true,
         "enable_country_selector": true,
