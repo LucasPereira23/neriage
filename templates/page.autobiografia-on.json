@@ -73,8 +73,8 @@
         "button_Dhy6Hg": {
           "type": "button",
           "settings": {
-            "link": "",
-            "link_text": "EXPLORE",
+            "link": "https://neriage.com.br/collections/autobiografia",
+            "link_text": "EXPLORa",
             "button_style": "btn--secondary"
           }
         }
@@ -93,7 +93,7 @@
         "focal_point": "image_presentation",
         "image_caption": "",
         "show_small_image": false,
-        "image_small": "shopify://shop_images/TUNICA_GERIAO_4_NOVO.jpg",
+        "image_small": "shopify://shop_images/VESTIDO_BLANCHETT_5_NOVO.jpg",
         "image_small_aspect_ratio": "square",
         "image_small_focal_point": "image_presentation",
         "background_color": "#ffffff",
