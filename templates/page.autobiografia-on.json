@@ -57,7 +57,7 @@
         "image_MUFUPH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/LENCO_REINAPARRA_1.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-08-08_at_10.44.54.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "center",
             "title": "",
@@ -90,8 +90,8 @@
       "name": "t:sections.image_hero_split.presets.name",
       "settings": {
         "image_aspect": "original",
-        "desktop_height": 70,
-        "mobile_height": 70,
+        "desktop_height": 60,
+        "mobile_height": 50,
         "text_position": "flex-start",
         "text_color": "#FFFFFF",
         "button_background_color": "#FFFFFF",
