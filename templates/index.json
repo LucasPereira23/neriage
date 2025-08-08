@@ -284,6 +284,40 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
+    "countdown_bar_i8xxxA": {
+      "type": "countdown-bar",
+      "name": "t:sections.countdown_bar.presets.name",
+      "settings": {
+        "min_height": 60,
+        "min_height_mobile": 60,
+        "year": 2025,
+        "month": "august",
+        "day": "9",
+        "hour": "15",
+        "minute": "19",
+        "time_zone_selection": "shop",
+        "hide_timer_on_complete": false,
+        "timer_complete_message": "",
+        "heading": "CAPÍTULO 12",
+        "heading_tag": "h4",
+        "text": "<p>DESFILE + LANÇAMENTO AUTOBIOGRAFIA </p>",
+        "link": "shopify://collections",
+        "link_text": "",
+        "button_style": "btn--secondary",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "text_color": "#FFFFFF",
+        "button_background_color": "#FFFFFF",
+        "button_text_color": "#000000",
+        "background_color": "#9d2015",
+        "color_overlay": "#000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": false,
+        "full_width": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
     "rich_text_KWEjFW": {
       "type": "rich-text",
       "blocks": {
@@ -940,6 +974,7 @@
     "image_hero_split",
     "sales_banner",
     "countdown_bar_T6YCBW",
+    "countdown_bar_i8xxxA",
     "rich_text_KWEjFW",
     "sales_banner_ztXUyw",
     "featured_collection_grid_yCeHwq",
