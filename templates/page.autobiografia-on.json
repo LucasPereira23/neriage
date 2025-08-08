@@ -93,8 +93,8 @@
         "desktop_height": 60,
         "mobile_height": 50,
         "text_position": "flex-start",
-        "text_color": "#FFFFFF",
-        "button_background_color": "#FFFFFF",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
         "button_text_color": "rgba(0,0,0,0)",
         "color_overlay": "rgba(0,0,0,0)",
         "color_overlay_gradient": "",
@@ -142,7 +142,7 @@
         "image_GhkpWW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/TUNICA_GERIAO_4_1_novo.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-08-08_at_12.45.16.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "center",
             "title": "",
@@ -156,7 +156,7 @@
         "image_niVhpn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-08-05_at_11.53.53.jpg",
+            "image": "shopify://shop_images/VESTIDO_CARSON_4_novo.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "title": "",
@@ -178,8 +178,8 @@
         "desktop_height": 60,
         "mobile_height": 50,
         "text_position": "flex-start",
-        "text_color": "#FFFFFF",
-        "button_background_color": "#FFFFFF",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
         "button_text_color": "rgba(0,0,0,0)",
         "color_overlay": "rgba(0,0,0,0)",
         "color_overlay_gradient": "",
