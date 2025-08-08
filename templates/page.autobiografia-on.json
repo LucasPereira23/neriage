@@ -159,7 +159,7 @@
           "type": "button",
           "settings": {
             "link": "https://neriage.com.br/collections/autobiografia",
-            "link_text": "EXPLORA",
+            "link_text": "EXPLORAR",
             "button_style": "btn--secondary"
           }
         }
