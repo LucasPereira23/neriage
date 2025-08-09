@@ -164,13 +164,13 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/vestido_sem_alca_oswald_4.jpg",
+            "image": "shopify://shop_images/banner_site_autobiografia_2.webp",
             "focal_point": "right",
             "mobile_focal_point": "center",
             "title": "",
             "heading_tag": "h2",
-            "text": "<p><strong> 2046</strong></p>",
-            "link": "shopify://collections/onze",
+            "text": "",
+            "link": "shopify://collections/autobiografia",
             "link_text": "Explorar",
             "button_style": "btn--secondary"
           }
@@ -178,8 +178,8 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner_site_8.png",
-            "image_mobile": "shopify://shop_images/banner_site_8.png",
+            "image": "shopify://shop_images/banner_site_12.png",
+            "image_mobile": "shopify://shop_images/banner_site_12.png",
             "focal_point": "left",
             "mobile_focal_point": "bottom",
             "title": "",
@@ -406,8 +406,8 @@
       "settings": {
         "heading": "",
         "heading_tag": "h2",
-        "subheading": "<h6>2046</h6>",
-        "link": "shopify://collections/onze",
+        "subheading": "<h6>AUTOBIOGRAFIA</h6>",
+        "link": "shopify://collections/autobiografia",
         "link_text": "Ver todos",
         "maximum_collections": 8,
         "columns": "4",
