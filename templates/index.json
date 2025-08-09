@@ -286,6 +286,7 @@
     },
     "countdown_bar_i8xxxA": {
       "type": "countdown-bar",
+      "disabled": true,
       "name": "t:sections.countdown_bar.presets.name",
       "settings": {
         "min_height": 60,
@@ -341,6 +342,7 @@
         "heading_dyhtc8",
         "text_L8KGqf"
       ],
+      "disabled": true,
       "settings": {
         "alignment": "left_left",
         "enable_animation": false,
@@ -396,7 +398,7 @@
         "collection_7bAg3a": {
           "type": "collection",
           "settings": {
-            "collection": "onze"
+            "collection": "autobiografia"
           }
         }
       },
