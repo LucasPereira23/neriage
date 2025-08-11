@@ -165,10 +165,10 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/banner_site_autobiografia_2.webp",
-            "focal_point": "right",
-            "mobile_focal_point": "center",
+            "focal_point": "bottom",
+            "mobile_focal_point": "right",
             "title": "",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text": "",
             "link": "shopify://collections/autobiografia",
             "link_text": "Explorar",
@@ -199,7 +199,7 @@
         "image_aspect": "original",
         "desktop_height": 100,
         "mobile_height": 50,
-        "text_position": "center",
+        "text_position": "flex-end",
         "text_color": "#fcfcf9",
         "button_background_color": "#ffffff",
         "button_text_color": "#000000",
@@ -207,7 +207,7 @@
         "color_overlay_gradient": "",
         "overlay_opacity": 17,
         "enable_animation": true,
-        "section_padding": "section--vertical-padding-none"
+        "section_padding": "section--vertical-padding-top-bottom"
       }
     },
     "sales_banner": {
