@@ -333,7 +333,7 @@
         "text_L8KGqf": {
           "type": "text",
           "settings": {
-            "text": "<p>Atravessar o tempo sem atravessar o próprio corpo. Entre a névoa dos instantes, o presente se desmancha em ecos de um futuro que nunca chega e um passado que nunca se despede. Assim nasce <strong>2046</strong>, coleção que respira na cadência nostálgica dos filmes de Wong Kar Wai e se dissolve entre abstrações do tempo e do espaço, como um sonho que se desfaz ao amanhecer.</p>",
+            "text": "<p>Somos feitos de camadas, costuras, desvios e rasgos. Nossa pele é tecido. Nossa história, modelagem. E nossa coleção 12 — Autobiografia, é um espelho disso tudo. Inspirada na obra Autobiografia do Vermelho, de Anne Carson, esta coleção nasce onde a mitologia encontra o afeto, onde Hércules ama Gerião, onde o monstro não é vilão, é espelho. O vermelho, cor de sangue, de arte, de desejo, atravessa tudo. É emoção crua. É intensidade encarnada.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -342,7 +342,6 @@
         "heading_dyhtc8",
         "text_L8KGqf"
       ],
-      "disabled": true,
       "settings": {
         "alignment": "left_left",
         "enable_animation": false,
@@ -453,7 +452,7 @@
         "hotspot_yXg943": {
           "type": "hotspot",
           "settings": {
-            "product_item": "tunica-trico",
+            "product_item": "camisa-firmina",
             "horizontal_position": 56,
             "vertical_position": 76
           }
@@ -461,7 +460,7 @@
         "hotspot_EEqMrL": {
           "type": "hotspot",
           "settings": {
-            "product_item": "saia-trico",
+            "product_item": "saia-firmina",
             "horizontal_position": 50,
             "vertical_position": 50
           }
@@ -472,13 +471,13 @@
         "hotspot_EEqMrL"
       ],
       "settings": {
-        "image": "shopify://shop_images/NERIAGE_15_10_20240483_1_41403683-3c74-4b8b-b4de-271fa45450a8.jpg",
+        "image": "shopify://shop_images/SAIA_CAMISA_FIRMINA_novo_1.jpg",
         "image_position": "left",
         "image_size": 51,
         "aspect_ratio": "portrait_alt",
-        "heading": "2046",
+        "heading": "AUTOBIOGRAFIA",
         "heading_tag": "h2",
-        "subheading": "<p>Mais do que uma estética, a essência de 2046 se traduz na construção das peças, camadas e recortes sugerem memórias sobrepostas, fragmentos de histórias que jamais se encaixam por completo</p>",
+        "subheading": "<p>Cada peça da Neriage é um capítulo.<br/>Cada nuance, uma lembrança.<br/>Cada transição de textura, uma cicatriz bonita.<br/>Porque vestir também é lembrar.<br/>Vestir é declarar: \"eu estive aqui\".<br/><br/></p>",
         "link": "",
         "link_text": "",
         "button_style": "btn--callout",
