@@ -145,12 +145,11 @@
         },
         "image_UCNPAV": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/ASPEN_2.jpg",
+            "image": "shopify://shop_images/TRICOT_AUTOBIOGRAFIA_4.jpg",
             "focal_point": "image_presentation",
             "title": "Capítulo 12",
-            "text": "<p>AUTOBIOGRAFIA<br/><a href=\"https://55mp67ftfefrxual-70646268177.shopifypreview.com/pages?preview_key=e92da07a1bc5d1e79df5c588be388ad8\" title=\"https://55mp67ftfefrxual-70646268177.shopifypreview.com/pages?preview_key=e92da07a1bc5d1e79df5c588be388ad8\">Visitar</a></p>"
+            "text": "<p>AUTOBIOGRAFIA<br/><a href=\"/collections/autobiografia\" title=\"Autobiografia\">Visitar</a></p>"
           }
         }
       },
