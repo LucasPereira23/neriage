@@ -164,7 +164,7 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner_site_autobiografia_2.webp",
+            "image": "shopify://shop_images/banner_site_15.png",
             "focal_point": "bottom",
             "mobile_focal_point": "right",
             "title": "",
@@ -178,7 +178,7 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner_site_12.png",
+            "image": "shopify://shop_images/banner_site_14.png",
             "image_mobile": "shopify://shop_images/banner_site_12.png",
             "focal_point": "left",
             "mobile_focal_point": "bottom",
@@ -199,7 +199,7 @@
         "image_aspect": "original",
         "desktop_height": 100,
         "mobile_height": 50,
-        "text_position": "flex-end",
+        "text_position": "center",
         "text_color": "#fcfcf9",
         "button_background_color": "#ffffff",
         "button_text_color": "#000000",
