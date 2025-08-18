@@ -457,30 +457,6 @@
             "vertical_position": 76
           }
         },
-        "hotspot_JYcPXN": {
-          "type": "hotspot",
-          "settings": {
-            "product_item": "",
-            "horizontal_position": 50,
-            "vertical_position": 50
-          }
-        },
-        "hotspot_LGeiD3": {
-          "type": "hotspot",
-          "settings": {
-            "product_item": "",
-            "horizontal_position": 50,
-            "vertical_position": 50
-          }
-        },
-        "hotspot_EEqMrL": {
-          "type": "hotspot",
-          "settings": {
-            "product_item": "saia-firmina",
-            "horizontal_position": 50,
-            "vertical_position": 50
-          }
-        },
         "hotspot_HArEtD": {
           "type": "hotspot",
           "settings": {
@@ -492,9 +468,6 @@
       },
       "block_order": [
         "hotspot_yXg943",
-        "hotspot_JYcPXN",
-        "hotspot_LGeiD3",
-        "hotspot_EEqMrL",
         "hotspot_HArEtD"
       ],
       "settings": {
