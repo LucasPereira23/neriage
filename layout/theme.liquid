@@ -62,26 +62,101 @@
     {% render 'theme-setting-vars' %}
     {%- render 'theme-globals' -%}
 <script>
-/* Hotfix temporário: intercepta fetch para /sf_private_access_tokens */
 (function () {
-  if (!window.fetch) return;
-  var _fetch = window.fetch;
-  window.fetch = function(resource, init) {
+  if (!('fetch' in window)) return;
+
+  function shouldBlock(resource) {
     try {
       var url = (typeof resource === 'string') ? resource : (resource && resource.url);
-      if (url && url.indexOf('/sf_private_access_tokens') === 0) {
-        // Evita o 401 no cliente e não bloqueia o resto do carregamento
+      if (!url) return false;
+      // Normaliza para URL absoluta
+      var u = new URL(url, location.origin);
+      // Bloqueia /sf_private_access_tokens com ou sem querystring, relativo ou absoluto
+      return /\/sf_private_access_tokens(?:$|\?)/.test(u.pathname + (u.search || ''));
+    } catch (e) { return false; }
+  }
+
+  function wrapFetch(orig) {
+    return function(resource, init) {
+      if (shouldBlock(resource)) {
         return Promise.resolve(new Response('{}', {
           status: 204,
           headers: { 'Content-Type': 'application/json' }
         }));
       }
-    } catch (e) { /* no-op */ }
-    return _fetch.apply(this, arguments);
-  };
+      return orig.apply(this, arguments);
+    };
+  }
+
+  var original = window.fetch;
+  var wrapped  = wrapFetch(original);
+  window.fetch = wrapped;
+
+  // Reaplica caso algum script sobrescreva fetch depois
+  var guard = setInterval(function() {
+    if (window.fetch !== wrapped) {
+      try {
+        original = window.fetch;
+        wrapped  = wrapFetch(original);
+        window.fetch = wrapped;
+      } catch (e) {}
+    }
+  }, 100);
+
+  window.addEventListener('load', function() {
+    setTimeout(function(){ clearInterval(guard); }, 1500);
+  });
 })();
 </script>
     {{ content_for_header }}
+
+<script>
+(function () {
+  if (!('fetch' in window)) return;
+
+  function shouldBlock(resource) {
+    try {
+      var url = (typeof resource === 'string') ? resource : (resource && resource.url);
+      if (!url) return false;
+      // Normaliza para URL absoluta
+      var u = new URL(url, location.origin);
+      // Bloqueia /sf_private_access_tokens com ou sem querystring, relativo ou absoluto
+      return /\/sf_private_access_tokens(?:$|\?)/.test(u.pathname + (u.search || ''));
+    } catch (e) { return false; }
+  }
+
+  function wrapFetch(orig) {
+    return function(resource, init) {
+      if (shouldBlock(resource)) {
+        return Promise.resolve(new Response('{}', {
+          status: 204,
+          headers: { 'Content-Type': 'application/json' }
+        }));
+      }
+      return orig.apply(this, arguments);
+    };
+  }
+
+  var original = window.fetch;
+  var wrapped  = wrapFetch(original);
+  window.fetch = wrapped;
+
+  // Reaplica caso algum script sobrescreva fetch depois
+  var guard = setInterval(function() {
+    if (window.fetch !== wrapped) {
+      try {
+        original = window.fetch;
+        wrapped  = wrapFetch(original);
+        window.fetch = wrapped;
+      } catch (e) {}
+    }
+  }, 100);
+
+  window.addEventListener('load', function() {
+    setTimeout(function(){ clearInterval(guard); }, 1500);
+  });
+})();
+</script>    
   </head>
 
   <body class="template-{{ request.page_type | handle }}">
