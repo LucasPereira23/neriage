@@ -71,7 +71,7 @@
       if (!url) return false;
       // Normaliza para URL absoluta
       var u = new URL(url, location.origin);
-      // Bloqueia /sf_private_access_tokens com ou sem querystring, relativo ou absoluto
+      // Bloqueia chamadas para /sf_private_access_tokens
       return /\/sf_private_access_tokens(?:$|\?)/.test(u.pathname + (u.search || ''));
     } catch (e) { return false; }
   }
@@ -79,8 +79,9 @@
   function wrapFetch(orig) {
     return function(resource, init) {
       if (shouldBlock(resource)) {
+        // Retorna JSON válido com status 200
         return Promise.resolve(new Response('{}', {
-          status: 204,
+          status: 200,
           headers: { 'Content-Type': 'application/json' }
         }));
       }
@@ -103,6 +104,7 @@
     }
   }, 100);
 
+  // Para o guard após o load (economia)
   window.addEventListener('load', function() {
     setTimeout(function(){ clearInterval(guard); }, 1500);
   });
@@ -120,7 +122,7 @@
       if (!url) return false;
       // Normaliza para URL absoluta
       var u = new URL(url, location.origin);
-      // Bloqueia /sf_private_access_tokens com ou sem querystring, relativo ou absoluto
+      // Bloqueia chamadas para /sf_private_access_tokens
       return /\/sf_private_access_tokens(?:$|\?)/.test(u.pathname + (u.search || ''));
     } catch (e) { return false; }
   }
@@ -128,8 +130,9 @@
   function wrapFetch(orig) {
     return function(resource, init) {
       if (shouldBlock(resource)) {
+        // Retorna JSON válido com status 200
         return Promise.resolve(new Response('{}', {
-          status: 204,
+          status: 200,
           headers: { 'Content-Type': 'application/json' }
         }));
       }
@@ -152,11 +155,12 @@
     }
   }, 100);
 
+  // Para o guard após o load (economia)
   window.addEventListener('load', function() {
     setTimeout(function(){ clearInterval(guard); }, 1500);
   });
 })();
-</script>    
+</script>   
   </head>
 
   <body class="template-{{ request.page_type | handle }}">
