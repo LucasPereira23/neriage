@@ -61,7 +61,26 @@
     {% render 'theme-setup' %}
     {% render 'theme-setting-vars' %}
     {%- render 'theme-globals' -%}
-
+<script>
+/* Hotfix temporário: intercepta fetch para /sf_private_access_tokens */
+(function () {
+  if (!window.fetch) return;
+  var _fetch = window.fetch;
+  window.fetch = function(resource, init) {
+    try {
+      var url = (typeof resource === 'string') ? resource : (resource && resource.url);
+      if (url && url.indexOf('/sf_private_access_tokens') === 0) {
+        // Evita o 401 no cliente e não bloqueia o resto do carregamento
+        return Promise.resolve(new Response('{}', {
+          status: 204,
+          headers: { 'Content-Type': 'application/json' }
+        }));
+      }
+    } catch (e) { /* no-op */ }
+    return _fetch.apply(this, arguments);
+  };
+})();
+</script>
     {{ content_for_header }}
   </head>
 
