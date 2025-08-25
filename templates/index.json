@@ -318,7 +318,6 @@
     },
     "countdown_bar_i8xxxA": {
       "type": "countdown-bar",
-      "disabled": true,
       "name": "t:sections.countdown_bar.presets.name",
       "settings": {
         "min_height": 60,
@@ -331,9 +330,9 @@
         "time_zone_selection": "shop",
         "hide_timer_on_complete": false,
         "timer_complete_message": "",
-        "heading": "CAPÍTULO 12",
+        "heading": "NERIAGE + BIRD&CO",
         "heading_tag": "h4",
-        "text": "<p>DESFILE + LANÇAMENTO AUTOBIOGRAFIA </p>",
+        "text": "<p>VENDA SAPATOS ACERVO DESFILE - AUTOBIOGRAFIA</p>",
         "link": "shopify://collections",
         "link_text": "",
         "button_style": "btn--secondary",
@@ -342,7 +341,7 @@
         "text_color": "#ffffff",
         "button_background_color": "#ffffff",
         "button_text_color": "#000000",
-        "background_color": "#9d2015",
+        "background_color": "#000000",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
         "overlay_opacity": 0,
