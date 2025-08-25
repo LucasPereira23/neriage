@@ -318,16 +318,15 @@
     },
     "countdown_bar_i8xxxA": {
       "type": "countdown-bar",
-      "disabled": true,
       "name": "t:sections.countdown_bar.presets.name",
       "settings": {
         "min_height": 60,
         "min_height_mobile": 60,
-        "year": 1,
+        "year": 2025,
         "month": "august",
-        "day": "9",
-        "hour": "17",
-        "minute": "19",
+        "day": "26",
+        "hour": "23",
+        "minute": "59",
         "time_zone_selection": "shop",
         "hide_timer_on_complete": false,
         "timer_complete_message": "",
@@ -346,7 +345,7 @@
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
         "overlay_opacity": 0,
-        "enable_animation": false,
+        "enable_animation": true,
         "full_width": true,
         "section_padding": "section--vertical-padding-none"
       }
