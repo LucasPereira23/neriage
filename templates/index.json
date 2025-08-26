@@ -201,7 +201,7 @@
             "mobile_focal_point": "right",
             "title": "",
             "heading_tag": "h3",
-            "text": "",
+            "text": "<p>Lançamento Autobiografia</p>",
             "link": "shopify://collections/autobiografia",
             "link_text": "Explorar",
             "button_style": "btn--secondary"
@@ -217,7 +217,7 @@
             "title": "",
             "heading_tag": "h2",
             "text": "",
-            "link": "shopify://collections/autobiografia",
+            "link": "https://www.neriage.com.br/collections/autobiografia/products/scarpin-blue-bird",
             "link_text": "",
             "button_style": "btn--secondary"
           }
