@@ -480,10 +480,18 @@
     "shoppable_feature_xWX7DV": {
       "type": "shoppable-feature",
       "blocks": {
+        "hotspot_LMR7jU": {
+          "type": "hotspot",
+          "settings": {
+            "product_item": "",
+            "horizontal_position": 50,
+            "vertical_position": 50
+          }
+        },
         "hotspot_yXg943": {
           "type": "hotspot",
           "settings": {
-            "product_item": "top-lygia",
+            "product_item": "top-carson",
             "horizontal_position": 56,
             "vertical_position": 76
           }
@@ -491,13 +499,14 @@
         "hotspot_HArEtD": {
           "type": "hotspot",
           "settings": {
-            "product_item": "preto",
+            "product_item": "calca-saia",
             "horizontal_position": 50,
             "vertical_position": 50
           }
         }
       },
       "block_order": [
+        "hotspot_LMR7jU",
         "hotspot_yXg943",
         "hotspot_HArEtD"
       ],
