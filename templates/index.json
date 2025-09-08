@@ -196,7 +196,7 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner_site_23.png",
+            "image": "shopify://shop_images/8_dbdd8837-7453-492d-b8ba-b212a3cc8f35.png",
             "focal_point": "bottom",
             "mobile_focal_point": "right",
             "title": "",
@@ -210,8 +210,8 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/00_8_novo.jpg",
-            "image_mobile": "shopify://shop_images/00_8_novo.jpg",
+            "image": "shopify://shop_images/00_2.jpg",
+            "image_mobile": "shopify://shop_images/00_2.jpg",
             "focal_point": "left",
             "mobile_focal_point": "bottom",
             "title": "",
