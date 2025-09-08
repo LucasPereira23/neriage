@@ -501,7 +501,7 @@
           "type": "hotspot",
           "settings": {
             "product_item": "calca-saia",
-            "horizontal_position": 50,
+            "horizontal_position": 53,
             "vertical_position": 50
           }
         }
@@ -512,7 +512,7 @@
         "hotspot_HArEtD"
       ],
       "settings": {
-        "image": "shopify://shop_images/TOP_CARSON_novo_1.jpg",
+        "image": "shopify://shop_images/TOP_CARSONnovo.jpg",
         "image_position": "left",
         "image_size": 51,
         "aspect_ratio": "portrait_alt",
