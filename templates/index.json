@@ -196,12 +196,12 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/8_dbdd8837-7453-492d-b8ba-b212a3cc8f35.png",
+            "image": "shopify://shop_images/00_2.jpg",
             "focal_point": "bottom",
             "mobile_focal_point": "right",
             "title": "",
             "heading_tag": "h3",
-            "text": "",
+            "text": "<p>Autobiografia l Capítulo 12</p>",
             "link": "shopify://collections/autobiografia",
             "link_text": "Explorar",
             "button_style": "btn--secondary"
@@ -210,7 +210,7 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/00_2.jpg",
+            "image": "shopify://shop_images/8_dbdd8837-7453-492d-b8ba-b212a3cc8f35.png",
             "image_mobile": "shopify://shop_images/00_2.jpg",
             "focal_point": "left",
             "mobile_focal_point": "bottom",
