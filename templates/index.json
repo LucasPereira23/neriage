@@ -318,6 +318,7 @@
     },
     "countdown_bar_i8xxxA": {
       "type": "countdown-bar",
+      "disabled": true,
       "name": "t:sections.countdown_bar.presets.name",
       "settings": {
         "min_height": 60,
