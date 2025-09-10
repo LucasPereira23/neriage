@@ -502,8 +502,8 @@
           "type": "hotspot",
           "settings": {
             "product_item": "calca-saia",
-            "horizontal_position": 53,
-            "vertical_position": 50
+            "horizontal_position": 49,
+            "vertical_position": 32
           }
         }
       },
