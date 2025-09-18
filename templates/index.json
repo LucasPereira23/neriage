@@ -196,12 +196,12 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/LENCO_ESTAMPADO_REGINA_PARRA_1.jpg",
+            "image": "shopify://shop_images/CALCA_ASPEN_2.jpg",
             "focal_point": "bottom",
             "mobile_focal_point": "right",
             "title": "",
             "heading_tag": "h3",
-            "text": "<p>Autobiografia l Capítulo 12</p>",
+            "text": "<p>NERIAGE l TENCEL™ l TEXTIL CARMEM</p>",
             "link": "shopify://collections/autobiografia",
             "link_text": "Explorar",
             "button_style": "btn--secondary"
