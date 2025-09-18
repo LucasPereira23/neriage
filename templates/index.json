@@ -196,12 +196,12 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ASPEN_novo_4.jpg",
+            "image": "shopify://shop_images/Design_sem_nome_3_889c45a1-2fc2-4222-a7c3-1fa6f9552fac.png",
             "focal_point": "bottom",
             "mobile_focal_point": "right",
             "title": "",
             "heading_tag": "h3",
-            "text": "<p>NERIAGE l TENCEL™ l TEXTIL CARMEM</p>",
+            "text": "",
             "link": "shopify://collections/neriage-tencel-tm-x-textil-carmem",
             "link_text": "Explorar",
             "button_style": "btn--secondary"
