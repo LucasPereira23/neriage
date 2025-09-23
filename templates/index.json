@@ -210,8 +210,8 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BannerCli_1.jpg",
-            "image_mobile": "shopify://shop_images/BannerCli_1.jpg",
+            "image": "shopify://shop_images/banner_certo.jpg",
+            "image_mobile": "shopify://shop_images/banner_certo.jpg",
             "focal_point": "right",
             "mobile_focal_point": "bottom",
             "title": "",
