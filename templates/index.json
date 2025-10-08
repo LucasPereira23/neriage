@@ -493,15 +493,15 @@
         "hotspot_yXg943": {
           "type": "hotspot",
           "settings": {
-            "product_item": "blazer-piaf",
-            "horizontal_position": 50,
-            "vertical_position": 56
+            "product_item": "blusa-geriao",
+            "horizontal_position": 52,
+            "vertical_position": 61
           }
         },
         "hotspot_HArEtD": {
           "type": "hotspot",
           "settings": {
-            "product_item": "calca-piaf",
+            "product_item": "calca-geriao",
             "horizontal_position": 49,
             "vertical_position": 32
           }
@@ -513,9 +513,9 @@
         "hotspot_HArEtD"
       ],
       "settings": {
-        "image": "shopify://shop_images/BLAZER_PIAF_3.jpg",
+        "image": "shopify://shop_images/BLUSA_FRENTEUNICA_GERIAO_6.jpg",
         "image_position": "left",
-        "image_size": 51,
+        "image_size": 56,
         "aspect_ratio": "portrait_alt",
         "heading": "",
         "heading_tag": "h2",
