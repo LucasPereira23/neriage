@@ -196,13 +196,13 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/t1.png",
+            "image": "shopify://shop_images/04a24c58-328b-4d5c-8234-c6c91b8f0d44.jpg",
             "focal_point": "bottom",
             "mobile_focal_point": "right",
             "title": "",
             "heading_tag": "h3",
-            "text": "",
-            "link": "shopify://collections/neriage-tencel-tm-x-textil-carmem",
+            "text": "<p>Autobiografia l Lançamento</p>",
+            "link": "https://www.neriage.com.br/collections/autobiografia",
             "link_text": "Explorar",
             "button_style": "btn--secondary"
           }
@@ -210,14 +210,14 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ff4ffe5a-b651-4da7-a641-e4874315d2b1.jpg",
-            "image_mobile": "shopify://shop_images/ff4ffe5a-b651-4da7-a641-e4874315d2b1.jpg",
+            "image": "shopify://shop_images/00_8_novo.jpg",
+            "image_mobile": "shopify://shop_images/00_8_novo.jpg",
             "focal_point": "right",
             "mobile_focal_point": "bottom",
             "title": "",
             "heading_tag": "h2",
             "text": "",
-            "link": "shopify://collections/autobiografia",
+            "link": "https://www.neriage.com.br/collections/autobiografia/products/saia-gerao",
             "link_text": "",
             "button_style": "btn--secondary"
           }
