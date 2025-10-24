@@ -202,7 +202,7 @@
             "title": "",
             "heading_tag": "h3",
             "text": "<p>Autobiografia l Lançamento</p>",
-            "link": "https://www.neriage.com.br/collections/autobiografia",
+            "link": "https://www.neriage.com.br/collections/autobiografia/products/calca-bowie",
             "link_text": "Explorar",
             "button_style": "btn--secondary"
           }
@@ -210,14 +210,14 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/00_8_novo.jpg",
-            "image_mobile": "shopify://shop_images/00_8_novo.jpg",
+            "image": "shopify://shop_images/CAMISETA_REGINAPARRA2_2.jpg",
+            "image_mobile": "shopify://shop_images/CAMISETA_REGINAPARRA2_2.jpg",
             "focal_point": "right",
             "mobile_focal_point": "bottom",
             "title": "",
             "heading_tag": "h2",
             "text": "",
-            "link": "https://www.neriage.com.br/collections/autobiografia/products/saia-gerao",
+            "link": "shopify://collections/autobiografia",
             "link_text": "",
             "button_style": "btn--secondary"
           }
