@@ -490,14 +490,6 @@
             "vertical_position": 50
           }
         },
-        "hotspot_yXg943": {
-          "type": "hotspot",
-          "settings": {
-            "product_item": "blazer-carson",
-            "horizontal_position": 50,
-            "vertical_position": 53
-          }
-        },
         "hotspot_gTxjQR": {
           "type": "hotspot",
           "settings": {
@@ -517,7 +509,6 @@
       },
       "block_order": [
         "hotspot_LMR7jU",
-        "hotspot_yXg943",
         "hotspot_gTxjQR",
         "hotspot_HArEtD"
       ],
