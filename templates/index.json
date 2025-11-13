@@ -493,15 +493,23 @@
         "hotspot_yXg943": {
           "type": "hotspot",
           "settings": {
-            "product_item": "top-tarsila",
+            "product_item": "blazer-carson",
             "horizontal_position": 50,
             "vertical_position": 70
+          }
+        },
+        "hotspot_czU4rT": {
+          "type": "hotspot",
+          "settings": {
+            "product_item": "",
+            "horizontal_position": 50,
+            "vertical_position": 50
           }
         },
         "hotspot_HArEtD": {
           "type": "hotspot",
           "settings": {
-            "product_item": "saia-tarsila",
+            "product_item": "calca-saia",
             "horizontal_position": 49,
             "vertical_position": 32
           }
@@ -510,10 +518,11 @@
       "block_order": [
         "hotspot_LMR7jU",
         "hotspot_yXg943",
+        "hotspot_czU4rT",
         "hotspot_HArEtD"
       ],
       "settings": {
-        "image": "shopify://shop_images/NERIAGE_15_10_20241054_1.jpg",
+        "image": "shopify://shop_images/BLAZER_CARSON_1_32R2.jpg",
         "image_position": "left",
         "image_size": 56,
         "aspect_ratio": "portrait_alt",
