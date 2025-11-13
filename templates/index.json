@@ -196,13 +196,13 @@
         "image_2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BannerNeriNovembro1_1.jpg",
+            "image": "shopify://shop_images/BannerNeriNovembro3.jpg",
             "focal_point": "bottom",
             "mobile_focal_point": "right",
             "title": "",
             "heading_tag": "h3",
-            "text": "<p>NERINOVEMBRO </p>",
-            "link": "https://www.neriage.com.br/collections/nerinovembro-vip",
+            "text": "<p>AUTOBIOGRAFIA </p>",
+            "link": "shopify://collections/autobiografia",
             "link_text": "Explorar",
             "button_style": "btn--secondary"
           }
@@ -210,8 +210,8 @@
         "image_1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BannerNeriNovembro2.jpg",
-            "image_mobile": "shopify://shop_images/BannerNeriNovembro2.jpg",
+            "image": "shopify://shop_images/Banner2NeriNovembro4.jpg",
+            "image_mobile": "shopify://shop_images/Banner2NeriNovembro4.jpg",
             "focal_point": "right",
             "mobile_focal_point": "bottom",
             "title": "",
